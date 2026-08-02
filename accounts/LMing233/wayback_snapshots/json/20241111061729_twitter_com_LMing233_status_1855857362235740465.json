@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1855857307726610432"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1855857362235740465",
+    "created_at": "2024-11-11T06:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T07:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1855857362235740465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T0FANGRiup",
+          "end": 32,
+          "expanded_url": "https://x.com/LMing233/status/1855857362235740465/video/1",
+          "media_key": "7_1855857307726610432",
+          "start": 9,
+          "url": "https://t.co/T0FANGRiup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855857362235740465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "点进来听小猫骂人 https://t.co/T0FANGRiup"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6441,
+        "height": 540,
+        "media_key": "7_1855857307726610432",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1855857307726610432/pu/img/oTfKZBPtjLRvr72n.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855857307726610432/pu/vid/avc1/480x270/rYjVJvD_icW0dx8v.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855857307726610432/pu/vid/avc1/640x360/WZhzKSaQa4picpN4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855857307726610432/pu/vid/avc1/960x540/SBXwJstgflQsTuZT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1855857307726610432/pu/pl/Diprbakwv9RDkIiS.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1855857307726610432"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1855857362235740465",
+        "created_at": "2024-11-11T06:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T07:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855857362235740465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T0FANGRiup",
+              "end": 32,
+              "expanded_url": "https://x.com/LMing233/status/1855857362235740465/video/1",
+              "media_key": "7_1855857307726610432",
+              "start": 9,
+              "url": "https://t.co/T0FANGRiup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855857362235740465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点进来听小猫骂人 https://t.co/T0FANGRiup"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/男m/傻逼长发男",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850177714168397824/9VpLpWNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 219,
+          "like_count": 292,
+          "listed_count": 0,
+          "tweet_count": 40
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

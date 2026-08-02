@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1956013163260076397",
+    "created_at": "2025-08-14T15:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T16:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956013289483460913"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1956013289483460913",
+    "in_reply_to_user_id": "1036167674470879232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956013163260076397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我22年开学特意买的特等座放行李但是我现在没钱了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1956013163260076397",
+        "created_at": "2025-08-14T15:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T16:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956013289483460913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956013289483460913",
+        "in_reply_to_user_id": "1036167674470879232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956013163260076397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我22年开学特意买的特等座放行李但是我现在没钱了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1956013163260076397",
+        "created_at": "2025-08-14T15:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T16:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956013163260076397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lming233/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/lming233/status/1955852395264557111",
+              "start": 17,
+              "url": "https://t.co/yoC1WTCl6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956013163260076397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955852395264557111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在思考我怎么把这些东西搬上火车 https://t.co/yoC1WTCl6Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "这个世界会好吗",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1955262173204173269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 67,
+          "like_count": 824,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 243
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

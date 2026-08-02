@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1989527816644575324",
+    "created_at": "2025-11-15T02:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T03:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989527816644575324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/limo_0829/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/limo_0829/status/1988897879683928419",
+          "start": 5,
+          "url": "https://t.co/0QNq75TjKc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989527816644575324",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988897879683928419",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接地雷妹 https://t.co/0QNq75TjKc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1988897871593402368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5n8E5ra8AAkKoY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1989527816644575324",
+        "created_at": "2025-11-15T02:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T03:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989527816644575324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/limo_0829/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/limo_0829/status/1988897879683928419",
+              "start": 5,
+              "url": "https://t.co/0QNq75TjKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989527816644575324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988897879683928419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接地雷妹 https://t.co/0QNq75TjKc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988897871593402368"
+          ]
+        },
+        "author_id": "1961430478701182976",
+        "conversation_id": "1988897879683928419",
+        "created_at": "2025-11-13T09:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T10:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988897879683928419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t1eiwfaLY6",
+              "end": 23,
+              "expanded_url": "https://x.com/limo_0829/status/1988897879683928419/photo/1",
+              "media_key": "3_1988897871593402368",
+              "start": 0,
+              "url": "https://t.co/t1eiwfaLY6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988897879683928419",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 133633,
+          "like_count": 1327,
+          "quote_count": 8,
+          "reply_count": 18,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/t1eiwfaLY6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我是男的丨infp丨可以叫我椰子丨西音 摇滚 术力口丨舞萌 任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 等丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "location": "总有一天我会回到你身边",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983749067361677312/-UaapTrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 65,
+          "like_count": 1123,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 311
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T14:07:33.000Z",
+        "description": "生活号，成分：世界计划，bang dream，魔裁，女声优痴。选择性互fo",
+        "id": "1961430478701182976",
+        "name": "雪莉不是雪梨",
+        "pinned_tweet_id": "1961433650559685107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984627474148573187/deHW3wsc_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 516,
+          "like_count": 3466,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1354
+        },
+        "username": "limo_0829",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1952550268366909849",
+    "created_at": "2025-08-05T02:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T03:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952554274484875524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1936255039351529472",
+          "start": 0,
+          "username": "nai_mao15515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952554274484875524",
+    "in_reply_to_user_id": "1936255039351529472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952554164711460954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nai_mao15515 主人🥺🤲🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1952550268366909849",
+        "created_at": "2025-08-05T02:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T03:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952554274484875524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1936255039351529472",
+              "start": 0,
+              "username": "nai_mao15515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952554274484875524",
+        "in_reply_to_user_id": "1936255039351529472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952554164711460954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nai_mao15515 主人🥺🤲🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936255039351529472",
+        "conversation_id": "1952550268366909849",
+        "created_at": "2025-08-05T02:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T03:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952554164711460954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1036167674470879232",
+              "start": 0,
+              "username": "LMing233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952554164711460954",
+        "in_reply_to_user_id": "1036167674470879232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952553215506915676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMing233 叫主人🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 54,
+          "like_count": 547,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 112
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T02:49:31.000Z",
+        "description": "禁止喵喵天",
+        "id": "1936255039351529472",
+        "name": "喵的",
+        "pinned_tweet_id": "1951823479256629667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951093784642523137/dHYhIWJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 19,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 358
+        },
+        "username": "nai_mao15515",
+        "verified": false
+      }
+    ]
+  }
+}

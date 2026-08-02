@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1951484666835554593",
+    "created_at": "2025-08-03T06:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T07:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951899882798887240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1857471601454768128",
+          "start": 0,
+          "username": "ScreamButSilent"
+        },
+        {
+          "end": 27,
+          "id": "1941910581646438401",
+          "start": 17,
+          "username": "Nicole77z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951899882798887240",
+    "in_reply_to_user_id": "1857471601454768128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951484666835554593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScreamButSilent @Nicole77z 我不一样被骂我就摇尾巴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1951484666835554593",
+        "created_at": "2025-08-03T06:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T07:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951899882798887240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1857471601454768128",
+              "start": 0,
+              "username": "ScreamButSilent"
+            },
+            {
+              "end": 27,
+              "id": "1941910581646438401",
+              "start": 17,
+              "username": "Nicole77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951899882798887240",
+        "in_reply_to_user_id": "1857471601454768128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951484666835554593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScreamButSilent @Nicole77z 我不一样被骂我就摇尾巴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857471601454768128",
+        "conversation_id": "1951484666835554593",
+        "created_at": "2025-08-02T03:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T04:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951484666835554593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951484666835554593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 17316,
+          "like_count": 345,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "中国人还是适合sweet talk吧，因为从小被dirty talk太多了，已经有免疫机制了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨INFP丨1im/puppy丨碎碎念丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 115,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 86
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T17:12:16.000Z",
+        "description": "死后务必魂分魄散｜经常性失踪…想到什么写什么 感到幸福的时候会停笔｜不聊骚不搞黄不线下，🚪88/188加v看我萌萌朋友圈｜⚠️推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=R7AK9x7D",
+                "start": 0,
+                "url": "https://t.co/u4HBwQZuoK"
+              }
+            ]
+          }
+        },
+        "id": "1857471601454768128",
+        "location": "自用蜂鸟VPN👉",
+        "name": "梨从",
+        "pinned_tweet_id": "1931283850761830468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951339058296492032/UNi55i-E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 318,
+          "like_count": 746,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 3194
+        },
+        "url": "https://t.co/u4HBwQZuoK",
+        "username": "ScreamButSilent",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-06T17:22:27.000Z",
+        "description": "05♌️｜间歇性分享欲旺盛 | 女宝无论是谁都来和我玩｜不喜欢没礼貌的人 感觉被冒犯了直接拉黑｜互关私信都会回 其他的随缘 不回就是不感兴趣｜只是无属性的普通人",
+        "id": "1941910581646438401",
+        "name": "Nicole",
+        "pinned_tweet_id": "1950849617588891717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951574087756836864/A1xn24fU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 34,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 244
+        },
+        "username": "Nicole77z",
+        "verified": false
+      }
+    ]
+  }
+}

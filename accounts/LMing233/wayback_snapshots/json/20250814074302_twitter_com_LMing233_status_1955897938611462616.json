@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1955310433293705417",
+    "created_at": "2025-08-14T07:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T08:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955897938611462616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1675090363126812673",
+          "start": 0,
+          "username": "ttiiovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955897938611462616",
+    "in_reply_to_user_id": "1675090363126812673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955310433293705417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttiiovo 我也想玩健身环但是ns2玩不了🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955310379178835968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyKobiCWwAAl5T4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955310379170422785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyKobiAWYAEWVNf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1955310433293705417",
+        "created_at": "2025-08-14T07:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T08:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955897938611462616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1675090363126812673",
+              "start": 0,
+              "username": "ttiiovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955897938611462616",
+        "in_reply_to_user_id": "1675090363126812673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955310433293705417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttiiovo 我也想玩健身环但是ns2玩不了🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955310379178835968",
+            "3_1955310379170422785"
+          ]
+        },
+        "author_id": "1675090363126812673",
+        "conversation_id": "1955310433293705417",
+        "created_at": "2025-08-12T16:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T17:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955310433293705417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TF8MuNd2Wi",
+              "end": 35,
+              "expanded_url": "https://x.com/ttiiovo/status/1955310433293705417/photo/1",
+              "media_key": "3_1955310379178835968",
+              "start": 12,
+              "url": "https://t.co/TF8MuNd2Wi"
+            },
+            {
+              "display_url": "pic.x.com/TF8MuNd2Wi",
+              "end": 35,
+              "expanded_url": "https://x.com/ttiiovo/status/1955310433293705417/photo/1",
+              "media_key": "3_1955310379170422785",
+              "start": 12,
+              "url": "https://t.co/TF8MuNd2Wi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955310433293705417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此人又在捣鼓这个ns了 https://t.co/TF8MuNd2Wi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "这个世界会好吗",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1955262173204173269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 66,
+          "like_count": 810,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 239
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T10:34:12.000Z",
+        "description": "brat k8 ddlg 这是提提的日记本",
+        "id": "1675090363126812673",
+        "name": "ttii",
+        "pinned_tweet_id": "1947744668319375643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930232120926187522/pL5P04uh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 11,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 342
+        },
+        "username": "ttiiovo",
+        "verified": false
+      }
+    ]
+  }
+}

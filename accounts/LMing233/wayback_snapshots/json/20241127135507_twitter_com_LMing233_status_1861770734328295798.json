@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1861609872883662993",
+    "created_at": "2024-11-27T13:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T14:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861770734328295798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1550583309708808193",
+          "start": 0,
+          "username": "MissMafiana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861770734328295798",
+    "in_reply_to_user_id": "1550583309708808193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861609872883662993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MissMafiana 有什么永久脱毛的办法吗 感觉有毛没啥观感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1861609872883662993",
+        "created_at": "2024-11-27T13:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T14:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861770734328295798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1550583309708808193",
+              "start": 0,
+              "username": "MissMafiana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861770734328295798",
+        "in_reply_to_user_id": "1550583309708808193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861609872883662993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MissMafiana 有什么永久脱毛的办法吗 感觉有毛没啥观感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550583309708808193",
+        "conversation_id": "1861609872883662993",
+        "created_at": "2024-11-27T03:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T04:14:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861609429373739512",
+          "1861609872883662993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861609872883662993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 73707,
+          "like_count": 159,
+          "quote_count": 1,
+          "reply_count": 87,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【男生一般怎么处理私处的毛发？】\n\n有人刮、有人修、有人激光、有人蜜蜡，好奇你们喜欢怎么处理？\n\n求分享有趣的脱毛小技巧🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/男m",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850177714168397824/9VpLpWNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 221,
+          "like_count": 296,
+          "listed_count": 0,
+          "tweet_count": 31
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T20:47:33.000Z",
+        "description": "希望你享受接纳性的一切 ✿ AASECT受训性教育师｜备用 @msmafiana｜私信免费答疑一次｜微信：MissMafiana02➜ 说暗号“我是最棒的小可爱” ，领130页性爱图文学习资料 https://t.co/hME6xZLpmu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "msmafiana"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+XBa4suejrMg2Y…",
+                "end": 120,
+                "expanded_url": "https://t.me/+XBa4suejrMg2YjVh",
+                "start": 97,
+                "url": "https://t.co/hME6xZLpmu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mafiana.app",
+                "end": 23,
+                "expanded_url": "https://mafiana.app",
+                "start": 0,
+                "url": "https://t.co/ReRCbjLLLE"
+              }
+            ]
+          }
+        },
+        "id": "1550583309708808193",
+        "location": "成人性疗愈社区👉🏼",
+        "name": "Señorita Mafiana",
+        "pinned_tweet_id": "1860128721430282566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644479630642933760/7eBfV8W-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294199,
+          "following_count": 104,
+          "like_count": 1760,
+          "listed_count": 664,
+          "tweet_count": 2893
+        },
+        "url": "https://t.co/ReRCbjLLLE",
+        "username": "MissMafiana",
+        "verified": true
+      }
+    ]
+  }
+}

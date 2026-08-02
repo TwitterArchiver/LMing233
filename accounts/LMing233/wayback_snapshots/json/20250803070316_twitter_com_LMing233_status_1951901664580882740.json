@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1951899458264010943",
+    "created_at": "2025-08-03T07:03:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T08:03:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951901664580882740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1936255039351529472",
+          "start": 0,
+          "username": "nai_mao15515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951901664580882740",
+    "in_reply_to_user_id": "1936255039351529472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951901605307326919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nai_mao15515 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1951899458264010943",
+        "created_at": "2025-08-03T07:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T08:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951901664580882740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1936255039351529472",
+              "start": 0,
+              "username": "nai_mao15515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951901664580882740",
+        "in_reply_to_user_id": "1936255039351529472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951901605307326919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nai_mao15515 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936255039351529472",
+        "conversation_id": "1951899458264010943",
+        "created_at": "2025-08-03T07:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T08:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951901605307326919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1036167674470879232",
+              "start": 0,
+              "username": "LMing233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951901605307326919",
+        "in_reply_to_user_id": "1036167674470879232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951899458264010943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMing233 找人弄你信不信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨INFP丨1im/puppy丨碎碎念丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 115,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 85
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T02:49:31.000Z",
+        "description": "缘分竟默许你离去",
+        "id": "1936255039351529472",
+        "name": "软软小猫",
+        "pinned_tweet_id": "1951337999154946473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951093784642523137/dHYhIWJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 13,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 318
+        },
+        "username": "nai_mao15515",
+        "verified": false
+      }
+    ]
+  }
+}

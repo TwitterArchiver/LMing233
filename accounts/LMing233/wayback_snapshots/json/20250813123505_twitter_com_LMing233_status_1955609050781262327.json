@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955609038932381696"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1955327965920960642",
+    "created_at": "2025-08-13T12:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T13:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955609050781262327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1616084592246538241",
+          "start": 0,
+          "username": "1Krystal23"
+        },
+        {
+          "end": 26,
+          "id": "1504667462595346436",
+          "start": 12,
+          "username": "Jessiexuexiqu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rhVPWCxE0p",
+          "end": 72,
+          "expanded_url": "https://x.com/LMing233/status/1955609050781262327/photo/1",
+          "media_key": "3_1955609038932381696",
+          "start": 49,
+          "url": "https://t.co/rhVPWCxE0p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955609050781262327",
+    "in_reply_to_user_id": "1616084592246538241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955579171645882515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1Krystal23 @Jessiexuexiqu 等我复学每加一次好友我都要去检查有没有新增 https://t.co/rhVPWCxE0p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 760,
+        "media_key": "3_1955609038932381696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyO4D0UbkAAl-mR.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955579169087311872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyOc5KeaUAAzMfH.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955609038932381696"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1955327965920960642",
+        "created_at": "2025-08-13T12:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T13:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955609050781262327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1616084592246538241",
+              "start": 0,
+              "username": "1Krystal23"
+            },
+            {
+              "end": 26,
+              "id": "1504667462595346436",
+              "start": 12,
+              "username": "Jessiexuexiqu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhVPWCxE0p",
+              "end": 72,
+              "expanded_url": "https://x.com/LMing233/status/1955609050781262327/photo/1",
+              "media_key": "3_1955609038932381696",
+              "start": 49,
+              "url": "https://t.co/rhVPWCxE0p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955609050781262327",
+        "in_reply_to_user_id": "1616084592246538241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955579171645882515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1Krystal23 @Jessiexuexiqu 等我复学每加一次好友我都要去检查有没有新增 https://t.co/rhVPWCxE0p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955579169087311872"
+          ]
+        },
+        "author_id": "1616084592246538241",
+        "conversation_id": "1955327965920960642",
+        "created_at": "2025-08-13T10:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T11:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955579171645882515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1504667462595346436",
+              "start": 0,
+              "username": "Jessiexuexiqu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MzSpjgvhPd",
+              "end": 56,
+              "expanded_url": "https://x.com/1Krystal23/status/1955579171645882515/photo/1",
+              "media_key": "3_1955579169087311872",
+              "start": 33,
+              "url": "https://t.co/MzSpjgvhPd"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "1955579171645882515",
+        "in_reply_to_user_id": "1504667462595346436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955327965920960642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jessiexuexiqu 微信加的基本上是同学 居然都有9吗 https://t.co/MzSpjgvhPd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "这个世界会好吗",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1955262173204173269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 64,
+          "like_count": 765,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 226
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-19T14:46:36.000Z",
+        "description": "被我这样的人缠上是不是很可爱，是不是很无奈 是不是很享受 是不是有时会想我，是不是后悔没有早点开口和我说话",
+        "id": "1616084592246538241",
+        "location": "光启市",
+        "name": "重生后我成了宇宙第一霸王龙",
+        "pinned_tweet_id": "1954985865765327016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718234180872491008/5ESodu8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 173,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 396
+        },
+        "username": "1Krystal23",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T03:54:23.000Z",
+        "description": "06/INFP天蝎/追星/乙游/互fo  碎碎念",
+        "id": "1504667462595346436",
+        "name": "坐标系🐾",
+        "pinned_tweet_id": "1955190226722476344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886991440284377088/XTiO7yOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 128,
+          "like_count": 3629,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 577
+        },
+        "username": "Jessiexuexiqu",
+        "verified": false
+      }
+    ]
+  }
+}

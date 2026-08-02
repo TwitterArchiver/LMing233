@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1973017922932187329",
+    "created_at": "2025-09-30T13:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T14:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973017922932187329"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1973017922932187329",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好痛啊 我痛痛的\n我是一只刺猬\n我的刺扎向身边的人\n也向扎进我的心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1973017922932187329",
+        "created_at": "2025-09-30T13:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T14:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973017922932187329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973017922932187329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好痛啊 我痛痛的\n我是一只刺猬\n我的刺扎向身边的人\n也向扎进我的心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我是男的丨infp丨西音 摇滚丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨人文学科爱好者丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "location": "总有一天我会回到你身边",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 66,
+          "like_count": 1155,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 270
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

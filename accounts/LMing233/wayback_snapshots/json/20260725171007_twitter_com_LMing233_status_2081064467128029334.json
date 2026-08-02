@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081064455753150464"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "2081064467128029334",
+    "created_at": "2026-07-25T17:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T18:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081064467128029334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CdqAyZCs0q",
+          "end": 33,
+          "expanded_url": "https://x.com/LMing233/status/2081064467128029334/photo/1",
+          "media_key": "3_2081064455753150464",
+          "start": 10,
+          "url": "https://t.co/CdqAyZCs0q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081064467128029334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我打个码总行了吧。 https://t.co/CdqAyZCs0q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2081064455753150464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFtGLfbsAAYkMp.jpg",
+        "width": 1707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081064455753150464"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "2081064467128029334",
+        "created_at": "2026-07-25T17:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081064467128029334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdqAyZCs0q",
+              "end": 33,
+              "expanded_url": "https://x.com/LMing233/status/2081064467128029334/photo/1",
+              "media_key": "3_2081064455753150464",
+              "start": 10,
+              "url": "https://t.co/CdqAyZCs0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081064467128029334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我打个码总行了吧。 https://t.co/CdqAyZCs0q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子/infp/♂/餐券/我割我o/m/欢迎同类互fo/不喜欢我可以屏蔽不要举报我\n#shtwt #自残 #自伤\n女友位招租中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 44,
+                "tag": "shtwt"
+              },
+              {
+                "end": 54,
+                "start": 51,
+                "tag": "自残"
+              },
+              {
+                "end": 58,
+                "start": 55,
+                "tag": "自伤"
+              }
+            ]
+          }
+        },
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 164,
+          "like_count": 1869,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

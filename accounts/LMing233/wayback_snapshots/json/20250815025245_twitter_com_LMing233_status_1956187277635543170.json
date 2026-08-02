@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1956187277635543170",
+    "created_at": "2025-08-15T02:52:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T03:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956187277635543170"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xssj9464/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/xssj9464/status/1956058784964731185",
+          "start": 2,
+          "url": "https://t.co/hMnFqe5x6Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956187277635543170",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956058784964731185",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭 https://t.co/hMnFqe5x6Y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1956187277635543170",
+        "created_at": "2025-08-15T02:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T03:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956187277635543170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xssj9464/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/xssj9464/status/1956058784964731185",
+              "start": 2,
+              "url": "https://t.co/hMnFqe5x6Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956187277635543170",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956058784964731185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭 https://t.co/hMnFqe5x6Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822003489373089792",
+        "conversation_id": "1956058784964731185",
+        "created_at": "2025-08-14T18:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T19:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956058784964731185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956058784964731185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我比吉他张可爱那么多 为什么没遇到我的小帕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "这个世界会好吗",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1955262173204173269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 67,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 245
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T20:14:25.000Z",
+        "description": "对我发情发莫名其妙的恶心话语发几把 这辈子都发不了财 替我水逆一辈子 止于推🚪200纯绿",
+        "id": "1822003489373089792",
+        "location": "冰岛",
+        "name": "伤心",
+        "pinned_tweet_id": "1949474944909476339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954156783930638337/-sQFN3R1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 119,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 789
+        },
+        "username": "xssj9464",
+        "verified": false
+      }
+    ]
+  }
+}

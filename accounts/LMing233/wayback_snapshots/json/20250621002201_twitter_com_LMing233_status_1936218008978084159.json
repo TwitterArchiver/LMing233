@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1935746612133036071",
+    "created_at": "2025-06-21T00:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T01:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936218008978084159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1344348703994351618",
+          "start": 0,
+          "username": "MINISEA_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936218008978084159",
+    "in_reply_to_user_id": "1344348703994351618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935746612133036071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MINISEA_ ip错误喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1935746612133036071",
+        "created_at": "2025-06-21T00:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T01:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936218008978084159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1344348703994351618",
+              "start": 0,
+              "username": "MINISEA_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936218008978084159",
+        "in_reply_to_user_id": "1344348703994351618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935746612133036071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MINISEA_ ip错误喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1344348703994351618",
+        "conversation_id": "1935746612133036071",
+        "created_at": "2025-06-19T17:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T18:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935746612133036071"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "四爱"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "西安"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "iiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935746612133036071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13190,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "长期招募西安有经验的四爱小狗和我拍视频0.0\n自我介绍要求：个人情况 身高体重 坐标 喜好和雷点 ➕一张生活照➕一张身材照\n希望你经济独立 服务型优先 \n#四爱 #西安 #iiii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/1im  不找到主人不改名",
+        "id": "1036167674470879232",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1932661244726817176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926875850722459648/RRKXsJ1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 235,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 70
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-30T18:24:56.000Z",
+        "description": "随缘更新 开心就好 ^_^ 不收狗 实在想加联系方式的话有🚪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "k.youshop10.com/R592Raec",
+                "end": 23,
+                "expanded_url": "https://k.youshop10.com/R592Raec",
+                "start": 0,
+                "url": "https://t.co/2kdqGQDwY4"
+              }
+            ]
+          }
+        },
+        "id": "1344348703994351618",
+        "location": "我的微店：小海的海岛链接👉买小玩具戳下面",
+        "name": "MINISEA",
+        "pinned_tweet_id": "1666006864449126401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596914859232620544/qQscQTpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111639,
+          "following_count": 597,
+          "like_count": 10439,
+          "listed_count": 216,
+          "media_count": 352,
+          "tweet_count": 5568
+        },
+        "url": "https://t.co/2kdqGQDwY4",
+        "username": "MINISEA_",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

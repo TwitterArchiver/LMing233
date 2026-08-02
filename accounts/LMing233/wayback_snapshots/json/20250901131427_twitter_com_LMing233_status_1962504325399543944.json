@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1962504323801485312"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1962504325399543944",
+    "created_at": "2025-09-01T13:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T14:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962504325399543944"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1962504325399543944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "讲真的你们觉得我性格更像什么"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 4320,
+        "end_datetime": "2025-09-04T13:14:27.000Z",
+        "id": "1962504323801485312",
+        "options": [
+          {
+            "label": "男",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "女",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1962504323801485312"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1962504325399543944",
+        "created_at": "2025-09-01T13:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T14:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962504325399543944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962504325399543944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讲真的你们觉得我性格更像什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗男૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "location": "总有一天我会回到你身边",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 65,
+          "like_count": 1063,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 277
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

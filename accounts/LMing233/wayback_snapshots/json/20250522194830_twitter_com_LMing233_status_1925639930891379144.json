@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925639924138524672"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1925639930891379144",
+    "created_at": "2025-05-22T19:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T20:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925639930891379144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FmhZDyITtz",
+          "end": 41,
+          "expanded_url": "https://x.com/LMing233/status/1925639930891379144/photo/1",
+          "media_key": "3_1925639924138524672",
+          "start": 18,
+          "url": "https://t.co/FmhZDyITtz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925639930891379144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做梦梦到斐济杯被家里人发现了。。。 https://t.co/FmhZDyITtz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 855,
+        "media_key": "3_1925639924138524672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grk_TvuWQAApkQt.jpg",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925639924138524672"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1925639930891379144",
+        "created_at": "2025-05-22T19:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T20:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925639930891379144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FmhZDyITtz",
+              "end": 41,
+              "expanded_url": "https://x.com/LMing233/status/1925639930891379144/photo/1",
+              "media_key": "3_1925639924138524672",
+              "start": 18,
+              "url": "https://t.co/FmhZDyITtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925639930891379144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做梦梦到斐济杯被家里人发现了。。。 https://t.co/FmhZDyITtz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/1im",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912362874955030528/r3-W3yXQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 234,
+          "like_count": 321,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 63
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

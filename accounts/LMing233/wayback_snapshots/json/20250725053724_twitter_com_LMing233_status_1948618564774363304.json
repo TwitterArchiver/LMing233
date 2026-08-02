@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948618526312595456"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1948618564774363304",
+    "created_at": "2025-07-25T05:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T06:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948618564774363304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/r5JfWD9NqV",
+          "end": 31,
+          "expanded_url": "https://x.com/LMing233/status/1948618564774363304/photo/1",
+          "media_key": "3_1948618526312595456",
+          "start": 8,
+          "url": "https://t.co/r5JfWD9NqV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948618564774363304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人 汪要闻闻你 https://t.co/r5JfWD9NqV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1948618526312595456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwriObebgAAMEeA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948618526312595456"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1948618564774363304",
+        "created_at": "2025-07-25T05:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T06:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948618564774363304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r5JfWD9NqV",
+              "end": 31,
+              "expanded_url": "https://x.com/LMing233/status/1948618564774363304/photo/1",
+              "media_key": "3_1948618526312595456",
+              "start": 8,
+              "url": "https://t.co/r5JfWD9NqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948618564774363304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人 汪要闻闻你 https://t.co/r5JfWD9NqV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "主页有🔞慎入丨我是男孩子丨INFP丨M/puppy丨碎碎念",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 114,
+          "like_count": 403,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 88
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

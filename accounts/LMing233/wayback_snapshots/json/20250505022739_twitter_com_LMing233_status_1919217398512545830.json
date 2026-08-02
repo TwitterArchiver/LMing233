@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1919217398512545830",
+    "created_at": "2025-05-05T02:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T03:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919217398512545830"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1919217398512545830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "4月19日，认识了一个女人，她看到我抑郁,看到了我的照片点进了私聊界面，她和我从抑郁聊起，聊起我不幸的家庭，聊起我学校的同龄人和不合群的自己，又提到我独特还不被理解的爱好，说起我的孤独和独一无二的精神世界，各种人性哲学和诗词歌赋。\n\n4月20日，她要看我的牛。\n\n4月21日，牛被群发。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1919217398512545830",
+        "created_at": "2025-05-05T02:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T03:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919217398512545830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919217398512545830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "4月19日，认识了一个女人，她看到我抑郁,看到了我的照片点进了私聊界面，她和我从抑郁聊起，聊起我不幸的家庭，聊起我学校的同龄人和不合群的自己，又提到我独特还不被理解的爱好，说起我的孤独和独一无二的精神世界，各种人性哲学和诗词歌赋。\n\n4月20日，她要看我的牛。\n\n4月21日，牛被群发。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/1im",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912362874955030528/r3-W3yXQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 227,
+          "like_count": 321,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 63
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

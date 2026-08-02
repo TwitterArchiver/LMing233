@@ -1,0 +1,85 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1847092604762313075",
+    "created_at": "2024-10-18T01:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-18T02:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1847092604762313075"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1847092604762313075",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本人m找s要求 把我囚禁在寝室被窝自己跑去帮我上课下课第一时间帮我买饭 羞辱我的无能 期末期中帮我考试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1847092604762313075",
+        "created_at": "2024-10-18T01:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T02:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847092604762313075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1847092604762313075",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人m找s要求 把我囚禁在寝室被窝自己跑去帮我上课下课第一时间帮我买饭 羞辱我的无能 期末期中帮我考试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "男m/infp",
+        "id": "1036167674470879232",
+        "name": "Beklemmt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1586701688110391296/CPv4oe2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 199,
+          "like_count": 60,
+          "listed_count": 0,
+          "tweet_count": 3
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

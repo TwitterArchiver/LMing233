@@ -1,0 +1,85 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1848245597876461704",
+    "created_at": "2024-10-21T06:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-21T07:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1848245597876461704"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1848245597876461704",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你好，我是男的，赶紧关注一下被要微信这个话题。喂喂喂?听得到吗?我是个男的，赶紧讨论啊。没发出去吗?我是男的， I'm a man.怎么回事?在忙吗没看到?我说我是男的，瓦塔西大丈夫。我是男的，吾乃雄性，所以你得赶紧关注一下被要微信这个话题。这是有屏蔽词吗?我，男。这条是没收到吗?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1848245597876461704",
+        "created_at": "2024-10-21T06:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T07:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1848245597876461704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1848245597876461704",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好，我是男的，赶紧关注一下被要微信这个话题。喂喂喂?听得到吗?我是个男的，赶紧讨论啊。没发出去吗?我是男的， I'm a man.怎么回事?在忙吗没看到?我说我是男的，瓦塔西大丈夫。我是男的，吾乃雄性，所以你得赶紧关注一下被要微信这个话题。这是有屏蔽词吗?我，男。这条是没收到吗?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "男m/infp",
+        "id": "1036167674470879232",
+        "name": "Beklemmt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1586701688110391296/CPv4oe2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 209,
+          "like_count": 95,
+          "listed_count": 0,
+          "tweet_count": 8
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

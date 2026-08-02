@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1947465910702510412",
+    "created_at": "2025-07-22T02:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T03:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947479406077005920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1935171926109872128",
+          "start": 0,
+          "username": "dudu_YJSoob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947479406077005920",
+    "in_reply_to_user_id": "1935171926109872128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947475842013270482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dudu_YJSoob 呜呜呜嘟嘟好温柔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1947465910702510412",
+        "created_at": "2025-07-22T02:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T03:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947479406077005920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1935171926109872128",
+              "start": 0,
+              "username": "dudu_YJSoob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947479406077005920",
+        "in_reply_to_user_id": "1935171926109872128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947475842013270482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dudu_YJSoob 呜呜呜嘟嘟好温柔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935171926109872128",
+        "conversation_id": "1947465910702510412",
+        "created_at": "2025-07-22T01:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T02:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947475842013270482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1036167674470879232",
+              "start": 0,
+              "username": "LMing233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947475842013270482",
+        "in_reply_to_user_id": "1036167674470879232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947465910702510412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMing233 路过安慰一下 你就是什么都特别好啊不管是什么时候 平时的样子很可爱 脆弱的时候也很可爱 生气的时候也很可爱  打游戏的时候很可爱 你身上所有的品质都构成了独一无二的你 不管做什么都可以做的很好^ ^永远永远是爱你的人的小骄傲 不管从哪里汲取温暖力量都要继续明媚的你是最棒的啦 摸摸头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "主页有🔞慎入丨我是男孩子丨INFP丨M/puppy丨碎碎念丨古典音乐 术力口 摇滚丨persona 极乐迪斯科 锈湖 星露谷 斯普拉遁 塞尔达 弹丸论破",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 107,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 84
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T03:05:28.000Z",
+        "description": "我很萌  喜欢上我人之常情罢了😋",
+        "id": "1935171926109872128",
+        "name": "嘟嘟大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936647531225563136/sgPIh4CS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 23,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 71
+        },
+        "username": "dudu_YJSoob",
+        "verified": false
+      }
+    ]
+  }
+}

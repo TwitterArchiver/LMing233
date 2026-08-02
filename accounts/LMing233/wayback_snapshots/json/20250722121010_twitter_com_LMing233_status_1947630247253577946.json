@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1947630187169943552"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1947625607107645856",
+    "created_at": "2025-07-22T12:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T13:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947630247253577946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934362004967546880",
+          "start": 0,
+          "username": "Yoki636438"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1hb2yIW2w7",
+          "end": 63,
+          "expanded_url": "https://x.com/LMing233/status/1947630247253577946/video/1",
+          "media_key": "13_1947630187169943552",
+          "start": 40,
+          "url": "https://t.co/1hb2yIW2w7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947630247253577946",
+    "in_reply_to_user_id": "1934362004967546880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947625607107645856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoki636438 www太可爱了我家小狗有一次也这样૮₍ ˶•ᴗ•˶₎ა https://t.co/1hb2yIW2w7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3500,
+        "height": 936,
+        "media_key": "13_1947630187169943552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1947630187169943552/img/SpsVksGdnhsKV1Su.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947630187169943552/vid/avc1/320x566/THFQ5idGg0u-nx1L.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947630187169943552/vid/avc1/528x936/17dVwzC_6PTs-G4L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1947630187169943552/pl/ahwhcvdMIYKVNKdq.m3u8"
+          }
+        ],
+        "width": 528
+      },
+      {
+        "duration_ms": 8475,
+        "height": 1280,
+        "media_key": "13_1947625541399404544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1947625541399404544/img/l8dLjhM8RQ5cg9dt.jpg",
+        "public_metrics": {
+          "view_count": 23
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947625541399404544/vid/avc1/320x568/shDaXY485o93eEIo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947625541399404544/vid/avc1/480x852/uRcKR9dwYVcW_l6Z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947625541399404544/vid/avc1/720x1280/V0UBj8I9RdqH_ovn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1947625541399404544/pl/5tAbzALjDKo1tPbJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1947630187169943552"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1947625607107645856",
+        "created_at": "2025-07-22T12:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T13:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947630247253577946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934362004967546880",
+              "start": 0,
+              "username": "Yoki636438"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1hb2yIW2w7",
+              "end": 63,
+              "expanded_url": "https://x.com/LMing233/status/1947630247253577946/video/1",
+              "media_key": "13_1947630187169943552",
+              "start": 40,
+              "url": "https://t.co/1hb2yIW2w7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947630247253577946",
+        "in_reply_to_user_id": "1934362004967546880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947625607107645856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoki636438 www太可爱了我家小狗有一次也这样૮₍ ˶•ᴗ•˶₎ა https://t.co/1hb2yIW2w7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1947625541399404544"
+          ]
+        },
+        "author_id": "1934362004967546880",
+        "conversation_id": "1947625607107645856",
+        "created_at": "2025-07-22T11:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T12:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947625607107645856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R3xeuuwyas",
+              "end": 33,
+              "expanded_url": "https://x.com/Yoki636438/status/1947625607107645856/video/1",
+              "media_key": "13_1947625541399404544",
+              "start": 10,
+              "url": "https://t.co/R3xeuuwyas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947625607107645856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此狗又差点被咪教训 https://t.co/R3xeuuwyas"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "主页有🔞慎入丨我是男孩子丨INFP丨M/puppy丨碎碎念丨古典音乐 术力口 摇滚丨persona 极乐迪斯科 锈湖 星露谷 斯普拉遁 塞尔达 弹丸论破",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 108,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 84
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T21:27:10.000Z",
+        "description": "bi  心情米米嘟版（不约炮不聊骚不看鸡滚",
+        "id": "1934362004967546880",
+        "name": "Y oki",
+        "pinned_tweet_id": "1941816817015755264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934362580522524672/I09s-gMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 48,
+          "like_count": 1568,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1013
+        },
+        "username": "Yoki636438",
+        "verified": false
+      }
+    ]
+  }
+}

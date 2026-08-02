@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059484473532833792"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2059484511168332251",
+    "created_at": "2026-05-27T03:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059484511168332251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wBPJqkHKb4",
+          "end": 45,
+          "expanded_url": "https://x.com/LMing233/status/2059484511168332251/photo/1",
+          "media_key": "3_2059484473532833792",
+          "start": 22,
+          "url": "https://t.co/wBPJqkHKb4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059484511168332251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们知道吗苹果相机真的会把花刀识别成条形码 https://t.co/wBPJqkHKb4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2059484473532833792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTCN5FbYAA_s-3.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059484473532833792"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059484511168332251",
+        "created_at": "2026-05-27T03:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059484511168332251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wBPJqkHKb4",
+              "end": 45,
+              "expanded_url": "https://x.com/LMing233/status/2059484511168332251/photo/1",
+              "media_key": "3_2059484473532833792",
+              "start": 22,
+              "url": "https://t.co/wBPJqkHKb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059484511168332251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道吗苹果相机真的会把花刀识别成条形码 https://t.co/wBPJqkHKb4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子/infp/♂/我割我o/寻同类互fo",
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "2056936011675185641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 108,
+          "like_count": 1531,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 215
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

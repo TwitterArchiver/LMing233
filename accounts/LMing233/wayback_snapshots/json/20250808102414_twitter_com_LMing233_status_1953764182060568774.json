@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1953760227066867963",
+    "created_at": "2025-08-08T10:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T11:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953764182060568774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1822003489373089792",
+          "start": 0,
+          "username": "xssj9464"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953764182060568774",
+    "in_reply_to_user_id": "1822003489373089792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953760227066867963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xssj9464 世界对你好一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1953760227066867963",
+        "created_at": "2025-08-08T10:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T11:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953764182060568774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1822003489373089792",
+              "start": 0,
+              "username": "xssj9464"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953764182060568774",
+        "in_reply_to_user_id": "1822003489373089792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953760227066867963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xssj9464 世界对你好一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822003489373089792",
+        "conversation_id": "1953760227066867963",
+        "created_at": "2025-08-08T10:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T11:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953760227066867963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953760227066867963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近好倒霉啊 会好起来的对吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "这个世界会好吗",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1952972639154389022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 62,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 172
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T20:14:25.000Z",
+        "description": "碎碎念 偶尔掉落不开心的事 不闲聊 不要上来发j照发情互fo私信 叫我伤心就可以 清水推",
+        "id": "1822003489373089792",
+        "location": "冰岛",
+        "name": "伤心",
+        "pinned_tweet_id": "1951979473336938714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951922735367778304/2PE2b0qE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 118,
+          "like_count": 506,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 725
+        },
+        "username": "xssj9464",
+        "verified": false
+      }
+    ]
+  }
+}

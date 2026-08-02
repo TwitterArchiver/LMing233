@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1953256716826755231",
+    "created_at": "2025-08-07T01:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T02:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953260370195562831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1936255039351529472",
+          "start": 0,
+          "username": "nai_mao15515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953260370195562831",
+    "in_reply_to_user_id": "1936255039351529472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953256716826755231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nai_mao15515 宝子你已经很棒了呀🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1953256716826755231",
+        "created_at": "2025-08-07T01:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T02:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953260370195562831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1936255039351529472",
+              "start": 0,
+              "username": "nai_mao15515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953260370195562831",
+        "in_reply_to_user_id": "1936255039351529472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953256716826755231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nai_mao15515 宝子你已经很棒了呀🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936255039351529472",
+        "conversation_id": "1953256716826755231",
+        "created_at": "2025-08-07T00:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T01:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953256716826755231"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953256716826755231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我无法接受变得平庸的自己 但是又很难做出改变 就这样一直焦虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "这个世界会好吗",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1952972639154389022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 62,
+          "like_count": 620,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 151
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T02:49:31.000Z",
+        "description": "我可以的",
+        "id": "1936255039351529472",
+        "name": "绘梨衣",
+        "pinned_tweet_id": "1953042461233918412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952895696392355840/SqsGJlWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 22,
+          "like_count": 638,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 426
+        },
+        "username": "nai_mao15515",
+        "verified": false
+      }
+    ]
+  }
+}

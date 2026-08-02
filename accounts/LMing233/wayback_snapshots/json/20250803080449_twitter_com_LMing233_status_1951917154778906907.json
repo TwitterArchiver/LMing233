@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1951917154778906907",
+    "created_at": "2025-08-03T08:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T09:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951917154778906907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cold_734/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/cold_734/status/1951530051830489459",
+          "start": 6,
+          "url": "https://t.co/SDyytmGrUJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951917154778906907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951530051830489459",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这傻逼疯了 https://t.co/SDyytmGrUJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1951917154778906907",
+        "created_at": "2025-08-03T08:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T09:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951917154778906907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cold_734/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/cold_734/status/1951530051830489459",
+              "start": 6,
+              "url": "https://t.co/SDyytmGrUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951917154778906907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951530051830489459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这傻逼疯了 https://t.co/SDyytmGrUJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886829526497550338",
+        "conversation_id": "1951530051830489459",
+        "created_at": "2025-08-02T06:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T07:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951530051830489459"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951530051830489459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 61175,
+          "like_count": 619,
+          "quote_count": 6,
+          "reply_count": 60,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "推特不是看黄的软件的吗为什么你们玩成社交软件了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨INFP丨1im/puppy丨碎碎念丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 83,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 88
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T17:30:02.000Z",
+        "description": "",
+        "id": "1886829526497550338",
+        "name": "有马贵将",
+        "pinned_tweet_id": "1948316188523823136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950321921075138560/D2-ANO_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 87,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 583
+        },
+        "username": "Cold_734",
+        "verified": false
+      }
+    ]
+  }
+}

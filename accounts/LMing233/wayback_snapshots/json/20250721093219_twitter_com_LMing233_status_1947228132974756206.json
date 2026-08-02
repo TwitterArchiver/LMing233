@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1947160412388245713",
+    "created_at": "2025-07-21T09:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T10:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947228132974756206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1643285777798025218",
+          "start": 0,
+          "username": "l_yanhuo_l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947228132974756206",
+    "in_reply_to_user_id": "1643285777798025218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947160412388245713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l_yanhuo_l 支持凌迟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1947160412388245713",
+        "created_at": "2025-07-21T09:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T10:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947228132974756206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1643285777798025218",
+              "start": 0,
+              "username": "l_yanhuo_l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947228132974756206",
+        "in_reply_to_user_id": "1643285777798025218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947160412388245713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l_yanhuo_l 支持凌迟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643285777798025218",
+        "conversation_id": "1947160412388245713",
+        "created_at": "2025-07-21T05:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T06:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947160412388245713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947160412388245713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3097,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "所有恋童癖应该都要拉去毙了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "主页有🔞慎入丨我是男孩子丨INFP丨M/puppy丨碎碎念丨古典音乐 术力口 摇滚丨persona 极乐迪斯科 锈湖 星露谷 斯普拉遁 塞尔达 弹丸论破",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 111,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 81
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-04T16:14:26.000Z",
+        "description": "🐰兔子全肯定🐰//喊胭火还是烟火都行// 随机掉落照片和随笔//想到什么发什么//我没打算营业这个号文字比照片的多 //4i男m勿扰 //我很神经 不时发病//看不爽我请屏蔽//没有🚪 禮貌私信都会回我感觉我人已经很好了 不加微信互关另说 私信我前熟读我主页背景//不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yanhuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yanhuo",
+                "start": 0,
+                "url": "https://t.co/JcYpaX9HgH"
+              }
+            ]
+          }
+        },
+        "id": "1643285777798025218",
+        "location": "请塞满我的小匿名多多提问吧！",
+        "name": "不是胭火",
+        "pinned_tweet_id": "1946184216720363741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732047331124826112/ReIveT0W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 283,
+          "like_count": 3854,
+          "listed_count": 3,
+          "media_count": 238,
+          "tweet_count": 3626
+        },
+        "url": "https://t.co/JcYpaX9HgH",
+        "username": "l_yanhuo_l",
+        "verified": false
+      }
+    ]
+  }
+}

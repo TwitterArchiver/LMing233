@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1952178475563094525",
+    "created_at": "2025-08-04T05:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T06:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952246182614556825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1644880617933520898",
+          "start": 0,
+          "username": "ivinansz_oO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952246182614556825",
+    "in_reply_to_user_id": "1644880617933520898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952178475563094525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivinansz_oO 可以顺便把惹我的也创4️⃣嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1952178475563094525",
+        "created_at": "2025-08-04T05:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T06:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952246182614556825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644880617933520898",
+              "start": 0,
+              "username": "ivinansz_oO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952246182614556825",
+        "in_reply_to_user_id": "1644880617933520898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952178475563094525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivinansz_oO 可以顺便把惹我的也创4️⃣嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644880617933520898",
+        "conversation_id": "1952178475563094525",
+        "created_at": "2025-08-04T01:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T02:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952178475563094525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952178475563094525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一会去学车了 我要把惹过我的人都撞死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 53,
+          "like_count": 523,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 117
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T01:51:22.000Z",
+        "description": "想发什么就发什么反正没有人认识我。希望我的碎碎念可以被在意一下 路过的可以和我互动夸夸我 ⁽⁽ଘ( ˊᵕˋ )ଓ⁾⁾ 但注意了我就一颗心你们省着点伤。主播聊上瘾了可能会主动要联系方式。我是非常萌的双子哈",
+        "id": "1644880617933520898",
+        "name": "iivan.oo",
+        "pinned_tweet_id": "1945643430249459912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950636656568274944/aibsxo1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 113,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 67
+        },
+        "username": "ivinansz_oO",
+        "verified": false
+      }
+    ]
+  }
+}

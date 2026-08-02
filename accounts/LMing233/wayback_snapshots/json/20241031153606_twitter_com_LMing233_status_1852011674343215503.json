@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1852008723243294727",
+    "created_at": "2024-10-31T15:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T16:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852011674343215503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1408480800438374406",
+          "start": 0,
+          "username": "contextdogs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852011674343215503",
+    "in_reply_to_user_id": "1408480800438374406",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852008723243294727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@contextdogs let!!! dog!!! play!!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1852008723243294727",
+        "created_at": "2024-10-31T15:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T16:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852011674343215503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1408480800438374406",
+              "start": 0,
+              "username": "contextdogs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852011674343215503",
+        "in_reply_to_user_id": "1408480800438374406",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852008723243294727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@contextdogs let!!! dog!!! play!!!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1770238871139225600"
+          ]
+        },
+        "author_id": "1408480800438374406",
+        "conversation_id": "1852008723243294727",
+        "created_at": "2024-10-31T15:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T16:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852008723243294727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nV0pKqNsMY",
+              "end": 23,
+              "expanded_url": "https://x.com/contextdogs/status/1852008723243294727/photo/1",
+              "media_key": "3_1770238871139225600",
+              "start": 0,
+              "url": "https://t.co/nV0pKqNsMY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852008723243294727",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 10018,
+          "like_count": 199,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nV0pKqNsMY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/男m/傻逼长发男",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850177714168397824/9VpLpWNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 233,
+          "like_count": 249,
+          "listed_count": 0,
+          "tweet_count": 38
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-25T17:42:52.000Z",
+        "description": "follow us for daily dog Content 🐶| Dm for credit and removals | banner art by: @cantstopnub |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "cantstopnub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/contex…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/contextdogs.bsky.social",
+                "start": 0,
+                "url": "https://t.co/BdJBHLsrXR"
+              }
+            ]
+          }
+        },
+        "id": "1408480800438374406",
+        "location": "Turn on notifs 🔔",
+        "name": "out of context dogs",
+        "pinned_tweet_id": "1851962303820046649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790066395566235648/wqldXOjW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833091,
+          "following_count": 848,
+          "like_count": 9617,
+          "listed_count": 3239,
+          "tweet_count": 11592
+        },
+        "url": "https://t.co/BdJBHLsrXR",
+        "username": "contextdogs",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1884084757551833286",
+    "created_at": "2025-01-29T02:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T03:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884432889405923592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1213287267181027328",
+          "start": 0,
+          "username": "dahaoSho8931919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884432889405923592",
+    "in_reply_to_user_id": "1213287267181027328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884084757551833286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dahaoSho8931919 谢尔顿是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1884084757551833286",
+        "created_at": "2025-01-29T02:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T03:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884432889405923592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1213287267181027328",
+              "start": 0,
+              "username": "dahaoSho8931919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884432889405923592",
+        "in_reply_to_user_id": "1213287267181027328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884084757551833286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dahaoSho8931919 谢尔顿是吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884084755354054656"
+          ]
+        },
+        "author_id": "1213287267181027328",
+        "conversation_id": "1884084757551833286",
+        "created_at": "2025-01-28T03:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T04:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884084757551833286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zQx1dIoh6p",
+              "end": 33,
+              "expanded_url": "https://x.com/dahaoSho8931919/status/1884084757551833286/photo/1",
+              "media_key": "3_1884084755354054656",
+              "start": 10,
+              "url": "https://t.co/zQx1dIoh6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884084757551833286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 56989,
+          "like_count": 810,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "bro想找天才少年 https://t.co/zQx1dIoh6p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/男m",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850177714168397824/9VpLpWNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 226,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 38
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-04T02:33:32.000Z",
+        "description": "参考@Sho1919893 大号（复活失败中...）\n小小号：@ShoBeiYong 防止失联",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Sho1919893"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "ShoBeiYong"
+              }
+            ]
+          }
+        },
+        "id": "1213287267181027328",
+        "location": "下北沢　野獣邸",
+        "name": "Sho魈✟ ❂☭ 饮冰室主人🇨🇳🇨🇦 绝赞复活中",
+        "pinned_tweet_id": "1841910058424410470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879771616516935680/5MHxrPEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 247,
+          "like_count": 7423,
+          "listed_count": 13,
+          "media_count": 914,
+          "tweet_count": 6117
+        },
+        "username": "dahaoSho8931919",
+        "verified": false
+      }
+    ]
+  }
+}

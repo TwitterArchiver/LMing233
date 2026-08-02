@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1955842978519638089",
+    "created_at": "2025-08-14T07:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T08:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955895380404814319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1266711219425034241",
+          "start": 0,
+          "username": "Mcdonaldism_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955895380404814319",
+    "in_reply_to_user_id": "1266711219425034241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955842978519638089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mcdonaldism_ 有点像弱化自身"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1955842978519638089",
+        "created_at": "2025-08-14T07:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T08:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955895380404814319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1266711219425034241",
+              "start": 0,
+              "username": "Mcdonaldism_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955895380404814319",
+        "in_reply_to_user_id": "1266711219425034241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955842978519638089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mcdonaldism_ 有点像弱化自身"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266711219425034241",
+        "conversation_id": "1955842978519638089",
+        "created_at": "2025-08-14T04:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T05:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955842978519638089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955842978519638089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1001,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "yysy我有点讨厌“女宝”这个词，感觉这个词的受众干什么都需要别人哄着，非常之咯噔、非常之蠢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "这个世界会好吗",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1955262173204173269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 66,
+          "like_count": 808,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 236
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-30T12:41:23.000Z",
+        "description": "功利主义导向的思考方式往往使我们忘却了生命的本质是一场历程 ｜无论你是否是麦神的信徒，无论你的种族肤色性别，无论今天是星期几，你都可以享用13.9元麦当劳神教的1+1圣餐，麦神平等的爱世人，麦门🙏｜🐧相关❌盗图❌搬运",
+        "id": "1266711219425034241",
+        "location": "无所谓我会在网上到处拉屎",
+        "name": "AAA麻姐麦当劳薯条批发🍟🍟🍟",
+        "pinned_tweet_id": "1936044152061665678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920432920826687488/Qhhz0NjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6113,
+          "following_count": 1013,
+          "like_count": 39348,
+          "listed_count": 21,
+          "media_count": 727,
+          "tweet_count": 13116
+        },
+        "username": "Mcdonaldism_",
+        "verified": false
+      }
+    ]
+  }
+}

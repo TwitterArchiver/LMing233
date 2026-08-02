@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1946979551084785883",
+    "created_at": "2025-07-20T17:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T18:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946979551084785883"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1946979551084785883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 28,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坏了我觉得我主页🔞内容太多了我是不是该删点\n其实我表面很嬴荡背后是纯情小男孩谁信৹˃ ^ ˂৹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1946979551084785883",
+        "created_at": "2025-07-20T17:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T18:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946979551084785883"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946979551084785883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏了我觉得我主页🔞内容太多了我是不是该删点\n其实我表面很嬴荡背后是纯情小男孩谁信৹˃ ^ ˂৹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "主页有🔞慎入丨我是男孩子丨INFP丨M/puppy丨碎碎念丨古典音乐 术力口 摇滚丨persona 极乐迪斯科 锈湖 星露谷 斯普拉遁 塞尔达 弹丸论破",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 112,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 72
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

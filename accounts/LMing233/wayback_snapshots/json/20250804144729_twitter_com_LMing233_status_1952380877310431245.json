@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1952322714947273080",
+    "created_at": "2025-08-04T14:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T15:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952380877310431245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1846943132820103169",
+          "start": 0,
+          "username": "Oreoysd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952380877310431245",
+    "in_reply_to_user_id": "1846943132820103169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952380416184471666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oreoysd 还好我删了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1952322714947273080",
+        "created_at": "2025-08-04T14:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952380877310431245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1846943132820103169",
+              "start": 0,
+              "username": "Oreoysd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952380877310431245",
+        "in_reply_to_user_id": "1846943132820103169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952380416184471666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oreoysd 还好我删了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846943132820103169",
+        "conversation_id": "1952322714947273080",
+        "created_at": "2025-08-04T14:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952380416184471666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1036167674470879232",
+              "start": 0,
+              "username": "LMing233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952380416184471666",
+        "in_reply_to_user_id": "1036167674470879232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952322714947273080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMing233 叫你发自拍了呐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 54,
+          "like_count": 541,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 106
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T15:55:46.000Z",
+        "description": "",
+        "id": "1846943132820103169",
+        "name": "Tuiks",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852736029872254976/Grsm9C_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 62,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 221
+        },
+        "username": "Oreoysd",
+        "verified": false
+      }
+    ]
+  }
+}

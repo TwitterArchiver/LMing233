@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952322707808509952"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1952322714947273080",
+    "created_at": "2025-08-04T10:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T11:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952322714947273080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GJMWwd7v2H",
+          "end": 33,
+          "expanded_url": "https://x.com/LMing233/status/1952322714947273080/photo/1",
+          "media_key": "3_1952322707808509952",
+          "start": 10,
+          "url": "https://t.co/GJMWwd7v2H"
+        },
+        {
+          "display_url": "x.com/lming233/statu…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/lming233/status/1951145642526441670",
+          "start": 34,
+          "url": "https://t.co/KM1NMj0SJY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952322714947273080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951145642526441670",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我到底要强调几遍？ https://t.co/GJMWwd7v2H https://t.co/KM1NMj0SJY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 933,
+        "media_key": "3_1952322707808509952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgLKK3a4AAshoD.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952322707808509952"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1952322714947273080",
+        "created_at": "2025-08-04T10:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T11:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952322714947273080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJMWwd7v2H",
+              "end": 33,
+              "expanded_url": "https://x.com/LMing233/status/1952322714947273080/photo/1",
+              "media_key": "3_1952322707808509952",
+              "start": 10,
+              "url": "https://t.co/GJMWwd7v2H"
+            },
+            {
+              "display_url": "x.com/lming233/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/lming233/status/1951145642526441670",
+              "start": 34,
+              "url": "https://t.co/KM1NMj0SJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952322714947273080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951145642526441670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我到底要强调几遍？ https://t.co/GJMWwd7v2H https://t.co/KM1NMj0SJY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1951145642526441670",
+        "created_at": "2025-08-01T04:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T05:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951145642526441670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951145642526441670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男的能不能别他妈私信我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 52,
+          "like_count": 534,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 123
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

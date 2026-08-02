@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1947504624782742001",
+    "created_at": "2025-07-22T04:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T05:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947511132836794709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1744210397979451393",
+          "start": 0,
+          "username": "ppiiQvQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947511132836794709",
+    "in_reply_to_user_id": "1744210397979451393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947504624782742001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ppiiQvQ 来玩塞尔达！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1947504624782742001",
+        "created_at": "2025-07-22T04:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T05:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947511132836794709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1744210397979451393",
+              "start": 0,
+              "username": "ppiiQvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947511132836794709",
+        "in_reply_to_user_id": "1744210397979451393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947504624782742001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ppiiQvQ 来玩塞尔达！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744210397979451393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "1947504624782742001",
+        "created_at": "2025-07-22T03:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T04:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947504624782742001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947504624782742001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "steam或者switch上有什么休闲点的单机游戏可以玩呀！星露谷和潜水员戴夫已经玩过啦。🥺什么类型都可以！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "主页有🔞慎入丨我是男孩子丨INFP丨M/puppy丨碎碎念丨古典音乐 术力口 摇滚丨persona 极乐迪斯科 锈湖 星露谷 斯普拉遁 塞尔达 弹丸论破",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 107,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 83
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T04:12:30.000Z",
+        "description": "人类就是这个世界最大的反派",
+        "id": "1744210397979451393",
+        "location": "1.2km",
+        "name": "ppii",
+        "pinned_tweet_id": "1935177349844320611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776999047083294720/4lnlq-IF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 45,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 726
+        },
+        "username": "ppiiQvQ",
+        "verified": false
+      }
+    ]
+  }
+}

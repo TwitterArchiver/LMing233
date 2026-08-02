@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "2015455922492190988",
+    "created_at": "2026-01-26T06:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T07:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015668720815968672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "753205730908385281",
+          "start": 0,
+          "username": "Kagura__konbu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015668720815968672",
+    "in_reply_to_user_id": "753205730908385281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015546663872737420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagura__konbu 滚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2015455922492190988",
+        "created_at": "2026-01-26T06:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T07:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015668720815968672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "753205730908385281",
+              "start": 0,
+              "username": "Kagura__konbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015668720815968672",
+        "in_reply_to_user_id": "753205730908385281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015546663872737420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagura__konbu 滚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "753205730908385281",
+        "conversation_id": "2015455922492190988",
+        "created_at": "2026-01-25T22:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T23:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015546663872737420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1036167674470879232",
+              "start": 0,
+              "username": "LMing233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015546663872737420",
+        "in_reply_to_user_id": "1036167674470879232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015455922492190988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMing233 tag一下 同城上門"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我是男的丨infp丨可以叫我椰子丨西音 摇滚 术力口丨舞萌 任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 等丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983749067361677312/-UaapTrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 64,
+          "like_count": 1076,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 248
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-13T12:33:34.000Z",
+        "description": "月球人",
+        "id": "753205730908385281",
+        "location": "",
+        "name": "醋昆布",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591957677558595584/eGv_HTNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 609,
+          "like_count": 6349,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 316
+        },
+        "username": "Kagura__konbu",
+        "verified": false
+      }
+    ]
+  }
+}

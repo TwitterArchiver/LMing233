@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946477728280002560"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1946477740947022230",
+    "created_at": "2025-07-19T07:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T08:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946477740947022230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OdSQ56i0PK",
+          "end": 40,
+          "expanded_url": "https://x.com/LMing233/status/1946477740947022230/photo/1",
+          "media_key": "3_1946477728280002560",
+          "start": 17,
+          "url": "https://t.co/OdSQ56i0PK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946477740947022230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玩之前也没人告诉我野炊这么肝啊😣 https://t.co/OdSQ56i0PK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946477728280002560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwNHLlVWwAAH6Iw.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946477728280002560"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1946477740947022230",
+        "created_at": "2025-07-19T07:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T08:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946477740947022230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OdSQ56i0PK",
+              "end": 40,
+              "expanded_url": "https://x.com/LMing233/status/1946477740947022230/photo/1",
+              "media_key": "3_1946477728280002560",
+              "start": 17,
+              "url": "https://t.co/OdSQ56i0PK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946477740947022230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩之前也没人告诉我野炊这么肝啊😣 https://t.co/OdSQ56i0PK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/m 喜欢温柔主",
+        "id": "1036167674470879232",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1932661244726817176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 243,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 73
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

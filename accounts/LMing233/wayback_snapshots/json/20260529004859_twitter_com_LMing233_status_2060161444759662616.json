@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "2060161444759662616",
+    "created_at": "2026-05-29T00:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T01:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060161444759662616"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ko_sequence/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/ko_sequence/status/2060011964949254169",
+          "start": 8,
+          "url": "https://t.co/uNu2YiM1P8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060161444759662616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060011964949254169",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我理想中的爱情 https://t.co/uNu2YiM1P8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10900,
+        "height": 362,
+        "media_key": "13_2059941999235502084",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059941999235502084/img/-2umZhbEMOi6n_42.jpg",
+        "public_metrics": {
+          "view_count": 602922
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059941999235502084/vid/avc1/320x320/hHF8V_CGD65MJFJm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059941999235502084/vid/avc1/360x362/MSDx-QsLrTfQ1QH4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059941999235502084/pl/o4lJSB2aYrgIgFJk.m3u8"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2060161444759662616",
+        "created_at": "2026-05-29T00:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060161444759662616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ko_sequence/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ko_sequence/status/2060011964949254169",
+              "start": 8,
+              "url": "https://t.co/uNu2YiM1P8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060161444759662616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060011964949254169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我理想中的爱情 https://t.co/uNu2YiM1P8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059941999235502084"
+          ]
+        },
+        "author_id": "1893508671667347456",
+        "conversation_id": "2060011964949254169",
+        "created_at": "2026-05-28T14:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060011964949254169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RkYLIR01Lu",
+              "end": 69,
+              "expanded_url": "https://x.com/KO_Sequence/status/2060011964949254169/video/1",
+              "media_key": "13_2059941999235502084",
+              "start": 46,
+              "url": "https://t.co/RkYLIR01Lu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060011964949254169",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3378,
+          "impression_count": 1371886,
+          "like_count": 13566,
+          "quote_count": 1117,
+          "reply_count": 594,
+          "retweet_count": 1269
+        },
+        "reply_settings": "everyone",
+        "text": "Woman beats her Boyfriend and then kisses him https://t.co/RkYLIR01Lu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子/infp/♂/我割我o/欢迎同类互fo\n#shtwt #自残 #自伤",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "自残"
+              },
+              {
+                "end": 39,
+                "start": 36,
+                "tag": "自伤"
+              }
+            ]
+          }
+        },
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "2059657448965959719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 117,
+          "like_count": 1548,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 221
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T03:50:35.000Z",
+        "description": "Where timing and impact meet.",
+        "id": "1893508671667347456",
+        "name": "KO Sequence",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008358515287453696/tL29uisr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100477,
+          "following_count": 13,
+          "like_count": 619,
+          "listed_count": 44,
+          "media_count": 715,
+          "tweet_count": 717
+        },
+        "username": "KO_Sequence",
+        "verified": true
+      }
+    ]
+  }
+}

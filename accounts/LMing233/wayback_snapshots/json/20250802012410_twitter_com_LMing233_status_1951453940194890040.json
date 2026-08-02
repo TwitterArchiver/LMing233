@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951453933131669507"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1951453940194890040",
+    "created_at": "2025-08-02T01:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T02:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951453940194890040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LoVJpyVwfn",
+          "end": 29,
+          "expanded_url": "https://x.com/LMing233/status/1951453940194890040/photo/1",
+          "media_key": "3_1951453933131669507",
+          "start": 6,
+          "url": "https://t.co/LoVJpyVwfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951453940194890040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "纯炫耀！！ https://t.co/LoVJpyVwfn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951453933131669507",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxT1A0_aIAMI642.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951453933131669507"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1951453940194890040",
+        "created_at": "2025-08-02T01:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T02:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951453940194890040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LoVJpyVwfn",
+              "end": 29,
+              "expanded_url": "https://x.com/LMing233/status/1951453940194890040/photo/1",
+              "media_key": "3_1951453933131669507",
+              "start": 6,
+              "url": "https://t.co/LoVJpyVwfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951453940194890040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纯炫耀！！ https://t.co/LoVJpyVwfn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨INFP丨1im/puppy丨碎碎念丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1947637394255032494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 114,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 74
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

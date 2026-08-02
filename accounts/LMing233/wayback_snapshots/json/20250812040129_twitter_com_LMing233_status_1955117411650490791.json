@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1955117411650490791",
+    "created_at": "2025-08-12T04:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T05:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955117411650490791"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wo1594/status/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/wo1594/status/1954589723433033897",
+          "start": 17,
+          "url": "https://t.co/SoKU5usEYn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955117411650490791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954589723433033897",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我前任甚至不让我看只有异性的片🥲 https://t.co/SoKU5usEYn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1955117411650490791",
+        "created_at": "2025-08-12T04:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955117411650490791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wo1594/status/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/wo1594/status/1954589723433033897",
+              "start": 17,
+              "url": "https://t.co/SoKU5usEYn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955117411650490791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954589723433033897",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我前任甚至不让我看只有异性的片🥲 https://t.co/SoKU5usEYn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884164043193344001",
+        "conversation_id": "1954586624483885123",
+        "created_at": "2025-08-10T17:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T18:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954589723433033897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1900605932901683200",
+              "start": 0,
+              "username": "Xi1xiqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954589723433033897",
+        "in_reply_to_user_id": "1900605932901683200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4565,
+          "like_count": 241,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954586624483885123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xi1xiqwq 之前抖音看到的一个评论“看片正常，是解决正常需求。看擦边不正常，是培养低级欲望。看片正常，是直观给出画面。看擦边不正常，是勾引无限幻想。看片正常，是剧版演戏。看擦边不正常，是可以私下联系。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "这个世界会好吗",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1952972639154389022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 62,
+          "like_count": 726,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 219
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T08:58:27.000Z",
+        "description": "梦到哪句说哪句/影分身@xiaowan1594",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "xiaowan1594"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wooo33104",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wooo33104",
+                "start": 0,
+                "url": "https://t.co/vgrjm00zjN"
+              }
+            ]
+          }
+        },
+        "id": "1884164043193344001",
+        "location": "请发匿名→",
+        "name": "晚鸥",
+        "pinned_tweet_id": "1949838450330402959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946934254224453632/iGHoPhrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 39,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 181
+        },
+        "url": "https://t.co/vgrjm00zjN",
+        "username": "Wo1594",
+        "verified": false
+      }
+    ]
+  }
+}

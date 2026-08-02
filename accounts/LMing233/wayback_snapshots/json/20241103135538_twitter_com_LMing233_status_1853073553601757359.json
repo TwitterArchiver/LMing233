@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1853073478083375104"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1853073553601757359",
+    "created_at": "2024-11-03T13:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T14:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1853073553601757359"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 8,
+          "tag": "肉棒"
+        },
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "手冲"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d9gPTNlx6c",
+          "end": 39,
+          "expanded_url": "https://x.com/LMing233/status/1853073553601757359/video/1",
+          "media_key": "7_1853073478083375104",
+          "start": 16,
+          "url": "https://t.co/d9gPTNlx6c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853073553601757359",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "浅冲一下#牛子 #肉棒 #手冲 https://t.co/d9gPTNlx6c"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1853073553601757359].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1853073553601757359",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1853073553601757359"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22285,
+        "height": 720,
+        "media_key": "7_1853073478083375104",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1853073478083375104/pu/img/eGqOccOY3c69AV5z.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1853073478083375104/pu/vid/avc1/444x270/z9TP7wiXblvtu51o.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1853073478083375104/pu/vid/avc1/594x360/mIhcTBtBlMaX7fTL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1853073478083375104/pu/vid/avc1/1188x720/9pD6oOb_LbSoWTNt.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1853073478083375104/pu/pl/mKFn5w74ylD978XW.m3u8?tag=12"
+          }
+        ],
+        "width": 1188
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/男m/傻逼长发男",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850177714168397824/9VpLpWNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 254,
+          "like_count": 274,
+          "listed_count": 0,
+          "tweet_count": 25
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

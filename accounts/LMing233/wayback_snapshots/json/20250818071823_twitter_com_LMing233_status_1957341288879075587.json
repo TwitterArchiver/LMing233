@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1957333208447816124",
+    "created_at": "2025-08-18T07:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T08:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957341288879075587"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "你萌萌",
+          "probability": 0.4585,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1504667462595346436",
+          "start": 0,
+          "username": "Jessiexuexiqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957341288879075587",
+    "in_reply_to_user_id": "1504667462595346436",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957333208447816124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jessiexuexiqu 你萌萌的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2574,
+        "height": 960,
+        "media_key": "7_1957333187081932800",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1957333187081932800/pu/img/OyLde6XTCkjEIxHh.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957333187081932800/pu/vid/avc1/320x426/DSX3pp4eSFv-ev0m.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957333187081932800/pu/vid/avc1/480x640/JQeFkbvWJ1B_ahKe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957333187081932800/pu/vid/avc1/720x960/7GL5wL31Kjgsia9B.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1957333187081932800/pu/pl/PrI5H2TSZ844dhC7.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1957333208447816124",
+        "created_at": "2025-08-18T07:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T08:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957341288879075587"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "你萌萌",
+              "probability": 0.4585,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1504667462595346436",
+              "start": 0,
+              "username": "Jessiexuexiqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957341288879075587",
+        "in_reply_to_user_id": "1504667462595346436",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957333208447816124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jessiexuexiqu 你萌萌的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1957333187081932800"
+          ]
+        },
+        "author_id": "1504667462595346436",
+        "conversation_id": "1957333208447816124",
+        "created_at": "2025-08-18T06:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T07:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957333208447816124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HK1kdDwU1e",
+              "end": 35,
+              "expanded_url": "https://x.com/Jessiexuexiqu/status/1957333208447816124/video/1",
+              "media_key": "7_1957333187081932800",
+              "start": 12,
+              "url": "https://t.co/HK1kdDwU1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957333208447816124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下午好uu们🤗我回来噜 https://t.co/HK1kdDwU1e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im男丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "总有一天我会回到你身边",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1955262173204173269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 65,
+          "like_count": 925,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 270
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T03:54:23.000Z",
+        "description": "06/INFP天蝎/追星/乙游/互fo  碎碎念  希望我能让你在网络冲浪中开心一点☺️",
+        "id": "1504667462595346436",
+        "name": "坐标系🐾",
+        "pinned_tweet_id": "1955190226722476344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886991440284377088/XTiO7yOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 195,
+          "like_count": 4841,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 946
+        },
+        "username": "Jessiexuexiqu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "2017171737348342019",
+    "created_at": "2026-01-30T14:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T15:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017238016486670770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1939979157594664960",
+          "start": 0,
+          "username": "xioy1520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017238016486670770",
+    "in_reply_to_user_id": "1939979157594664960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017217864772759709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioy1520 呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2017171737348342019",
+        "created_at": "2026-01-30T14:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T15:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017238016486670770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1939979157594664960",
+              "start": 0,
+              "username": "xioy1520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017238016486670770",
+        "in_reply_to_user_id": "1939979157594664960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017217864772759709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioy1520 呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939979157594664960",
+        "conversation_id": "2017171737348342019",
+        "created_at": "2026-01-30T12:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T13:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017217864772759709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1036167674470879232",
+              "start": 0,
+              "username": "LMing233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017217864772759709",
+        "in_reply_to_user_id": "1036167674470879232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017171737348342019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMing233 椰子也一定会幸福的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "cn椰子/infp/我有精神病/查成分互fo",
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983749067361677312/-UaapTrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 79,
+          "like_count": 1185,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 245
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T09:27:37.000Z",
+        "description": "邪恶人格@cha317081419353",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "cha317081419353"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muming95389",
+                "end": 23,
+                "expanded_url": "https://ngl.link/muming95389",
+                "start": 0,
+                "url": "https://t.co/9wriK9Pqat"
+              }
+            ]
+          }
+        },
+        "id": "1939979157594664960",
+        "location": "=￣ω￣=",
+        "name": "眠",
+        "pinned_tweet_id": "2016198165591150646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015434596712923136/dcvsAuAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 40,
+          "like_count": 1611,
+          "listed_count": 4,
+          "media_count": 28,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/9wriK9Pqat",
+        "username": "xioy1520",
+        "verified": false
+      }
+    ]
+  }
+}

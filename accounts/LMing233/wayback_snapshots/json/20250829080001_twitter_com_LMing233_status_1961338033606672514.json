@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1960778097390936558",
+    "created_at": "2025-08-29T08:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T09:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961338033606672514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1950290629721759744",
+          "start": 0,
+          "username": "wonyoung_xuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961338033606672514",
+    "in_reply_to_user_id": "1950290629721759744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960778097390936558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wonyoung_xuan 好漂亮啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9833,
+        "height": 1280,
+        "media_key": "13_1960778034379939844",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960778034379939844/img/WINTJz5I_YTBs6V1.jpg",
+        "public_metrics": {
+          "view_count": 240
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960778034379939844/vid/avc1/320x568/W9L7gfrN47KZUlj2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960778034379939844/vid/avc1/480x852/L8CzY-d5UJZMZvMv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960778034379939844/vid/avc1/720x1280/o6gQZO29TiZc60DB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960778034379939844/pl/vSreCX4zoqfUKE2V.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1960778097390936558",
+        "created_at": "2025-08-29T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961338033606672514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1950290629721759744",
+              "start": 0,
+              "username": "wonyoung_xuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961338033606672514",
+        "in_reply_to_user_id": "1950290629721759744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960778097390936558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonyoung_xuan 好漂亮啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1960778034379939844"
+          ]
+        },
+        "author_id": "1950290629721759744",
+        "conversation_id": "1960778097390936558",
+        "created_at": "2025-08-27T18:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T19:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960778097390936558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gyt9ZaMRTh",
+              "end": 31,
+              "expanded_url": "https://x.com/wonyoung_xuan/status/1960778097390936558/video/1",
+              "media_key": "13_1960778034379939844",
+              "start": 8,
+              "url": "https://t.co/gyt9ZaMRTh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960778097390936558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1138,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就喜欢半夜发 https://t.co/gyt9ZaMRTh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im男丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "总有一天我会回到你身边",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1957251180121251914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 65,
+          "like_count": 975,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 307
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-29T20:21:43.000Z",
+        "description": "🚪52纯绿 不过私信骚扰我全家撕了",
+        "id": "1950290629721759744",
+        "name": "xuan_",
+        "pinned_tweet_id": "1960673073923023102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950290793551343617/E97KMksK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 92,
+          "like_count": 2452,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 800
+        },
+        "username": "wonyoung_xuan",
+        "verified": false
+      }
+    ]
+  }
+}

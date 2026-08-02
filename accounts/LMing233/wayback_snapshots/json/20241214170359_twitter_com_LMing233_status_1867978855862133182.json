@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1867978696587640832"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1867978855862133182",
+    "created_at": "2024-12-14T17:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T18:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1867978855862133182"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "男喘"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "手冲"
+        },
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "手冲实录"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "男m"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xJL056JHn4",
+          "end": 69,
+          "expanded_url": "https://x.com/LMing233/status/1867978855862133182/video/1",
+          "media_key": "7_1867978696587640832",
+          "start": 46,
+          "url": "https://t.co/xJL056JHn4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867978855862133182",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "₍ ˃ᯅ˂）\n  ( っกc )\n天杀的只能发140秒\n#男喘 #手冲 #手冲实录 #男m https://t.co/xJL056JHn4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 137838,
+        "height": 732,
+        "media_key": "7_1867978696587640832",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1867978696587640832/pu/img/gifHp9bkXCOoZe9A.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1867978696587640832/pu/vid/avc1/320x324/oc2mRTnCglHI9ioX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1867978696587640832/pu/vid/avc1/480x488/gNVk96UCNCVe5Je_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1867978696587640832/pu/vid/avc1/720x732/LIp-01jHgGawZCKx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1867978696587640832/pu/pl/q3UAhQDrTUDg4YbQ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1867978696587640832"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1867978855862133182",
+        "created_at": "2024-12-14T17:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T18:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867978855862133182"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "男喘"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "手冲"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "手冲实录"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "男m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xJL056JHn4",
+              "end": 69,
+              "expanded_url": "https://x.com/LMing233/status/1867978855862133182/video/1",
+              "media_key": "7_1867978696587640832",
+              "start": 46,
+              "url": "https://t.co/xJL056JHn4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867978855862133182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "₍ ˃ᯅ˂）\n  ( っกc )\n天杀的只能发140秒\n#男喘 #手冲 #手冲实录 #男m https://t.co/xJL056JHn4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/男m",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850177714168397824/9VpLpWNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 213,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 30
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

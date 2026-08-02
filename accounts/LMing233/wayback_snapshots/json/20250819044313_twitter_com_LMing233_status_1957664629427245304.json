@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1957489892495442117",
+    "created_at": "2025-08-19T04:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T05:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957664629427245304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945880150370832385",
+          "start": 0,
+          "username": "SuZzie_OwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957664629427245304",
+    "in_reply_to_user_id": "1945880150370832385",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957489892495442117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuZzie_OwO putain, merde"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1957489892495442117",
+        "created_at": "2025-08-19T04:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T05:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957664629427245304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945880150370832385",
+              "start": 0,
+              "username": "SuZzie_OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957664629427245304",
+        "in_reply_to_user_id": "1945880150370832385",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957489892495442117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuZzie_OwO putain, merde"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945880150370832385",
+        "conversation_id": "1957489892495442117",
+        "created_at": "2025-08-18T17:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T18:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957489892495442117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957489892495442117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知为何我听我听不懂的语言会⭐️欲大增，谁来给我拽两句洋文中不中🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im男丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "总有一天我会回到你身边",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1957251180121251914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 65,
+          "like_count": 943,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 281
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T16:16:08.000Z",
+        "description": "一个缺爱b^ ^｜1i｜04女大♎️｜主页有照片😚话多，当pyq发 ᗜωᗜ｜不线下｜信箱：https://t.co/BJCRKjq9xJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suzzie_owo",
+                "end": 68,
+                "expanded_url": "https://ngl.link/suzzie_owo",
+                "start": 45,
+                "url": "https://t.co/BJCRKjq9xJ"
+              }
+            ]
+          }
+        },
+        "id": "1945880150370832385",
+        "name": "杏仁片",
+        "pinned_tweet_id": "1956944713447272744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945880588663017479/IIfKqIjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 75,
+          "like_count": 1776,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 453
+        },
+        "username": "SuZzie_OwO",
+        "verified": false
+      }
+    ]
+  }
+}

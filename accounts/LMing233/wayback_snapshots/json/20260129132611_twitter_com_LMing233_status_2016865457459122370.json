@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "2016739866357485790",
+    "created_at": "2026-01-29T13:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T14:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016865457459122370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999504877337395200",
+          "start": 0,
+          "username": "chuan_0123"
+        },
+        {
+          "end": 21,
+          "id": "1939979157594664960",
+          "start": 12,
+          "username": "xioy1520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016865457459122370",
+    "in_reply_to_user_id": "1999504877337395200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016862197163638802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_0123 @xioy1520 我也是！不过我最爱p3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2016739866357485790",
+        "created_at": "2026-01-29T13:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T14:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016865457459122370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999504877337395200",
+              "start": 0,
+              "username": "chuan_0123"
+            },
+            {
+              "end": 21,
+              "id": "1939979157594664960",
+              "start": 12,
+              "username": "xioy1520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016865457459122370",
+        "in_reply_to_user_id": "1999504877337395200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016862197163638802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_0123 @xioy1520 我也是！不过我最爱p3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999504877337395200",
+        "conversation_id": "2016739866357485790",
+        "created_at": "2026-01-29T13:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T14:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016862197163638802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1036167674470879232",
+              "start": 0,
+              "username": "LMing233"
+            },
+            {
+              "end": 19,
+              "id": "1939979157594664960",
+              "start": 10,
+              "username": "xioy1520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016862197163638802",
+        "in_reply_to_user_id": "1036167674470879232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016848493227418056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMing233 @xioy1520 啊啊啊啊我p345都玩了！最爱p4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp 我有精神病 查成分互fo",
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983749067361677312/-UaapTrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 74,
+          "like_count": 1150,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 243
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川 怎么称呼我都ok！/20↑/病み垢/无言follow抱歉/直fo＝喜欢你/欢迎互fo我想和你们玩/脑子不好啥都发 有自伤&od内容 图片一般不会直接发/接受不了的可以随意拉黑我😸/不加墙内联系方式 认出来我的擅自推我联系方式打扰我的全家死完立马暴毙男的阳痿女的烂逼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuan_0123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuan_0123",
+                "start": 0,
+                "url": "https://t.co/4YtHcQUjoR"
+              }
+            ]
+          }
+        },
+        "id": "1999504877337395200",
+        "location": "佛在渡你   提问箱→",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2013616959921779066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009954663387541506/RIm7gJMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 141,
+          "like_count": 3359,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2080
+        },
+        "url": "https://t.co/4YtHcQUjoR",
+        "username": "chuan_0123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T09:27:37.000Z",
+        "description": "邪恶人格@cha317081419353",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "cha317081419353"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muming95389",
+                "end": 23,
+                "expanded_url": "https://ngl.link/muming95389",
+                "start": 0,
+                "url": "https://t.co/9wriK9Pqat"
+              }
+            ]
+          }
+        },
+        "id": "1939979157594664960",
+        "location": "=￣ω￣=",
+        "name": "眠",
+        "pinned_tweet_id": "2016198165591150646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015434596712923136/dcvsAuAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 35,
+          "like_count": 1554,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/9wriK9Pqat",
+        "username": "xioy1520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1954935820072439808"
+      ],
+      "media_source_tweet_id": [
+        "1954935852020433378"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1955852495281926368",
+    "created_at": "2025-08-14T04:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T05:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955852495281926368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1827960487512027136",
+          "start": 3,
+          "username": "BITE_YOUR_FACE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DrdT1yoXGl",
+          "end": 43,
+          "expanded_url": "https://x.com/BITE_YOUR_FACE/status/1954935852020433378/video/1",
+          "media_key": "7_1954935820072439808",
+          "start": 20,
+          "url": "https://t.co/DrdT1yoXGl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955852495281926368",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22709
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954935852020433378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BITE_YOUR_FACE: https://t.co/DrdT1yoXGl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20178,
+        "height": 576,
+        "media_key": "7_1954935820072439808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1954935820072439808/pu/img/vcL1b9n11TDJla-E.jpg",
+        "public_metrics": {
+          "view_count": 1055373
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954935820072439808/pu/vid/avc1/480x270/CnahhpzoFNBrY5R_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954935820072439808/pu/vid/avc1/640x360/2DtNdnv5Hc0E-Tmo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954935820072439808/pu/vid/avc1/1024x576/V0c3sKai1-LXLnZ1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1954935820072439808/pu/pl/R-KAnUe8TONIUbpx.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1954935820072439808"
+          ],
+          "media_source_tweet_id": [
+            "1954935852020433378"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1955852495281926368",
+        "created_at": "2025-08-14T04:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T05:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955852495281926368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1827960487512027136",
+              "start": 3,
+              "username": "BITE_YOUR_FACE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DrdT1yoXGl",
+              "end": 43,
+              "expanded_url": "https://x.com/BITE_YOUR_FACE/status/1954935852020433378/video/1",
+              "media_key": "7_1954935820072439808",
+              "start": 20,
+              "url": "https://t.co/DrdT1yoXGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955852495281926368",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22709
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954935852020433378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BITE_YOUR_FACE: https://t.co/DrdT1yoXGl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1954935820072439808"
+          ]
+        },
+        "author_id": "1827960487512027136",
+        "conversation_id": "1954935852020433378",
+        "created_at": "2025-08-11T16:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T17:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954935852020433378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DrdT1yoXGl",
+              "end": 23,
+              "expanded_url": "https://x.com/BITE_YOUR_FACE/status/1954935852020433378/video/1",
+              "media_key": "7_1954935820072439808",
+              "start": 0,
+              "url": "https://t.co/DrdT1yoXGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954935852020433378",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13106,
+          "impression_count": 7617701,
+          "like_count": 108508,
+          "quote_count": 790,
+          "reply_count": 131,
+          "retweet_count": 22709
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DrdT1yoXGl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "这个世界会好吗",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1955262173204173269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 65,
+          "like_count": 800,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 231
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T06:45:28.000Z",
+        "description": "Im obsessively crafting a fun website builder. \nentj\nfollow = I bite your face\nI love chiikwa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foid.page/biteyourface",
+                "end": 23,
+                "expanded_url": "https://www.foid.page/biteyourface",
+                "start": 0,
+                "url": "https://t.co/1AthmJ3mtA"
+              }
+            ]
+          }
+        },
+        "id": "1827960487512027136",
+        "name": "BITE_YOUR_FACE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939584427077607424/lZ7XByx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 121,
+          "like_count": 5796,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 1342
+        },
+        "url": "https://t.co/1AthmJ3mtA",
+        "username": "BITE_YOUR_FACE",
+        "verified": false
+      }
+    ]
+  }
+}

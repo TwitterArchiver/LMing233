@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1862716592771195264",
+    "created_at": "2024-11-30T04:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T05:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1862716592771195264"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/queen_daralis/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/queen_daralis/status/1862513872537571600",
+          "start": 8,
+          "url": "https://t.co/4UDo92PIGc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862716592771195264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862513872537571600",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个我是真喜欢 https://t.co/4UDo92PIGc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1862513872537571600].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1862513872537571600",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1862513872537571600"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1862716592771195264",
+        "created_at": "2024-11-30T04:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T05:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862716592771195264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/queen_daralis/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/queen_daralis/status/1862513872537571600",
+              "start": 8,
+              "url": "https://t.co/4UDo92PIGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862716592771195264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862513872537571600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个我是真喜欢 https://t.co/4UDo92PIGc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/男m",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850177714168397824/9VpLpWNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 220,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 32
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1961417944627646531",
+    "created_at": "2025-08-29T13:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T14:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961417944627646531"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiangtong1013/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/jiangtong1013/status/1960713552798314571",
+          "start": 12,
+          "url": "https://t.co/ivTqiE9Rqp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961417944627646531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960713552798314571",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我天天卖惨咋没人看上我 https://t.co/ivTqiE9Rqp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 235,
+        "media_key": "3_1960713549770059776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXaldBW8AAnFKH.jpg",
+        "width": 830
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1961417944627646531",
+        "created_at": "2025-08-29T13:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T14:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961417944627646531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiangtong1013/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/jiangtong1013/status/1960713552798314571",
+              "start": 12,
+              "url": "https://t.co/ivTqiE9Rqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961417944627646531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960713552798314571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我天天卖惨咋没人看上我 https://t.co/ivTqiE9Rqp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960713549770059776"
+          ]
+        },
+        "author_id": "1541313524416139264",
+        "conversation_id": "1960713552798314571",
+        "created_at": "2025-08-27T14:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T15:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960713552798314571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t3CaxRyQ7e",
+              "end": 34,
+              "expanded_url": "https://x.com/jiangtong1013/status/1960713552798314571/photo/1",
+              "media_key": "3_1960713549770059776",
+              "start": 11,
+              "url": "https://t.co/t3CaxRyQ7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960713552798314571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 114923,
+          "like_count": 793,
+          "quote_count": 28,
+          "reply_count": 186,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "突然很好奇大家的看法 https://t.co/t3CaxRyQ7e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im男丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "总有一天我会回到你身边",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1957251180121251914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 65,
+          "like_count": 1007,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 298
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T06:52:46.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiangtong10131",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiangtong10131",
+                "start": 0,
+                "url": "https://t.co/5f3Toiqpsv"
+              }
+            ]
+          }
+        },
+        "id": "1541313524416139264",
+        "name": "江潼",
+        "pinned_tweet_id": "1915409373935083868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654009351450025984/JCGAVO8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 420,
+          "like_count": 181474,
+          "listed_count": 9,
+          "media_count": 751,
+          "tweet_count": 15734
+        },
+        "url": "https://t.co/5f3Toiqpsv",
+        "username": "jiangtong1013",
+        "verified": false
+      }
+    ]
+  }
+}

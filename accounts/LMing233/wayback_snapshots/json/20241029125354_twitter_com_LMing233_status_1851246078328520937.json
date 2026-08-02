@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1850928504285872555",
+    "created_at": "2024-10-29T12:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-29T13:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851246078328520937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1511628119681077249",
+          "start": 0,
+          "username": "xx23477708"
+        },
+        {
+          "end": 22,
+          "id": "1333581528400494592",
+          "start": 12,
+          "username": "Dottyyidi"
+        },
+        {
+          "end": 37,
+          "id": "1676833970762428416",
+          "start": 23,
+          "username": "linglingerie0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851246078328520937",
+    "in_reply_to_user_id": "1511628119681077249",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850928504285872555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx23477708 @Dottyyidi @linglingerie0 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1850928504285872555",
+        "created_at": "2024-10-29T12:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T13:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851246078328520937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1511628119681077249",
+              "start": 0,
+              "username": "xx23477708"
+            },
+            {
+              "end": 22,
+              "id": "1333581528400494592",
+              "start": 12,
+              "username": "Dottyyidi"
+            },
+            {
+              "end": 37,
+              "id": "1676833970762428416",
+              "start": 23,
+              "username": "linglingerie0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851246078328520937",
+        "in_reply_to_user_id": "1511628119681077249",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850928504285872555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx23477708 @Dottyyidi @linglingerie0 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850928495574364160",
+            "3_1850928495532314624"
+          ]
+        },
+        "author_id": "1511628119681077249",
+        "conversation_id": "1850928504285872555",
+        "created_at": "2024-10-28T15:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T16:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850928504285872555"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 10,
+              "tag": "LingTouch"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1676833970762428416",
+              "start": 21,
+              "username": "linglingerie0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a0AKWNrwzi",
+              "end": 63,
+              "expanded_url": "https://x.com/xx23477708/status/1850928504285872555/photo/1",
+              "media_key": "3_1850928495574364160",
+              "start": 40,
+              "url": "https://t.co/a0AKWNrwzi"
+            },
+            {
+              "display_url": "pic.x.com/a0AKWNrwzi",
+              "end": 63,
+              "expanded_url": "https://x.com/xx23477708/status/1850928504285872555/photo/1",
+              "media_key": "3_1850928495532314624",
+              "start": 40,
+              "url": "https://t.co/a0AKWNrwzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850928504285872555",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 28850,
+          "like_count": 1371,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "我允许你叫我妈妈\n\n#LingTouch @linglingerie0【腰娆】 https://t.co/a0AKWNrwzi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/男m/傻逼长发男",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850177714168397824/9VpLpWNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 226,
+          "like_count": 221,
+          "listed_count": 0,
+          "tweet_count": 41
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T08:53:34.000Z",
+        "description": "口令红包回复૮₍𖦹ᯅ𖦹₎ა没有额外服务谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/dottyyidi",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/dottyyidi",
+                "start": 0,
+                "url": "https://t.co/Yxy89j3e84"
+              }
+            ]
+          }
+        },
+        "id": "1511628119681077249",
+        "name": "嘘",
+        "pinned_tweet_id": "1850928504285872555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691470998066077696/yH7PkaGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63473,
+          "following_count": 274,
+          "like_count": 1423,
+          "listed_count": 299,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/Yxy89j3e84",
+        "username": "xx23477708",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-01T01:20:01.000Z",
+        "description": "Check out my linktree for more! 欢迎关注我其他的频道！Linktreeでさらに詳しくチェックしてね！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/dottyyidi",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/dottyyidi",
+                "start": 0,
+                "url": "https://t.co/SaJcAN3Fy6"
+              }
+            ]
+          }
+        },
+        "id": "1333581528400494592",
+        "location": "🏖️🗺️🏰",
+        "name": "一滴都不给你剩Yidi",
+        "pinned_tweet_id": "1844695185692954933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622280828452732929/5cQNS308_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543155,
+          "following_count": 441,
+          "like_count": 4566,
+          "listed_count": 1652,
+          "tweet_count": 2235
+        },
+        "url": "https://t.co/SaJcAN3Fy6",
+        "username": "Dottyyidi",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2023-07-06T06:02:43.000Z",
+        "description": "Sensually crafted and exquisitely sealed with desire, shaping the experience with pronounced eastern aesthetics. Email: info@ling-lingerie.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Ling-lingerie.com",
+                "end": 23,
+                "expanded_url": "http://Ling-lingerie.com",
+                "start": 0,
+                "url": "https://t.co/6JKZDeHfuT"
+              }
+            ]
+          }
+        },
+        "id": "1676833970762428416",
+        "location": "Melbourne, Victoria",
+        "name": "LING LINGERIE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676834631298220034/rWDnet8L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19459,
+          "following_count": 7,
+          "like_count": 3,
+          "listed_count": 59,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/6JKZDeHfuT",
+        "username": "linglingerie0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1954686396335296988",
+    "created_at": "2025-08-10T23:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T00:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954686396335296988"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akf13978/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/akf13978/status/1954151577251356750",
+          "start": 10,
+          "url": "https://t.co/KFGUrT4DO4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954686396335296988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954151577251356750",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要不我也当男喘圈钱 https://t.co/KFGUrT4DO4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954151573418131456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx6KgKLbwAAG1hK.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954151573900451840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx6KgL-bYAAZNUa.jpg",
+        "width": 938
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954151573900406784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx6KgL-asAA-6eW.jpg",
+        "width": 599
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954151574529531904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx6KgOUaYAAbJDD.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1954686396335296988",
+        "created_at": "2025-08-10T23:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T00:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954686396335296988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akf13978/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/akf13978/status/1954151577251356750",
+              "start": 10,
+              "url": "https://t.co/KFGUrT4DO4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954686396335296988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954151577251356750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要不我也当男喘圈钱 https://t.co/KFGUrT4DO4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954151573418131456",
+            "3_1954151573900451840",
+            "3_1954151573900406784",
+            "3_1954151574529531904"
+          ]
+        },
+        "author_id": "1121214017941323776",
+        "conversation_id": "1954151577251356750",
+        "created_at": "2025-08-09T12:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T13:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954151577251356750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eFQDZLiNUn",
+              "end": 53,
+              "expanded_url": "https://x.com/akf13978/status/1954151577251356750/photo/1",
+              "media_key": "3_1954151573418131456",
+              "start": 30,
+              "url": "https://t.co/eFQDZLiNUn"
+            },
+            {
+              "display_url": "pic.x.com/eFQDZLiNUn",
+              "end": 53,
+              "expanded_url": "https://x.com/akf13978/status/1954151577251356750/photo/1",
+              "media_key": "3_1954151573900451840",
+              "start": 30,
+              "url": "https://t.co/eFQDZLiNUn"
+            },
+            {
+              "display_url": "pic.x.com/eFQDZLiNUn",
+              "end": 53,
+              "expanded_url": "https://x.com/akf13978/status/1954151577251356750/photo/1",
+              "media_key": "3_1954151573900406784",
+              "start": 30,
+              "url": "https://t.co/eFQDZLiNUn"
+            },
+            {
+              "display_url": "pic.x.com/eFQDZLiNUn",
+              "end": 53,
+              "expanded_url": "https://x.com/akf13978/status/1954151577251356750/photo/1",
+              "media_key": "3_1954151574529531904",
+              "start": 30,
+              "url": "https://t.co/eFQDZLiNUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954151577251356750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 255839,
+          "like_count": 883,
+          "quote_count": 46,
+          "reply_count": 220,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "180斤1年硬⭕20w？？？现在的瓜真是一天比一天炸裂…… https://t.co/eFQDZLiNUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "这个世界会好吗",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1952972639154389022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 62,
+          "like_count": 710,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 205
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-25T00:47:07.000Z",
+        "description": "常刷推/随口吐槽/碎碎念/会念念感兴趣的本",
+        "id": "1121214017941323776",
+        "location": "Taiwan",
+        "name": "青由也",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954457828523200512/cbxRnQHY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1879,
+          "following_count": 1000,
+          "like_count": 640,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 744
+        },
+        "username": "akf13978",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058020709583212544"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "2058020814092677359",
+    "created_at": "2026-05-23T03:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T04:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058020814092677359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/csp93kvz3z",
+          "end": 38,
+          "expanded_url": "https://x.com/LMing233/status/2058020814092677359/video/1",
+          "media_key": "13_2058020709583212544",
+          "start": 15,
+          "url": "https://t.co/csp93kvz3z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058020814092677359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "忙碌了几天还要给小狗做按摩呜 https://t.co/csp93kvz3z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13271,
+        "height": 1280,
+        "media_key": "13_2058020709583212544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058020709583212544/img/hFaYibuHjBBt57_d.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058020709583212544/vid/avc1/320x568/rUGZ5olUeaQKHM4-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058020709583212544/vid/avc1/480x852/uLliToIQI_kOuib8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058020709583212544/vid/avc1/720x1280/oe7FEIjzVraQ7ncv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058020709583212544/pl/z29Rm9zyN86ia78Q.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058020709583212544"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "2058020814092677359",
+        "created_at": "2026-05-23T03:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058020814092677359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/csp93kvz3z",
+              "end": 38,
+              "expanded_url": "https://x.com/LMing233/status/2058020814092677359/video/1",
+              "media_key": "13_2058020709583212544",
+              "start": 15,
+              "url": "https://t.co/csp93kvz3z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058020814092677359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忙碌了几天还要给小狗做按摩呜 https://t.co/csp93kvz3z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子/infp/♂/我割我o/寻同类互fo",
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "2056936011675185641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 94,
+          "like_count": 1456,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 193
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

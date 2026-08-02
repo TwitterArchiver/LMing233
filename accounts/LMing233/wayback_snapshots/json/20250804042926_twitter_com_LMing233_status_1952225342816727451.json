@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1952224826866987499",
+    "created_at": "2025-08-04T04:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T05:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952225342816727451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1785666105589035008",
+          "start": 0,
+          "username": "oozyi286170"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952225342816727451",
+    "in_reply_to_user_id": "1785666105589035008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952224826866987499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oozyi286170 1 对 2 #"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1952224826866987499",
+        "created_at": "2025-08-04T04:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T05:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952225342816727451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1785666105589035008",
+              "start": 0,
+              "username": "oozyi286170"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952225342816727451",
+        "in_reply_to_user_id": "1785666105589035008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952224826866987499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oozyi286170 1 对 2 #"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785666105589035008",
+        "conversation_id": "1952224826866987499",
+        "created_at": "2025-08-04T04:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T05:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952224826866987499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952224826866987499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有几个笨笨的问题：\n1️⃣大家在推上发的表情包都是相册里的图片吗\n2️⃣发推文怎么打tag啊🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 52,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 115
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T13:43:00.000Z",
+        "description": "不搞推推恋 不约 别一上来就发吊",
+        "id": "1785666105589035008",
+        "name": "椰汁加盐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929202568917553152/ttIL0oWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 62,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 109
+        },
+        "username": "oozyi286170",
+        "verified": false
+      }
+    ]
+  }
+}

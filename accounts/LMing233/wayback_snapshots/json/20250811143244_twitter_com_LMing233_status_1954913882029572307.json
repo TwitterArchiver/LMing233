@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "1309273018082816000",
+          "name": "Atlus"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1309273018082816000",
+          "name": "Atlus"
+        }
+      }
+    ],
+    "conversation_id": "1954868245996945809",
+    "created_at": "2025-08-11T14:32:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T15:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954913882029572307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "968175759998124034",
+          "start": 0,
+          "username": "Kokorotsuki_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954913882029572307",
+    "in_reply_to_user_id": "968175759998124034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954868245996945809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kokorotsuki_ atlus最大的败笔就是设计了这个小丑还强行卖腐🤢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1309273018082816000",
+              "name": "Atlus"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1309273018082816000",
+              "name": "Atlus"
+            }
+          }
+        ],
+        "conversation_id": "1954868245996945809",
+        "created_at": "2025-08-11T14:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T15:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954913882029572307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "968175759998124034",
+              "start": 0,
+              "username": "Kokorotsuki_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954913882029572307",
+        "in_reply_to_user_id": "968175759998124034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954868245996945809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kokorotsuki_ atlus最大的败笔就是设计了这个小丑还强行卖腐🤢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "968175759998124034",
+        "conversation_id": "1954868245996945809",
+        "created_at": "2025-08-11T11:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T12:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954868245996945809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954868245996945809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吗的p5r不小心进第三学期了 我不想进第三学期啊 cnm 又得回档重新刮痧了 再也不看心理医生了😭 还有阿特拉斯 明智吾郎是你野爹吗 就路边一条 你非得搞个复活合作剧情恶心我 真是司马了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "这个世界会好吗",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1952972639154389022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 63,
+          "like_count": 721,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 217
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-26T17:27:43.000Z",
+        "description": "五月病就让他病到明年五月吧@kokoroyami_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "kokoroyami_0"
+              }
+            ]
+          }
+        },
+        "id": "968175759998124034",
+        "name": "🌟因为你真的太可爱了所以我",
+        "pinned_tweet_id": "1754925285685031001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942272777282564096/9soynV3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 221,
+          "like_count": 2693,
+          "listed_count": 0,
+          "media_count": 806,
+          "tweet_count": 1861
+        },
+        "username": "Kokorotsuki_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947637386915217408",
+        "3_1947637386915287040"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1947637394255032494",
+    "created_at": "2025-07-22T12:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T13:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947637394255032494"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MvOtxs4SBf",
+          "end": 30,
+          "expanded_url": "https://x.com/LMing233/status/1947637394255032494/photo/1",
+          "media_key": "3_1947637386915217408",
+          "start": 7,
+          "url": "https://t.co/MvOtxs4SBf"
+        },
+        {
+          "display_url": "pic.x.com/MvOtxs4SBf",
+          "end": 30,
+          "expanded_url": "https://x.com/LMing233/status/1947637394255032494/photo/1",
+          "media_key": "3_1947637386915287040",
+          "start": 7,
+          "url": "https://t.co/MvOtxs4SBf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947637394255032494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 50,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我xp就这样 https://t.co/MvOtxs4SBf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1947637386915217408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwdl4mZaAAAV7v0.jpg",
+        "width": 1338
+      },
+      {
+        "height": 1071,
+        "media_key": "3_1947637386915287040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwdl4mZbEAAF-zn.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947637386915217408",
+            "3_1947637386915287040"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1947637394255032494",
+        "created_at": "2025-07-22T12:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T13:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947637394255032494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MvOtxs4SBf",
+              "end": 30,
+              "expanded_url": "https://x.com/LMing233/status/1947637394255032494/photo/1",
+              "media_key": "3_1947637386915217408",
+              "start": 7,
+              "url": "https://t.co/MvOtxs4SBf"
+            },
+            {
+              "display_url": "pic.x.com/MvOtxs4SBf",
+              "end": 30,
+              "expanded_url": "https://x.com/LMing233/status/1947637394255032494/photo/1",
+              "media_key": "3_1947637386915287040",
+              "start": 7,
+              "url": "https://t.co/MvOtxs4SBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947637394255032494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我xp就这样 https://t.co/MvOtxs4SBf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "主页有🔞慎入丨我是男孩子丨INFP丨M/puppy丨碎碎念丨单身",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 110,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 86
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

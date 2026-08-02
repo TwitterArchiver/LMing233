@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926908791758462978"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1926908802554548485",
+    "created_at": "2025-05-26T07:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T08:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926908802554548485"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 7,
+          "tag": "肉棒"
+        },
+        {
+          "end": 14,
+          "start": 11,
+          "tag": "牛牛"
+        },
+        {
+          "end": 18,
+          "start": 15,
+          "tag": "牛子"
+        },
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "手冲"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1NHXyiLz3o",
+          "end": 46,
+          "expanded_url": "https://x.com/LMing233/status/1926908802554548485/photo/1",
+          "media_key": "3_1926908791758462978",
+          "start": 23,
+          "url": "https://t.co/1NHXyiLz3o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926908802554548485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "旧图新发（）\n#肉棒 #牛牛 #牛子 #手冲 https://t.co/1NHXyiLz3o"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926908802554548485].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926908802554548485",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926908802554548485"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1926908791758462978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr3BVj9XIAIcQto.jpg",
+        "width": 1024
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/1im",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1867978855862133182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926875850722459648/RRKXsJ1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 235,
+          "like_count": 321,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 65
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

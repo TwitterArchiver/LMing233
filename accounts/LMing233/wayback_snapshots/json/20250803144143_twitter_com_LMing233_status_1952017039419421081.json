@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1952012204590686264",
+    "created_at": "2025-08-03T14:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T15:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952017039419421081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799795163843436544",
+          "start": 0,
+          "username": "BeetiIsDog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952017039419421081",
+    "in_reply_to_user_id": "1799795163843436544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952012204590686264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeetiIsDog 报名"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_1952012184776753155",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GxbwvWbaQAMIIIc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GxbwvWbaQAMIIIc.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1952012204590686264",
+        "created_at": "2025-08-03T14:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T15:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952017039419421081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799795163843436544",
+              "start": 0,
+              "username": "BeetiIsDog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952017039419421081",
+        "in_reply_to_user_id": "1799795163843436544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952012204590686264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeetiIsDog 报名"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1952012184776753155"
+          ]
+        },
+        "author_id": "1799795163843436544",
+        "conversation_id": "1952012204590686264",
+        "created_at": "2025-08-03T14:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T15:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952012204590686264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N6wxyyBKYC",
+              "end": 51,
+              "expanded_url": "https://x.com/BeetiIsDog/status/1952012204590686264/photo/1",
+              "media_key": "16_1952012184776753155",
+              "start": 28,
+              "url": "https://t.co/N6wxyyBKYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952012204590686264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁和我互关，和我互关即可获得傻子高三生日常碎碎念（？） https://t.co/N6wxyyBKYC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨INFP丨1im丨碎碎念丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的大概率不回）",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 52,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 106
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "=beeti犬or鼻涕狗/afab/ 病み垢高三生/脑内想法垃圾场                                                                       \n来这里是为了发负能还有碎碎念。请不要骂我或截图到墙内、多点关心多点爱。看成分回fo\n@5_HTIsUsagi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 147,
+                "username": "5_HTIsUsagi"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "≤ 1 km",
+        "name": "加油！小犬酱",
+        "pinned_tweet_id": "1936770496970006587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946979011520790528/3L0cK38H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 434,
+          "like_count": 7359,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1461
+        },
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}

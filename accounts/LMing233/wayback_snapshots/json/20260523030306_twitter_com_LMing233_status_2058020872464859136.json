@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "2057501728191447170",
+    "created_at": "2026-05-23T03:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T04:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058020872464859136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1953859279003561984",
+          "start": 0,
+          "username": "hKa8cKjZtF32839"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058020872464859136",
+    "in_reply_to_user_id": "1953859279003561984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057501728191447170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hKa8cKjZtF32839 你好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2057501728191447170",
+        "created_at": "2026-05-23T03:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058020872464859136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1953859279003561984",
+              "start": 0,
+              "username": "hKa8cKjZtF32839"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058020872464859136",
+        "in_reply_to_user_id": "1953859279003561984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057501728191447170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hKa8cKjZtF32839 你好。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953859279003561984",
+        "conversation_id": "2057501728191447170",
+        "created_at": "2026-05-21T16:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057501728191447170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057501728191447170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能不能推点男的给我关注，为啥碎碎念的男的这么少，男的是有什么黑暗森林法则吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子/infp/♂/我割我o/寻同类互fo",
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "2056936011675185641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 94,
+          "like_count": 1456,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 194
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T16:42:26.000Z",
+        "description": "宅/安徽/命比愈美苦三分",
+        "id": "1953859279003561984",
+        "name": "你们随便吧我不玩了",
+        "pinned_tweet_id": "2057285111377518921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039319061059002369/CIeLrZoi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 40,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 148
+        },
+        "username": "hKa8cKjZtF32839",
+        "verified": false
+      }
+    ]
+  }
+}

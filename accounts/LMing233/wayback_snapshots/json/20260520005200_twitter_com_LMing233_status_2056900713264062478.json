@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "2056800383335317683",
+    "created_at": "2026-05-20T00:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T01:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056900713264062478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967367341681086464",
+          "start": 0,
+          "username": "Zay19ne104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056900713264062478",
+    "in_reply_to_user_id": "1967367341681086464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056800383335317683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zay19ne104 咋没人怜爱我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2056800383335317683",
+        "created_at": "2026-05-20T00:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T01:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056900713264062478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967367341681086464",
+              "start": 0,
+              "username": "Zay19ne104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056900713264062478",
+        "in_reply_to_user_id": "1967367341681086464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056800383335317683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zay19ne104 咋没人怜爱我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967367341681086464",
+        "conversation_id": "2056800383335317683",
+        "created_at": "2026-05-19T18:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056800383335317683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056800383335317683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在路上看到割席弟割席妹就会自动怜爱一下、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "cn椰子/infp/♂/我有精神病/我割我o/查成分互fo",
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 73,
+          "like_count": 1362,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 182
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T23:18:32.000Z",
+        "description": "我有精神病。",
+        "id": "1967367341681086464",
+        "name": "Zay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056477868587188224/4E0g1S3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 25,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "username": "Zay19ne104",
+        "verified": false
+      }
+    ]
+  }
+}

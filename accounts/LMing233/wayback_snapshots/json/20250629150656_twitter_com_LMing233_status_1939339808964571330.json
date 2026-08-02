@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1939287180389810387",
+    "created_at": "2025-06-29T15:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T16:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939339808964571330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939339808964571330",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939287180389810387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop 炫压抑成啥样会被骗 不如v哥们50哥们给你找片看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1939287180389810387",
+        "created_at": "2025-06-29T15:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T16:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939339808964571330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939339808964571330",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939287180389810387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 炫压抑成啥样会被骗 不如v哥们50哥们给你找片看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613079089879076864",
+        "conversation_id": "1939287180389810387",
+        "created_at": "2025-06-29T11:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T12:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939287180389810387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "1613079089879076864",
+              "start": 34,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939287180389810387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 41,
+                "id": "1613079089879076864",
+                "start": 34,
+                "username": "Cldeop"
+              }
+            ]
+          },
+          "text": "【弱智吧反诈提醒】机器人黄推统一文案：\n墨迹的勿扰懂的看💞\n我约过她@Cldeop 人美胸大\n*近期已有弱智被骗，请吧友们多加谨慎"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 27249,
+          "like_count": 300,
+          "quote_count": 8,
+          "reply_count": 101,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "【弱智吧反诈提醒】机器人黄推统一文案：\n墨迹的勿扰懂的看💞\n我约过她@Cldeop 人美胸大\n*近期已有弱智被骗，请吧友们多加谨慎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/m",
+        "id": "1036167674470879232",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1932661244726817176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926875850722459648/RRKXsJ1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 237,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 75
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69430,
+          "following_count": 584,
+          "like_count": 29483,
+          "listed_count": 230,
+          "media_count": 10779,
+          "tweet_count": 15238
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

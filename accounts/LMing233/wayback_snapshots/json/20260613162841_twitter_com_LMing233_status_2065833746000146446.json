@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "2065833746000146446",
+    "created_at": "2026-06-13T16:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065833746000146446"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/imyouraquila/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/imyouraquila/status/2032846722637164561",
+          "start": 5,
+          "url": "https://t.co/3PIqLGI2kW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065833746000146446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032846722637164561",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是贱狗 https://t.co/3PIqLGI2kW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2065833746000146446",
+        "created_at": "2026-06-13T16:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065833746000146446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/imyouraquila/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/imyouraquila/status/2032846722637164561",
+              "start": 5,
+              "url": "https://t.co/3PIqLGI2kW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065833746000146446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032846722637164561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是贱狗 https://t.co/3PIqLGI2kW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015484320920793089",
+        "conversation_id": "2032846722637164561",
+        "created_at": "2026-03-14T15:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032846722637164561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032846722637164561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 63570,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "呵呵被掐着脖子质问好爽吧，被手指搅动口腔好爽吧，被掰着下巴接吻好爽吧，抓着头发被扇巴掌好爽吧，被打屁股问今天有没有乖乖听话好爽吧，冷脸骂你下流货色骚货贱狗好爽吧，sweet talk哄你乖乖宝宝好爽吧，被强制爱好爽吧，时时刻刻被掌控好爽吧，只看着你好爽吧，那只爱着你是不是最爽了🥺。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子/infp/♂/餐券/我割我o/m/欢迎同类互fo\n#shtwt #自残 #自伤",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 40,
+                "start": 37,
+                "tag": "自残"
+              },
+              {
+                "end": 44,
+                "start": 41,
+                "tag": "自伤"
+              }
+            ]
+          }
+        },
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "2059657448965959719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 152,
+          "like_count": 1647,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 234
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T17:58:16.000Z",
+        "description": "在一个谦卑的夜里，我曾将自己的心比作蛇结｜绝望牛马 投资失败者 晚学荣誉毕业生 瀚语言文学家 香奈儿信徒 百分百无添加纯dom 黄金右脸 梦想是成为在静安寺拥有五套房的女人 哎这里站不下这么多人！｜宝宝们来和我互关吧૮₍.•︤ ᴥ·•︤ ₎ა｜我在匿名提问很想你⬇️｜莉莉亚娜不可战胜的夏天@whereismyShero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "whereismyShero"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aquilainyourhe…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aquilainyourheart",
+                "start": 0,
+                "url": "https://t.co/hhAemALP7k"
+              }
+            ]
+          }
+        },
+        "id": "2015484320920793089",
+        "location": "到灯塔去",
+        "name": "讓我親吻妳的淤青",
+        "pinned_tweet_id": "2032846722637164561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033152255009193984/UZqpjVD3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 957,
+          "like_count": 3107,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 2645
+        },
+        "url": "https://t.co/hhAemALP7k",
+        "username": "imyouraquila",
+        "verified": false
+      }
+    ]
+  }
+}

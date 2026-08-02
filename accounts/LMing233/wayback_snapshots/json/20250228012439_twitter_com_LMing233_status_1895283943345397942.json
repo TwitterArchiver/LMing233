@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895283932456738816"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1895283943345397942",
+    "created_at": "2025-02-28T01:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T02:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895283943345397942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pi1Pp76gCE",
+          "end": 45,
+          "expanded_url": "https://x.com/LMing233/status/1895283943345397942/photo/1",
+          "media_key": "3_1895283932456738816",
+          "start": 22,
+          "url": "https://t.co/pi1Pp76gCE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895283943345397942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果布鲁克纳能活到完成这部伟大的作品。。。 https://t.co/pi1Pp76gCE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1111,
+        "media_key": "3_1895283932456738816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk1mseaW4AAAGl4.jpg",
+        "width": 1028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895283932456738816"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1895283943345397942",
+        "created_at": "2025-02-28T01:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T02:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895283943345397942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pi1Pp76gCE",
+              "end": 45,
+              "expanded_url": "https://x.com/LMing233/status/1895283943345397942/photo/1",
+              "media_key": "3_1895283932456738816",
+              "start": 22,
+              "url": "https://t.co/pi1Pp76gCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895283943345397942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果布鲁克纳能活到完成这部伟大的作品。。。 https://t.co/pi1Pp76gCE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/男m",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850177714168397824/9VpLpWNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 225,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 37
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

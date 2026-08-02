@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1916382290072027590",
+    "created_at": "2025-04-27T23:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T00:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916630318444167192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916630318444167192",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916382290072027590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 熊，很可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1916382290072027590",
+        "created_at": "2025-04-27T23:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T00:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916630318444167192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916630318444167192",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916382290072027590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 熊，很可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592865779241734144",
+        "conversation_id": "1916382290072027590",
+        "created_at": "2025-04-27T06:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T07:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916382290072027590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916382290072027590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 32056,
+          "like_count": 315,
+          "quote_count": 12,
+          "reply_count": 193,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "有时候真觉得你们就长头像那样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/1im",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912362874955030528/r3-W3yXQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 238,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 53
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "滚",
+        "id": "1592865779241734144",
+        "location": "如果因我而感到幸福请上钩𐃆 ˒˒𑙕 .   ᩙ . ꛒ",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "1915905542603555302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912767100063502336/qt0GQV52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8266,
+          "following_count": 223,
+          "like_count": 20041,
+          "listed_count": 10,
+          "media_count": 704,
+          "tweet_count": 15269
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1953450049960083675",
+    "created_at": "2025-08-07T14:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T15:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953460187072995549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1822003489373089792",
+          "start": 0,
+          "username": "xssj9464"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953460187072995549",
+    "in_reply_to_user_id": "1822003489373089792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953450049960083675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xssj9464 美女姐姐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10309,
+        "height": 720,
+        "media_key": "7_1953450004972261376",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1953450004972261376/pu/img/EN88waKLDXqxn68n.jpg",
+        "public_metrics": {
+          "view_count": 23
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953450004972261376/pu/vid/avc1/368x270/KCZ0Pw_w_slFXEzJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953450004972261376/pu/vid/avc1/492x360/JeUhieZCoIfIPVBH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953450004972261376/pu/vid/avc1/986x720/QXRmvL8oiu0QPwKw.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1953450004972261376/pu/pl/NfmXWuF7MGaz57Y_.m3u8?tag=12"
+          }
+        ],
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1953450049960083675",
+        "created_at": "2025-08-07T14:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T15:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953460187072995549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1822003489373089792",
+              "start": 0,
+              "username": "xssj9464"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953460187072995549",
+        "in_reply_to_user_id": "1822003489373089792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953450049960083675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xssj9464 美女姐姐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1953450004972261376"
+          ]
+        },
+        "author_id": "1822003489373089792",
+        "conversation_id": "1953450049960083675",
+        "created_at": "2025-08-07T13:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T14:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953450049960083675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pjlfht8uvY",
+              "end": 23,
+              "expanded_url": "https://x.com/xssj9464/status/1953450049960083675/video/1",
+              "media_key": "7_1953450004972261376",
+              "start": 0,
+              "url": "https://t.co/pjlfht8uvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953450049960083675",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pjlfht8uvY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "这个世界会好吗",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1952972639154389022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 62,
+          "like_count": 641,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 168
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T20:14:25.000Z",
+        "description": "碎碎念 偶尔掉落不开心的事 不闲聊 不要上来发j照发情互fo私信 叫我伤心就可以 清水推",
+        "id": "1822003489373089792",
+        "location": "冰岛",
+        "name": "伤心",
+        "pinned_tweet_id": "1951979473336938714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951922735367778304/2PE2b0qE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 115,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 719
+        },
+        "username": "xssj9464",
+        "verified": false
+      }
+    ]
+  }
+}

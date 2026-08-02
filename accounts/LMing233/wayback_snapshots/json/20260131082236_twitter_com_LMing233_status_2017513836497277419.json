@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "2017513836497277419",
+    "created_at": "2026-01-31T08:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T09:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017513836497277419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kazkodaka/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/kazkodaka/status/2017439981984509953",
+          "start": 14,
+          "url": "https://t.co/bnzwMp3DSY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017513836497277419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017439981984509953",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了小高竟然知道这个梗 https://t.co/bnzwMp3DSY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2017439973671370752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_9i95pbAAALMbT.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2017513836497277419",
+        "created_at": "2026-01-31T08:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017513836497277419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kazkodaka/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/kazkodaka/status/2017439981984509953",
+              "start": 14,
+              "url": "https://t.co/bnzwMp3DSY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017513836497277419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017439981984509953",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了小高竟然知道这个梗 https://t.co/bnzwMp3DSY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017439973671370752"
+          ]
+        },
+        "author_id": "221344673",
+        "conversation_id": "2017439981984509953",
+        "created_at": "2026-01-31T03:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T04:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017439981984509953"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "中国",
+              "probability": 0.8656,
+              "start": 8,
+              "type": "Place"
+            },
+            {
+              "end": 24,
+              "normalized_text": "中国",
+              "probability": 0.8556,
+              "start": 23,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Hu2sMQfbb",
+              "end": 87,
+              "expanded_url": "https://x.com/kazkodaka/status/2017439981984509953/photo/1",
+              "media_key": "3_2017439973671370752",
+              "start": 64,
+              "url": "https://t.co/9Hu2sMQfbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017439981984509953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 35842,
+          "like_count": 1006,
+          "quote_count": 18,
+          "reply_count": 21,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "この写真撮ったら中国でバズるぞー、と旅の前から中国の友人と話してて、空いた時間にわざわざ写真を撮りに行って、実際にバズってた。 https://t.co/9Hu2sMQfbb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "cn椰子/infp/我有精神病/查成分互fo",
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983749067361677312/-UaapTrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 61,
+          "like_count": 1194,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 255
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-30T12:09:31.000Z",
+        "description": "「ダンガンロンパ」「レインコード」「アクダマドライブ」 「トライブナイン」「デスカムトゥルー」「ワールズエンドクラブ」 などを作りました。初の自社IP作品かつ集大成かつ狂気の最高傑作「ハンドレッドライン最終防衛学園」はswitchとsteamで発売中。新作ADV「終天教団」2025年9月に発売。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tookyogames.jp",
+                "end": 23,
+                "expanded_url": "https://tookyogames.jp/",
+                "start": 0,
+                "url": "https://t.co/CA2nuY8qXE"
+              }
+            ]
+          }
+        },
+        "id": "221344673",
+        "name": "Kazutaka kodaka/小高和剛",
+        "pinned_tweet_id": "1970453256641114367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/985471791853219840/kUiFy0KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159892,
+          "following_count": 658,
+          "like_count": 3856,
+          "listed_count": 746,
+          "media_count": 2417,
+          "tweet_count": 27243
+        },
+        "url": "https://t.co/CA2nuY8qXE",
+        "username": "kazkodaka",
+        "verified": true
+      }
+    ]
+  }
+}

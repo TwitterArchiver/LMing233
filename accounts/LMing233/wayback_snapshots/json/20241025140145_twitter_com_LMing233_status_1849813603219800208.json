@@ -1,0 +1,130 @@
+{
+  "data": {
+    "author_id": "1036167674470879232",
+    "conversation_id": "1849434926833418730",
+    "created_at": "2024-10-25T14:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-25T15:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1849813603219800208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1751651655584800768",
+          "start": 0,
+          "username": "Puppy7_c"
+        }
+      ]
+    },
+    "id": "1849813603219800208",
+    "in_reply_to_user_id": "1751651655584800768",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 544,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849434926833418730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Puppy7_c 塞我嘴里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1036167674470879232",
+        "conversation_id": "1849434926833418730",
+        "created_at": "2024-10-25T14:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-25T15:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849813603219800208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1751651655584800768",
+              "start": 0,
+              "username": "Puppy7_c"
+            }
+          ]
+        },
+        "id": "1849813603219800208",
+        "in_reply_to_user_id": "1751651655584800768",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 544,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849434926833418730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puppy7_c 塞我嘴里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/男m",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850177714168397824/9VpLpWNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 221,
+          "like_count": 293,
+          "listed_count": 0,
+          "tweet_count": 25
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T17:01:35.000Z",
+        "description": "全平台同名｜私信只回!!!好友位999(没有任何福利 只是私人号)｜脾气爆爱骂你老爸老妈｜推广别烦我｜无线下/视频｜仅此一个号 被骗概不负责｜只有dy ins wb xhs无其他平台",
+        "id": "1751651655584800768",
+        "name": "Puppy7_C",
+        "pinned_tweet_id": "1839930767150850487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751653648487325696/CP1kp-us_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8524,
+          "following_count": 0,
+          "like_count": 59,
+          "listed_count": 19,
+          "tweet_count": 142
+        },
+        "username": "Puppy7_c",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1943180718890455088",
+    "created_at": "2025-07-12T23:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T00:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944179305342267398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1939051055389573120",
+          "start": 0,
+          "username": "bhfgrhyzsg"
+        },
+        {
+          "end": 21,
+          "id": "997135182",
+          "start": 12,
+          "username": "zzzzxwww"
+        },
+        {
+          "end": 35,
+          "id": "1562782205381713922",
+          "start": 22,
+          "username": "linqijiang77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944179305342267398",
+    "in_reply_to_user_id": "1939051055389573120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944098962937458780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bhfgrhyzsg @zzzzxwww @linqijiang77 www我是长发男m 不过不会在外面女装"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1943180718890455088",
+        "created_at": "2025-07-12T23:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T00:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944179305342267398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939051055389573120",
+              "start": 0,
+              "username": "bhfgrhyzsg"
+            },
+            {
+              "end": 21,
+              "id": "997135182",
+              "start": 12,
+              "username": "zzzzxwww"
+            },
+            {
+              "end": 35,
+              "id": "1562782205381713922",
+              "start": 22,
+              "username": "linqijiang77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944179305342267398",
+        "in_reply_to_user_id": "1939051055389573120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944098962937458780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bhfgrhyzsg @zzzzxwww @linqijiang77 www我是长发男m 不过不会在外面女装"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939051055389573120",
+        "conversation_id": "1943180718890455088",
+        "created_at": "2025-07-12T18:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T19:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944098962937458780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1036167674470879232",
+              "start": 0,
+              "username": "LMing233"
+            },
+            {
+              "end": 19,
+              "id": "997135182",
+              "start": 10,
+              "username": "zzzzxwww"
+            },
+            {
+              "end": 33,
+              "id": "1562782205381713922",
+              "start": 20,
+              "username": "linqijiang77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944098962937458780",
+        "in_reply_to_user_id": "1036167674470879232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943855864823394618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMing233 @zzzzxwww @linqijiang77 根本找不到长发裙子男M🙃假M被我骂一句就破防了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/m  喜欢温柔主",
+        "id": "1036167674470879232",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1932661244726817176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926875850722459648/RRKXsJ1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 239,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 85
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T19:59:40.000Z",
+        "description": "矮子就要当主人‖虐男狗，只接受且只喜欢被舔逼 ‖不是异性恋，不是同性恋，纯纯爱虐狗 ‖爱搞插入式的贱男贱女滚，爱虐女的女同滚 ‖不好看不露脸的滚，丑人滚啊！真的生理性反胃",
+        "id": "1939051055389573120",
+        "name": "骚狗给我跪下",
+        "pinned_tweet_id": "1943969094937739620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943722026918961152/O5v5kvkK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 18,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 56
+        },
+        "username": "bhfgrhyzsg",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-08T13:14:41.000Z",
+        "description": "🚹 也可以算mtx | 是小野猫 | 喜欢鲨鲨🦈猫猫🐈和可爱/酷酷的人 | 喜欢看男孩子被欺负 | sub/轻度brat | Platonic:iiii≈1:1 | ticklee | 互联网废物",
+        "id": "997135182",
+        "location": "北京",
+        "name": "O.🐳.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579389693241819136/dvnzkJZq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 965,
+          "like_count": 1695,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 620
+        },
+        "username": "zzzzxwww",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T12:41:53.000Z",
+        "description": "4i 颜控 御姐",
+        "id": "1562782205381713922",
+        "name": "林",
+        "pinned_tweet_id": "1785487406210462053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640212885191413760/lCBxCiVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7378,
+          "following_count": 11,
+          "like_count": 456,
+          "listed_count": 16,
+          "media_count": 108,
+          "tweet_count": 324
+        },
+        "username": "linqijiang77",
+        "verified": false
+      }
+    ]
+  }
+}

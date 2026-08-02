@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1960781502024966200",
+    "created_at": "2025-08-29T07:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T08:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961337836486983808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1616084592246538241",
+          "start": 0,
+          "username": "1Krystal23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961337836486983808",
+    "in_reply_to_user_id": "1616084592246538241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960781502024966200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1Krystal23 我直接hi mommy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2060,
+        "media_key": "3_1960781498648551426",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzYYYmUa4AIWZdd.jpg",
+        "width": 2204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1960781502024966200",
+        "created_at": "2025-08-29T07:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T08:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961337836486983808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1616084592246538241",
+              "start": 0,
+              "username": "1Krystal23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961337836486983808",
+        "in_reply_to_user_id": "1616084592246538241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960781502024966200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1Krystal23 我直接hi mommy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960781498648551426"
+          ]
+        },
+        "author_id": "1616084592246538241",
+        "conversation_id": "1960781502024966200",
+        "created_at": "2025-08-27T19:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T20:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960781502024966200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TNGJvoAobq",
+              "end": 31,
+              "expanded_url": "https://x.com/1Krystal23/status/1960781502024966200/photo/1",
+              "media_key": "3_1960781498648551426",
+              "start": 8,
+              "url": "https://t.co/TNGJvoAobq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960781502024966200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗完澡的绿毛龟 https://t.co/TNGJvoAobq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im男丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "总有一天我会回到你身边",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1957251180121251914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 65,
+          "like_count": 970,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 306
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-19T14:46:36.000Z",
+        "description": "07｜莫名其妙发一些有的没的｜互关加我vx好不好🥺🥺好想和人聊天🥺｜我又改名了补药删我啊｜女宝和互关找我打瓦 不要压力我就好我黑铁菜菜的",
+        "id": "1616084592246538241",
+        "location": "霓虹町",
+        "name": "性感大蟑螂",
+        "pinned_tweet_id": "1954985865765327016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960764908070690817/aWXUlwWC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 233,
+          "like_count": 1210,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 697
+        },
+        "username": "1Krystal23",
+        "verified": false
+      }
+    ]
+  }
+}

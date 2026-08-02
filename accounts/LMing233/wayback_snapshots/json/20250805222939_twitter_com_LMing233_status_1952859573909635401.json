@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1952741706065117541",
+    "created_at": "2025-08-05T22:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T23:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952859573909635401"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "美神降",
+          "probability": 0.5285,
+          "start": 10,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1822003489373089792",
+          "start": 0,
+          "username": "xssj9464"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952859573909635401",
+    "in_reply_to_user_id": "1822003489373089792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952741706065117541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xssj9464 美神降临🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15166,
+        "height": 720,
+        "media_key": "7_1952741603942268928",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1952741603942268928/pu/img/6hhy6CnC16bkpKC_.jpg",
+        "public_metrics": {
+          "view_count": 49
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952741603942268928/pu/vid/avc1/480x270/asuWhIUoQbHe6YjG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952741603942268928/pu/vid/avc1/640x360/UgOeHpgeNOnIYgc1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952741603942268928/pu/vid/avc1/1280x720/gkW7ivaOtPzYkOsF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1952741603942268928/pu/pl/Itfe657y-ystniZh.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1952741706065117541",
+        "created_at": "2025-08-05T22:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T23:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952859573909635401"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "美神降",
+              "probability": 0.5285,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1822003489373089792",
+              "start": 0,
+              "username": "xssj9464"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952859573909635401",
+        "in_reply_to_user_id": "1822003489373089792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952741706065117541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xssj9464 美神降临🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1952741603942268928"
+          ]
+        },
+        "author_id": "1822003489373089792",
+        "conversation_id": "1952741706065117541",
+        "created_at": "2025-08-05T14:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T15:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952741706065117541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5eMGbqeQd",
+              "end": 29,
+              "expanded_url": "https://x.com/xssj9464/status/1952741706065117541/video/1",
+              "media_key": "7_1952741603942268928",
+              "start": 6,
+              "url": "https://t.co/E5eMGbqeQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952741706065117541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从来不p图 https://t.co/E5eMGbqeQd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "想变得可爱一点丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "其实我是男孩子˃ ᵕ ˂",
+        "name": "绝望的m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 59,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 137
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T20:14:25.000Z",
+        "description": "碎碎念 偶尔掉落不开心的事 不闲聊 不要上来发j照发情互fo私信 叫我伤心就可以 清水推",
+        "id": "1822003489373089792",
+        "location": "冰岛",
+        "name": "伤心",
+        "pinned_tweet_id": "1951979473336938714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951922735367778304/2PE2b0qE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 116,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 712
+        },
+        "username": "xssj9464",
+        "verified": false
+      }
+    ]
+  }
+}

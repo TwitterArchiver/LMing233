@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1953109964421046641",
+    "created_at": "2025-08-06T15:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T16:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953109964421046641"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cerberries/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/cerberries/status/1952841935967932803",
+          "start": 8,
+          "url": "https://t.co/UBt243IIDm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953109964421046641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952841935967932803",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牢理你快回来😭 https://t.co/UBt243IIDm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 482,
+        "media_key": "16_1952841716765212673",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GxnjMd5awAE3jbF.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GxnjMd5awAE3jbF.mp4"
+          }
+        ],
+        "width": 642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1953109964421046641",
+        "created_at": "2025-08-06T15:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T16:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953109964421046641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cerberries/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/cerberries/status/1952841935967932803",
+              "start": 8,
+              "url": "https://t.co/UBt243IIDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953109964421046641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952841935967932803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牢理你快回来😭 https://t.co/UBt243IIDm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1952841716765212673"
+          ]
+        },
+        "author_id": "1465335955972182016",
+        "conversation_id": "1952841935967932803",
+        "created_at": "2025-08-05T21:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T22:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952841935967932803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eB4v88A3dV",
+              "end": 39,
+              "expanded_url": "https://x.com/cerberries/status/1952841935967932803/photo/1",
+              "media_key": "16_1952841716765212673",
+              "start": 16,
+              "url": "https://t.co/eB4v88A3dV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952841935967932803",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5235,
+          "impression_count": 436907,
+          "like_count": 34735,
+          "quote_count": 114,
+          "reply_count": 43,
+          "retweet_count": 6952
+        },
+        "reply_settings": "everyone",
+        "text": "memories of you https://t.co/eB4v88A3dV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "其实我是男孩子˃ ᵕ ˂",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1952972639154389022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 61,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 146
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-29T15:05:03.000Z",
+        "description": "@traestoshock @flowertabris",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "traestoshock"
+              },
+              {
+                "end": 27,
+                "start": 14,
+                "username": "flowertabris"
+              }
+            ]
+          }
+        },
+        "id": "1465335955972182016",
+        "location": "Black Mesa Research Facility",
+        "name": "cerberi",
+        "pinned_tweet_id": "1888347663307010503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784433469772509184/d0stzVZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2815,
+          "following_count": 630,
+          "like_count": 182823,
+          "listed_count": 12,
+          "media_count": 2887,
+          "tweet_count": 11925
+        },
+        "username": "cerberries",
+        "verified": false
+      }
+    ]
+  }
+}

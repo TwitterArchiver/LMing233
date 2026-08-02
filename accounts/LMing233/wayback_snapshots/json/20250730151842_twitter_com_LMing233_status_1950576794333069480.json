@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1950551805597003776"
+      ],
+      "media_source_tweet_id": [
+        "1950552213501378626"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1950576794333069480",
+    "created_at": "2025-07-30T15:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T16:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950576794333069480"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "四爱"
+        },
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "第四爱"
+        },
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "四爱女攻"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "4i"
+        },
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "iiii"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1491728484720283648",
+          "start": 3,
+          "username": "bbwwoai"
+        },
+        {
+          "end": 55,
+          "id": "1945540086374043648",
+          "start": 43,
+          "username": "MinusDomO3O"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/899BXl4bOJ",
+          "end": 127,
+          "expanded_url": "https://x.com/bbwwoai/status/1950552213501378626/video/1",
+          "media_key": "7_1950551805597003776",
+          "start": 104,
+          "url": "https://t.co/899BXl4bOJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950576794333069480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950552213501378626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbwwoai: #四爱 #第四爱 #四爱女攻 #4i #iiii \n感谢来自@MinusDomO3O \nMinus，投稿的视频。\n\n（剧情向）小狗偷摸自慰被妈妈发现后\n\n欢迎  Minus  回归 https://t.co/899BXl4bOJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1950576794333069480].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1950576794333069480",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1950576794333069480"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 230633,
+        "height": 1080,
+        "media_key": "7_1950551805597003776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1950551805597003776/pu/img/RAspFwr-7c6iwFNZ.jpg",
+        "public_metrics": {
+          "view_count": 3176
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1950551805597003776/pu/vid/avc1/480x270/GSC8dInmlI_Z7WpU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1950551805597003776/pu/vid/avc1/640x360/hSFAISNx5SxoKpDv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1950551805597003776/pu/vid/avc1/1280x720/YBC_sIGflnKhrmdt.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1950551805597003776/pu/pl/Ua_OxL2OQlv-k-Bq.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1950551805597003776"
+          ]
+        },
+        "author_id": "1491728484720283648",
+        "conversation_id": "1950552213501378626",
+        "created_at": "2025-07-30T13:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T14:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950552213501378626"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "四爱"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "第四爱"
+            },
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "四爱女攻"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "4i"
+            },
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "iiii"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 42,
+              "id": "1945540086374043648",
+              "start": 30,
+              "username": "MinusDomO3O"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/899BXl4bOJ",
+              "end": 114,
+              "expanded_url": "https://x.com/bbwwoai/status/1950552213501378626/video/1",
+              "media_key": "7_1950551805597003776",
+              "start": 91,
+              "url": "https://t.co/899BXl4bOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950552213501378626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 12325,
+          "like_count": 218,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "#四爱 #第四爱 #四爱女攻 #4i #iiii \n感谢来自@MinusDomO3O \nMinus，投稿的视频。\n\n（剧情向）小狗偷摸自慰被妈妈发现后\n\n欢迎  Minus  回归 https://t.co/899BXl4bOJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨INFP丨M/puppy丨碎碎念",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1947637394255032494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 116,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 76
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T10:59:27.000Z",
+        "description": "四爱相关视频剪辑，用特别剪辑方式展现。抱歉没法满足所有人心里的标准。欢迎投稿💌，以往投稿在我的【亮点】💡。有问题可以私信【直说】。没有公开小号。自用vpn：https://t.co/CFGRRE8TRz   【有偿接个人四爱相关内容转发宣传🧧】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "g.olinks.top/kcpHde",
+                "end": 101,
+                "expanded_url": "http://g.olinks.top/kcpHde",
+                "start": 78,
+                "url": "https://t.co/CFGRRE8TRz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/bbwwoai/status…",
+                "end": 23,
+                "expanded_url": "https://x.com/bbwwoai/status/1917567307859255732?s=19",
+                "start": 0,
+                "url": "https://t.co/DGr62OikNn"
+              }
+            ]
+          }
+        },
+        "id": "1491728484720283648",
+        "location": "推广自辨👇👇投稿要求推文链接",
+        "name": "茶百道",
+        "pinned_tweet_id": "1950444978385363300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614600514985160704/2TAfGpru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392565,
+          "following_count": 150,
+          "like_count": 441,
+          "listed_count": 887,
+          "media_count": 1927,
+          "tweet_count": 5925
+        },
+        "url": "https://t.co/DGr62OikNn",
+        "username": "bbwwoai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T17:44:52.000Z",
+        "description": "4i/1i/BDSM/重生版/每晚SPS倾听情感经历/分享doi的美好时刻/感觉至上/无约调项目/接网调、前列腺教学及陪玩业务/🚪138/改造直男对象的108招",
+        "id": "1945540086374043648",
+        "name": "Minus(3.0版)",
+        "pinned_tweet_id": "1945548834823975215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945540513068670976/M28PvcIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 10,
+          "like_count": 13,
+          "listed_count": 7,
+          "media_count": 22,
+          "tweet_count": 90
+        },
+        "username": "MinusDomO3O",
+        "verified": false
+      }
+    ]
+  }
+}

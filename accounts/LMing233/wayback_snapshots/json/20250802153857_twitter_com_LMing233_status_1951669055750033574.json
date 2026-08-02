@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1951667987393749074",
+    "created_at": "2025-08-02T15:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T16:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951669055750033574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1862925828570730496",
+          "start": 0,
+          "username": "wang_54269"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951669055750033574",
+    "in_reply_to_user_id": "1862925828570730496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951667987393749074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang_54269 不要难过了 小猫不小心挠伤自己很正常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1951667987393749074",
+        "created_at": "2025-08-02T15:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T16:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951669055750033574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1862925828570730496",
+              "start": 0,
+              "username": "wang_54269"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951669055750033574",
+        "in_reply_to_user_id": "1862925828570730496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951667987393749074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang_54269 不要难过了 小猫不小心挠伤自己很正常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862925828570730496",
+        "conversation_id": "1951667987393749074",
+        "created_at": "2025-08-02T15:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T16:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951667987393749074"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951667987393749074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天都在告诉自己不能再割了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨INFP丨1im/puppy丨碎碎念丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1851175959673848259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 111,
+          "like_count": 463,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 86
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:25:13.000Z",
+        "description": "我会为你哭泣",
+        "id": "1862925828570730496",
+        "name": "糯米酒精灯",
+        "pinned_tweet_id": "1925892030586036504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941777227609227264/a2Aa34vj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2484,
+          "following_count": 39,
+          "like_count": 536,
+          "listed_count": 8,
+          "media_count": 64,
+          "tweet_count": 339
+        },
+        "username": "wang_54269",
+        "verified": false
+      }
+    ]
+  }
+}

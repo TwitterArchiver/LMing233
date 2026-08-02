@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988629086051422208",
+        "3_1988629086072348672"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1988629095236673879",
+    "created_at": "2025-11-12T15:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T16:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988629095236673879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/91shE24iej",
+          "end": 27,
+          "expanded_url": "https://x.com/LMing233/status/1988629095236673879/photo/1",
+          "media_key": "3_1988629086051422208",
+          "start": 4,
+          "url": "https://t.co/91shE24iej"
+        },
+        {
+          "display_url": "pic.x.com/91shE24iej",
+          "end": 27,
+          "expanded_url": "https://x.com/LMing233/status/1988629095236673879/photo/1",
+          "media_key": "3_1988629086072348672",
+          "start": 4,
+          "url": "https://t.co/91shE24iej"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988629095236673879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没喝多 https://t.co/91shE24iej"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1988629086051422208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kHnhga0AA9ggU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1988629086072348672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kHnhlaIAAAEyz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988629086051422208",
+            "3_1988629086072348672"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1988629095236673879",
+        "created_at": "2025-11-12T15:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T16:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988629095236673879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/91shE24iej",
+              "end": 27,
+              "expanded_url": "https://x.com/LMing233/status/1988629095236673879/photo/1",
+              "media_key": "3_1988629086051422208",
+              "start": 4,
+              "url": "https://t.co/91shE24iej"
+            },
+            {
+              "display_url": "pic.x.com/91shE24iej",
+              "end": 27,
+              "expanded_url": "https://x.com/LMing233/status/1988629095236673879/photo/1",
+              "media_key": "3_1988629086072348672",
+              "start": 4,
+              "url": "https://t.co/91shE24iej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988629095236673879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没喝多 https://t.co/91shE24iej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我是男的丨infp丨可以叫我椰子丨西音 摇滚 术力口丨舞萌 任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 等丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "location": "总有一天我会回到你身边",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983749067361677312/-UaapTrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 65,
+          "like_count": 1128,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 306
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

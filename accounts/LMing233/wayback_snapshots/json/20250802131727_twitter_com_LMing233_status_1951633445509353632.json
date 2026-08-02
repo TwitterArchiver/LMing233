@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1951631571188060262",
+    "created_at": "2025-08-02T13:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T14:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951633445509353632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869751245109620736",
+          "start": 0,
+          "username": "special10273628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951633445509353632",
+    "in_reply_to_user_id": "1869751245109620736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951631571188060262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@special10273628 这个社群不是禁颜色嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1951631571188060262",
+        "created_at": "2025-08-02T13:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T14:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951633445509353632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869751245109620736",
+              "start": 0,
+              "username": "special10273628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951633445509353632",
+        "in_reply_to_user_id": "1869751245109620736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951631571188060262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@special10273628 这个社群不是禁颜色嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869751245109620736",
+        "conversation_id": "1951631571188060262",
+        "created_at": "2025-08-02T13:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T14:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951631571188060262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951631571188060262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "寸止到底是什么概念啊..刺激身体的东西拿走还是会有感觉 稍微夹一下感觉就gc了就想立马洗腚睡觉 完全不能再来一次🥹这个为什么这么多人喜欢啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨INFP丨1im/puppy丨碎碎念丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1947637394255032494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 109,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 83
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-19T14:26:58.000Z",
+        "description": "",
+        "id": "1869751245109620736",
+        "name": "yy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869751862125375488/AkAQq9k-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 78,
+          "like_count": 787,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 167
+        },
+        "username": "special10273628",
+        "verified": false
+      }
+    ]
+  }
+}

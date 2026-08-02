@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1946891961136210424",
+    "created_at": "2025-07-21T01:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T02:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947108466927235567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1935171926109872128",
+          "start": 0,
+          "username": "dudu_YJSoob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947108466927235567",
+    "in_reply_to_user_id": "1935171926109872128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946891961136210424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dudu_YJSoob 声音好听捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 67200,
+        "height": 1280,
+        "media_key": "13_1946891701055811584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1946891701055811584/img/CH2d-OcfrrJjWPDc.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946891701055811584/vid/avc1/320x694/4M-Baz649PZT8lCR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946891701055811584/vid/avc1/480x1040/hI1Ulubk0sUIoxYw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946891701055811584/vid/avc1/590x1280/D_1XzXWCfHaXU4fd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1946891701055811584/pl/q7-IauQ8Jyh_fywT.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1946891961136210424",
+        "created_at": "2025-07-21T01:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T02:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947108466927235567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1935171926109872128",
+              "start": 0,
+              "username": "dudu_YJSoob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947108466927235567",
+        "in_reply_to_user_id": "1935171926109872128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946891961136210424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dudu_YJSoob 声音好听捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1946891701055811584"
+          ]
+        },
+        "author_id": "1935171926109872128",
+        "conversation_id": "1946891961136210424",
+        "created_at": "2025-07-20T11:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T12:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946891961136210424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUFroED41A",
+              "end": 45,
+              "expanded_url": "https://x.com/dudu_YJSoob/status/1946891961136210424/video/1",
+              "media_key": "13_1946891701055811584",
+              "start": 22,
+              "url": "https://t.co/WUFroED41A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946891961136210424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天心情还可以！给泥萌听我唱的歌～！^ω^ https://t.co/WUFroED41A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "主页有🔞慎入丨我是男孩子丨INFP丨M/puppy丨碎碎念丨古典音乐 术力口 摇滚丨persona 极乐迪斯科 锈湖 星露谷 斯普拉遁 塞尔达 弹丸论破",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 111,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 76
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T03:05:28.000Z",
+        "description": "我很萌  喜欢上我人之常情罢了😋",
+        "id": "1935171926109872128",
+        "name": "嘟嘟大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936647531225563136/sgPIh4CS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 24,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 56
+        },
+        "username": "dudu_YJSoob",
+        "verified": false
+      }
+    ]
+  }
+}

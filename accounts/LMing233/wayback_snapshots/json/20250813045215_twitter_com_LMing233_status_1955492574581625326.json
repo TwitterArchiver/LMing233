@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1955223004629397888",
+    "created_at": "2025-08-13T04:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T05:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955492574581625326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934564473320415233",
+          "start": 0,
+          "username": "ouo3oyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955492574581625326",
+    "in_reply_to_user_id": "1934564473320415233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955223004629397888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouo3oyi 被女人扇的时候是香味先过来然后才是巴掌。香气进入鼻腔的那一刻，脸上火辣辣的疼已经不是疼了，是爽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1955222961113403394",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyJY7IXaEAIQrtU.jpg",
+        "width": 3076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1955223004629397888",
+        "created_at": "2025-08-13T04:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T05:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955492574581625326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934564473320415233",
+              "start": 0,
+              "username": "ouo3oyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955492574581625326",
+        "in_reply_to_user_id": "1934564473320415233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955223004629397888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouo3oyi 被女人扇的时候是香味先过来然后才是巴掌。香气进入鼻腔的那一刻，脸上火辣辣的疼已经不是疼了，是爽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955222961113403394"
+          ]
+        },
+        "author_id": "1934564473320415233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1955223004629397888",
+        "created_at": "2025-08-12T11:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T12:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955223004629397888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MJ4FgKTvW",
+              "end": 42,
+              "expanded_url": "https://x.com/ouo3oyi/status/1955223004629397888/photo/1",
+              "media_key": "3_1955222961113403394",
+              "start": 19,
+              "url": "https://t.co/6MJ4FgKTvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955223004629397888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 944,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点赞评论抽一个人什么都不送  纯抽。 https://t.co/6MJ4FgKTvW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "这个世界会好吗",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1955262173204173269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 63,
+          "like_count": 742,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 219
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T10:51:37.000Z",
+        "description": "大概是日常😇/不约不调不看屌。",
+        "id": "1934564473320415233",
+        "location": "﹦﹃ ＝",
+        "name": "冰冰无理",
+        "pinned_tweet_id": "1952313058577297702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954243322236809216/O5Qg1M5Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 120,
+          "like_count": 1930,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 718
+        },
+        "username": "ouo3oyi",
+        "verified": false
+      }
+    ]
+  }
+}

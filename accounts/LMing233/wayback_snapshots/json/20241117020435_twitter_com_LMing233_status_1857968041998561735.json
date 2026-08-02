@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857968036667600898"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1857826742989369444",
+    "created_at": "2024-11-17T02:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T03:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857968041998561735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1857105066047774720",
+          "start": 0,
+          "username": "hsh9996"
+        },
+        {
+          "end": 17,
+          "id": "1795497104049414144",
+          "start": 9,
+          "username": "hsh6669"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/66fvLXV3rW",
+          "end": 49,
+          "expanded_url": "https://x.com/LMing233/status/1857968041998561735/photo/1",
+          "media_key": "3_1857968036667600898",
+          "start": 26,
+          "url": "https://t.co/66fvLXV3rW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857968041998561735",
+    "in_reply_to_user_id": "1857105066047774720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857826742989369444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsh9996 @hsh6669 来我主页看牛牛 https://t.co/66fvLXV3rW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1857968041998561735].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1857968041998561735",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1857968041998561735"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1857968036667600898",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcjUFd2aMAIdXQn.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857105066047774720",
+        "conversation_id": "1857826742989369444",
+        "created_at": "2024-11-16T16:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T17:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857826742989369444"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857826742989369444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 46421,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 326,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "“第一届推特好牛子大赛”🍌\n\n(撸射/内裤弹牛 带视频参赛)\n\n(请不要发跟主题无关的内容)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/男m",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850177714168397824/9VpLpWNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 222,
+          "like_count": 296,
+          "listed_count": 0,
+          "tweet_count": 29
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T16:55:35.000Z",
+        "description": "",
+        "id": "1857105066047774720",
+        "name": "进来交友",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857458499288252416/GIp1vZLq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5171,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 2,
+          "tweet_count": 12
+        },
+        "username": "hsh9996",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T16:47:37.000Z",
+        "description": "情趣分享/ 话题投稿/ 树洞吐槽/ 付费交友委托/ 有偿推广转发/ 随缘给门槛加VX或互关/ 闲时可接视频验证/ 商务合作请私信/ 投稿筛选后发出🎁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hsh6669",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hsh6669",
+                "start": 0,
+                "url": "https://t.co/RSYTIwukRp"
+              }
+            ]
+          }
+        },
+        "id": "1795497104049414144",
+        "location": "Hong Kong",
+        "name": "全是烧杯",
+        "pinned_tweet_id": "1854356710154236069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795541690771701760/K-GFG_I7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366952,
+          "following_count": 60,
+          "like_count": 584,
+          "listed_count": 301,
+          "tweet_count": 2720
+        },
+        "url": "https://t.co/RSYTIwukRp",
+        "username": "hsh6669",
+        "verified": true
+      }
+    ]
+  }
+}

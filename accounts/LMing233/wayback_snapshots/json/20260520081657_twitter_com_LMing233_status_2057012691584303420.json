@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "2056649344863097086",
+    "created_at": "2026-05-20T08:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T09:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057012691584303420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055577370858520576",
+          "start": 0,
+          "username": "yuzuriha10x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057012691584303420",
+    "in_reply_to_user_id": "2055577370858520576",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056649344863097086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzuriha10x me in real life"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2056649344863097086",
+        "created_at": "2026-05-20T08:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057012691584303420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055577370858520576",
+              "start": 0,
+              "username": "yuzuriha10x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057012691584303420",
+        "in_reply_to_user_id": "2055577370858520576",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056649344863097086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzuriha10x me in real life"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055577370858520576",
+        "conversation_id": "2056649344863097086",
+        "created_at": "2026-05-19T08:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056649344863097086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056649344863097086",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 28101,
+          "like_count": 749,
+          "quote_count": 42,
+          "reply_count": 24,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "メンヘラな男の子可愛いよね\n一途しか勝たん\n軽くて浮気する人嫌いです"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "cn椰子/infp/♂/我有精神病/我割我o/餐券/想和同类互fo",
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 75,
+          "like_count": 1374,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 178
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T09:14:40.000Z",
+        "description": "躁鬱",
+        "id": "2055577370858520576",
+        "location": "21",
+        "name": "うかち",
+        "pinned_tweet_id": "2055578296403022198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055579013083729920/QMF3QurY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 167,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 67
+        },
+        "username": "yuzuriha10x",
+        "verified": false
+      }
+    ]
+  }
+}

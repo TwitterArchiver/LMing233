@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "2016388940341952594",
+    "created_at": "2026-01-28T05:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T06:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016388940341952594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845841508483862528",
+          "start": 3,
+          "username": "huoqinge_nn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016388940341952594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016070073736388894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huoqinge_nn: 煞笔人类\n少数民族歧视汉族，汉族歧视少数民族，本地人歧视外地人，白人歧视有色人种，有色人种歧视白人，男人歧视女人，女人歧视男人，人类歧视非人类\n人类有一个无辜的吗？😅整天排他来排他去有意思吗？真让我感到厌恶失望恶心愤怒\n何其傲慢，何其无知，何其…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2016388940341952594",
+        "created_at": "2026-01-28T05:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T06:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016388940341952594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845841508483862528",
+              "start": 3,
+              "username": "huoqinge_nn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016388940341952594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016070073736388894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huoqinge_nn: 煞笔人类\n少数民族歧视汉族，汉族歧视少数民族，本地人歧视外地人，白人歧视有色人种，有色人种歧视白人，男人歧视女人，女人歧视男人，人类歧视非人类\n人类有一个无辜的吗？😅整天排他来排他去有意思吗？真让我感到厌恶失望恶心愤怒\n何其傲慢，何其无知，何其…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845841508483862528",
+        "conversation_id": "2016070073736388894",
+        "created_at": "2026-01-27T08:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T09:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016070073736388894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016070073736388894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "煞笔人类\n少数民族歧视汉族，汉族歧视少数民族，本地人歧视外地人，白人歧视有色人种，有色人种歧视白人，男人歧视女人，女人歧视男人，人类歧视非人类\n人类有一个无辜的吗？😅整天排他来排他去有意思吗？真让我感到厌恶失望恶心愤怒\n何其傲慢，何其无知，何其愚蠢，就这样的种族还想征服宇宙？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp",
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983749067361677312/-UaapTrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 64,
+          "like_count": 1082,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 246
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T14:58:12.000Z",
+        "description": "🚪114514 表推@huoqinge8963（已去世）老婆妈妈主人小狗@silverbird18841",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "huoqinge8963"
+              },
+              {
+                "end": 52,
+                "start": 36,
+                "username": "silverbird18841"
+              }
+            ]
+          }
+        },
+        "id": "1845841508483862528",
+        "name": "霍青娥三世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845842100828749824/vDcH_PnL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 44,
+          "like_count": 1720,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 929
+        },
+        "username": "huoqinge_nn",
+        "verified": false
+      }
+    ]
+  }
+}

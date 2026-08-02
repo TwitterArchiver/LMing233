@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1952947982011424902",
+    "created_at": "2025-08-06T08:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T09:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953003715717460258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934564473320415233",
+          "start": 0,
+          "username": "ouo3oyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953003715717460258",
+    "in_reply_to_user_id": "1934564473320415233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952947982011424902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouo3oyi 咋这么萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2680,
+        "height": 958,
+        "media_key": "13_1952947919793078273",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952947919793078273/img/6jAaoKQmr-07mHI8.jpg",
+        "public_metrics": {
+          "view_count": 72
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952947919793078273/vid/avc1/320x424/Chuksawz8gTe2J--.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952947919793078273/vid/avc1/480x638/CxN1VN4ZootL8YKG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952947919793078273/vid/avc1/720x958/J8N5auMacb6GN8ZV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952947919793078273/pl/kZsDWQui2Gcb-e4s.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1952947982011424902",
+        "created_at": "2025-08-06T08:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T09:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953003715717460258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934564473320415233",
+              "start": 0,
+              "username": "ouo3oyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953003715717460258",
+        "in_reply_to_user_id": "1934564473320415233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952947982011424902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouo3oyi 咋这么萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952947919793078273"
+          ]
+        },
+        "author_id": "1934564473320415233",
+        "conversation_id": "1952947982011424902",
+        "created_at": "2025-08-06T04:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T05:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952947982011424902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s4UWvtmG6B",
+              "end": 23,
+              "expanded_url": "https://x.com/ouo3oyi/status/1952947982011424902/video/1",
+              "media_key": "13_1952947919793078273",
+              "start": 0,
+              "url": "https://t.co/s4UWvtmG6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952947982011424902",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 263,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/s4UWvtmG6B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "想变得可爱一点丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "其实我是男孩子˃ ᵕ ˂",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1952972639154389022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 60,
+          "like_count": 591,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 139
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T10:51:37.000Z",
+        "description": "大概是日常😇/不约不调不看屌。",
+        "id": "1934564473320415233",
+        "location": "﹦﹃ ＝",
+        "name": "冰冰无理",
+        "pinned_tweet_id": "1952313058577297702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951955825028960256/5mIUpA7U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 114,
+          "like_count": 1337,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 495
+        },
+        "username": "ouo3oyi",
+        "verified": false
+      }
+    ]
+  }
+}

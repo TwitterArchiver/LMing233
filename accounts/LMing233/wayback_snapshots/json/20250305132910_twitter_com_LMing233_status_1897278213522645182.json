@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897278202223190025"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1896794656396230842",
+    "created_at": "2025-03-05T13:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T14:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897278213522645182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1641704037190979584",
+          "start": 0,
+          "username": "h1sokaz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OcoPTk9bfH",
+          "end": 32,
+          "expanded_url": "https://x.com/LMing233/status/1897278213522645182/photo/1",
+          "media_key": "3_1897278202223190025",
+          "start": 9,
+          "url": "https://t.co/OcoPTk9bfH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897278213522645182",
+    "in_reply_to_user_id": "1641704037190979584",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896794656396230842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h1sokaz https://t.co/OcoPTk9bfH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1298,
+        "media_key": "3_1897278202223190025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlR8eQOa4AkCHY3.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897278202223190025"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1896794656396230842",
+        "created_at": "2025-03-05T13:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T14:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897278213522645182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1641704037190979584",
+              "start": 0,
+              "username": "h1sokaz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OcoPTk9bfH",
+              "end": 32,
+              "expanded_url": "https://x.com/LMing233/status/1897278213522645182/photo/1",
+              "media_key": "3_1897278202223190025",
+              "start": 9,
+              "url": "https://t.co/OcoPTk9bfH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897278213522645182",
+        "in_reply_to_user_id": "1641704037190979584",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896794656396230842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h1sokaz https://t.co/OcoPTk9bfH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641704037190979584",
+        "conversation_id": "1896794656396230842",
+        "created_at": "2025-03-04T05:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T06:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896794656396230842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h1sokaz/status…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/h1sokaz/status/1896784867863752710",
+              "start": 68,
+              "url": "https://t.co/wyncedjRhQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896794656396230842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2603,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896784867863752710",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他妈啊的你玩星露谷不也天天掏垃圾桶吗，那我现实生活中寻宝不也掏吗，你星露谷掏垃圾桶就掏了个破报纸那我掏垃圾桶还真找到东西了你再给我骂呢 https://t.co/wyncedjRhQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/1im",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850177714168397824/9VpLpWNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 230,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 40
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T07:28:46.000Z",
+        "description": "四爱s/哥特女🇨🇦/吉赛尔&崔伞毒唯",
+        "id": "1641704037190979584",
+        "location": "🪬88",
+        "name": "Mors",
+        "pinned_tweet_id": "1897123249814982977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845265956542537739/Qr3nOxck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5450,
+          "following_count": 149,
+          "like_count": 6372,
+          "listed_count": 14,
+          "media_count": 193,
+          "tweet_count": 1896
+        },
+        "username": "h1sokaz",
+        "verified": false
+      }
+    ]
+  }
+}

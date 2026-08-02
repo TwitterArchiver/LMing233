@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1953304234935632367",
+    "created_at": "2025-08-07T08:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T09:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953379864909930867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1758434520829931520",
+          "start": 0,
+          "username": "xcmjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953379864909930867",
+    "in_reply_to_user_id": "1758434520829931520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953304234935632367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcmjiang 感觉和天天说自己是男大体育生185的是一个类型"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_1953304230200279040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxuH2StbAAAEMvj.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1953304234935632367",
+        "created_at": "2025-08-07T08:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T09:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953379864909930867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1758434520829931520",
+              "start": 0,
+              "username": "xcmjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953379864909930867",
+        "in_reply_to_user_id": "1758434520829931520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953304234935632367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcmjiang 感觉和天天说自己是男大体育生185的是一个类型"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953304230200279040"
+          ]
+        },
+        "author_id": "1758434520829931520",
+        "conversation_id": "1953304234935632367",
+        "created_at": "2025-08-07T03:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T04:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953304234935632367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/03WjMsQ5oN",
+              "end": 31,
+              "expanded_url": "https://x.com/xcmjiang/status/1953304234935632367/photo/1",
+              "media_key": "3_1953304230200279040",
+              "start": 8,
+              "url": "https://t.co/03WjMsQ5oN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953304234935632367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1100,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以和你做吗。 https://t.co/03WjMsQ5oN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "这个世界会好吗",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1952972639154389022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 62,
+          "like_count": 637,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 159
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T10:14:03.000Z",
+        "description": "记录简单生活～ （优先回头像可爱的🤓）。 喜欢的可以打赏支持 谢谢⁰̴̷̷ ˙̮ ⁰̴̷̷ 小号：@xcmtiantiande",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 49,
+                "username": "xcmtiantiande"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%96%B5%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%96%B5%E5%96%B5%E8%8D%89%E8%8E%93",
+                "start": 0,
+                "url": "https://t.co/UALApBx3xM"
+              }
+            ]
+          }
+        },
+        "id": "1758434520829931520",
+        "location": "匿名问答👀👉",
+        "name": "小草莓",
+        "pinned_tweet_id": "1928889586513563974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949532296396341248/ZlmUHDjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9614,
+          "following_count": 154,
+          "like_count": 1593,
+          "listed_count": 15,
+          "media_count": 21,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/UALApBx3xM",
+        "username": "xcmjiang",
+        "verified": false
+      }
+    ]
+  }
+}

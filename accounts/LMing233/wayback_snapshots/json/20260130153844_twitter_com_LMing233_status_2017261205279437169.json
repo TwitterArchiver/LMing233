@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "2017251467934261486",
+    "created_at": "2026-01-30T15:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T16:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017261205279437169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1939979157594664960",
+          "start": 0,
+          "username": "xioy1520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017261205279437169",
+    "in_reply_to_user_id": "1939979157594664960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017259043040162146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioy1520 呜呜好明天我先去药店试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2017251467934261486",
+        "created_at": "2026-01-30T15:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017261205279437169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1939979157594664960",
+              "start": 0,
+              "username": "xioy1520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017261205279437169",
+        "in_reply_to_user_id": "1939979157594664960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017259043040162146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioy1520 呜呜好明天我先去药店试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939979157594664960",
+        "conversation_id": "2017251467934261486",
+        "created_at": "2026-01-30T15:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017259043040162146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1036167674470879232",
+              "start": 0,
+              "username": "LMing233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017259043040162146",
+        "in_reply_to_user_id": "1036167674470879232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017251467934261486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMing233 地址填附近的快递站 手机号随便打一个11位的！我都这样去快递站拿（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "cn椰子/infp/我有精神病/查成分互fo",
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983749067361677312/-UaapTrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 80,
+          "like_count": 1186,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 251
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T09:27:37.000Z",
+        "description": "邪恶人格@cha317081419353",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "cha317081419353"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muming95389",
+                "end": 23,
+                "expanded_url": "https://ngl.link/muming95389",
+                "start": 0,
+                "url": "https://t.co/9wriK9Pqat"
+              }
+            ]
+          }
+        },
+        "id": "1939979157594664960",
+        "location": "=￣ω￣=",
+        "name": "眠",
+        "pinned_tweet_id": "2016198165591150646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015434596712923136/dcvsAuAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 40,
+          "like_count": 1622,
+          "listed_count": 4,
+          "media_count": 29,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/9wriK9Pqat",
+        "username": "xioy1520",
+        "verified": false
+      }
+    ]
+  }
+}

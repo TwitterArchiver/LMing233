@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857365763356803072"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1857290517110784479",
+    "created_at": "2024-11-15T10:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T11:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857365768838775265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1748987705890127872",
+          "start": 0,
+          "username": "guma0107"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8OHfAzhOhV",
+          "end": 33,
+          "expanded_url": "https://x.com/LMing233/status/1857365768838775265/photo/1",
+          "media_key": "3_1857365763356803072",
+          "start": 10,
+          "url": "https://t.co/8OHfAzhOhV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857365768838775265",
+    "in_reply_to_user_id": "1748987705890127872",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857290517110784479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guma0107 https://t.co/8OHfAzhOhV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1857365768838775265].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1857365768838775265",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1857365768838775265"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1133,
+        "media_key": "3_1857365763356803072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcawUi7awAA_FQm.jpg",
+        "width": 1510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748987705890127872",
+        "conversation_id": "1857290517110784479",
+        "created_at": "2024-11-15T05:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T06:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857290517110784479"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857290517110784479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 900,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "周五的鸡巴大赛请给我新意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/男m",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850177714168397824/9VpLpWNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 220,
+          "like_count": 297,
+          "listed_count": 0,
+          "tweet_count": 33
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-21T08:35:49.000Z",
+        "description": "🚪158/zfb口令➕你自己v/不闲聊",
+        "id": "1748987705890127872",
+        "location": "喜欢我请入门喔",
+        "name": "湫湫子哦",
+        "pinned_tweet_id": "1837087160895426730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843720031236173825/lPgBe4Ev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3455,
+          "following_count": 16,
+          "like_count": 19,
+          "listed_count": 8,
+          "tweet_count": 1028
+        },
+        "username": "guma0107",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1926201156017049768",
+    "created_at": "2025-07-20T13:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T14:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946929987711631476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1862925828570730496",
+          "start": 0,
+          "username": "wang_54269"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946929987711631476",
+    "in_reply_to_user_id": "1862925828570730496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926201156017049768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang_54269 鱿型！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1909,
+        "media_key": "3_1926201141232013312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grs9u4UWEAAcx8X.jpg",
+        "width": 1395
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1926201156017049768",
+        "created_at": "2025-07-20T13:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T14:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946929987711631476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1862925828570730496",
+              "start": 0,
+              "username": "wang_54269"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946929987711631476",
+        "in_reply_to_user_id": "1862925828570730496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926201156017049768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang_54269 鱿型！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926201141232013312"
+          ]
+        },
+        "author_id": "1862925828570730496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "854949050151452672",
+              "name": "Splatoon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "854949050151452672",
+              "name": "Splatoon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1926201156017049768",
+        "created_at": "2025-05-24T08:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T09:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926201156017049768"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "Splatoon3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CUxNX6s9AI",
+              "end": 34,
+              "expanded_url": "https://x.com/wang_54269/status/1926201156017049768/photo/1",
+              "media_key": "3_1926201141232013312",
+              "start": 11,
+              "url": "https://t.co/CUxNX6s9AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926201156017049768",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 703,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#Splatoon3 https://t.co/CUxNX6s9AI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "主页有🔞慎入丨我是男孩子丨INFP丨M/puppy丨碎碎念丨古典音乐 术力口 摇滚丨persona 极乐迪斯科 锈湖 星露谷 斯普拉遁 塞尔达 弹丸论破",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1932661244726817176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 113,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 75
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:25:13.000Z",
+        "description": "我会为你哭泣",
+        "id": "1862925828570730496",
+        "name": "糯米酒精灯",
+        "pinned_tweet_id": "1925892030586036504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941777227609227264/a2Aa34vj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2504,
+          "following_count": 40,
+          "like_count": 537,
+          "listed_count": 8,
+          "media_count": 61,
+          "tweet_count": 334
+        },
+        "username": "wang_54269",
+        "verified": false
+      }
+    ]
+  }
+}

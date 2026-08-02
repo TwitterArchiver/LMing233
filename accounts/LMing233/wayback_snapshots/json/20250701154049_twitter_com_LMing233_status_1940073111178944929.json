@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1940073111178944929",
+    "created_at": "2025-07-01T15:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T16:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940073111178944929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lming233/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/lming233/status/1939340326357049561",
+          "start": 13,
+          "url": "https://t.co/OeuEhgyNQs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940073111178944929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939340326357049561",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我又掉了三个粉 我恨你们 https://t.co/OeuEhgyNQs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1940073111178944929",
+        "created_at": "2025-07-01T15:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T16:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940073111178944929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lming233/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/lming233/status/1939340326357049561",
+              "start": 13,
+              "url": "https://t.co/OeuEhgyNQs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940073111178944929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939340326357049561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又掉了三个粉 我恨你们 https://t.co/OeuEhgyNQs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1939340326357049561",
+        "created_at": "2025-06-29T15:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T16:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939340326357049561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939340326357049561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又掉了一个粉 我哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/m",
+        "id": "1036167674470879232",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1932661244726817176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926875850722459648/RRKXsJ1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 238,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 79
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1951651023472545793",
+    "created_at": "2025-08-02T14:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T15:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951651023472545793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiangrikui_s88…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/xiangrikui_s88/status/1951534131474735546",
+          "start": 8,
+          "url": "https://t.co/R0anphBzmr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951651023472545793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951534131474735546",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是公狗🥵🥵🥵 https://t.co/R0anphBzmr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1951534131474735546].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1951534131474735546",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1951534131474735546"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1951651023472545793",
+        "created_at": "2025-08-02T14:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T15:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951651023472545793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiangrikui_s88…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/xiangrikui_s88/status/1951534131474735546",
+              "start": 8,
+              "url": "https://t.co/R0anphBzmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951651023472545793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951534131474735546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是公狗🥵🥵🥵 https://t.co/R0anphBzmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨INFP丨1im/puppy丨碎碎念丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1851175959673848259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 110,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 84
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

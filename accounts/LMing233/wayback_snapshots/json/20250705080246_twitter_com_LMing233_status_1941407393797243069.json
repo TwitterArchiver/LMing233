@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1941393240667848897",
+    "created_at": "2025-07-05T08:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T09:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941407393797243069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1795497104049414144",
+          "start": 0,
+          "username": "hsh6669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941407393797243069",
+    "in_reply_to_user_id": "1795497104049414144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941393240667848897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsh6669 只被玩过🐢责 是真的一遍求饶一遍哭唧唧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1941393240667848897",
+        "created_at": "2025-07-05T08:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T09:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941407393797243069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795497104049414144",
+              "start": 0,
+              "username": "hsh6669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941407393797243069",
+        "in_reply_to_user_id": "1795497104049414144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941393240667848897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsh6669 只被玩过🐢责 是真的一遍求饶一遍哭唧唧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795497104049414144",
+        "conversation_id": "1941393240667848897",
+        "created_at": "2025-07-05T07:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T08:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941393240667848897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941393240667848897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9843,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 64,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "寸止挺有意思的 几次下来就能让她难耐到一边求我一边自己拉着我的手插进去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/m",
+        "id": "1036167674470879232",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1932661244726817176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926875850722459648/RRKXsJ1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 239,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 82
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T16:47:37.000Z",
+        "description": "碎碎念分享/ 话题投稿/ 树洞吐槽/ 付费绿色交友委托/ 有偿推广转发/ 商务合作请私信/ 投稿筛选后发出🎁",
+        "id": "1795497104049414144",
+        "location": "Hong Kong",
+        "name": "进来交友",
+        "pinned_tweet_id": "1854356710154236069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795541690771701760/K-GFG_I7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475926,
+          "following_count": 44,
+          "like_count": 595,
+          "listed_count": 371,
+          "media_count": 1252,
+          "tweet_count": 2986
+        },
+        "username": "hsh6669",
+        "verified": true
+      }
+    ]
+  }
+}

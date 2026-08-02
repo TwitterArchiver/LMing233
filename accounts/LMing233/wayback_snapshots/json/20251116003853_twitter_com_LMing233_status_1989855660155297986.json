@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1989485407050838254",
+    "created_at": "2025-11-16T00:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T01:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989855660155297986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1919083395176693760",
+          "start": 0,
+          "username": "Claviclena1"
+        },
+        {
+          "end": 24,
+          "id": "1806961186266873856",
+          "start": 13,
+          "username": "XiaoQi_cpp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989855660155297986",
+    "in_reply_to_user_id": "1919083395176693760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989767808516030823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Claviclena1 @XiaoQi_cpp 我跟你玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1989767799066300420",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G50TRWDbkAQpmW9.jpg",
+        "width": 1414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1989485407050838254",
+        "created_at": "2025-11-16T00:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T01:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989855660155297986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1919083395176693760",
+              "start": 0,
+              "username": "Claviclena1"
+            },
+            {
+              "end": 24,
+              "id": "1806961186266873856",
+              "start": 13,
+              "username": "XiaoQi_cpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989855660155297986",
+        "in_reply_to_user_id": "1919083395176693760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989767808516030823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Claviclena1 @XiaoQi_cpp 我跟你玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989767799066300420"
+          ]
+        },
+        "author_id": "1919083395176693760",
+        "conversation_id": "1989485407050838254",
+        "created_at": "2025-11-15T18:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T19:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989767808516030823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1806961186266873856",
+              "start": 0,
+              "username": "XiaoQi_cpp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Br1zSG3PW7",
+              "end": 47,
+              "expanded_url": "https://x.com/Claviclena1/status/1989767808516030823/photo/1",
+              "media_key": "3_1989767799066300420",
+              "start": 24,
+              "url": "https://t.co/Br1zSG3PW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989767808516030823",
+        "in_reply_to_user_id": "1806961186266873856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989485407050838254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoQi_cpp 既然如此扔一张我的属性 https://t.co/Br1zSG3PW7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我是男的丨infp丨可以叫我椰子丨西音 摇滚 术力口丨舞萌 任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 等丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "location": "总有一天我会回到你身边",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983749067361677312/-UaapTrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 66,
+          "like_count": 1121,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 305
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T17:35:18.000Z",
+        "description": "你永远是中国人",
+        "id": "1919083395176693760",
+        "name": "我背着宿命的十字架",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919084004013428736/04Oadv11_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 190,
+          "like_count": 304,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 87
+        },
+        "username": "Claviclena1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T08:02:21.000Z",
+        "description": "小启♂\n新高一学生，对手机，电脑，计算机，虚拟主包感兴趣，C++编程初学者。\n 生日2009/11/11\n互fo有人能和我交朋友吗（虽然我是个鲨匕）",
+        "id": "1806961186266873856",
+        "location": "距离你520m",
+        "name": "XiaoQi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960685123013148672/s4ZF8iuk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 416,
+          "like_count": 875,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 146
+        },
+        "username": "XiaoQi_cpp",
+        "verified": false
+      }
+    ]
+  }
+}

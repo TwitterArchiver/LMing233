@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1854477758883418498",
+    "created_at": "2024-11-07T10:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T11:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854477758883418498"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1854477758883418498",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天赶飞机要收拾行李 问题是我的行李包里面是我的项圈还有口球 我该如何把这些拿出来不被室友看见然后转移到安全的地方😣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1854477758883418498",
+        "created_at": "2024-11-07T10:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T11:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854477758883418498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854477758883418498",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天赶飞机要收拾行李 问题是我的行李包里面是我的项圈还有口球 我该如何把这些拿出来不被室友看见然后转移到安全的地方😣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/男m/傻逼长发男",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850177714168397824/9VpLpWNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 220,
+          "like_count": 290,
+          "listed_count": 0,
+          "tweet_count": 34
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

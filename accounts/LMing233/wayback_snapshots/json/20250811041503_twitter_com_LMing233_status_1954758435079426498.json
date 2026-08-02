@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1954758435079426498",
+    "created_at": "2025-08-11T04:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T05:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954758435079426498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1651274666424799232",
+          "start": 3,
+          "username": "qqww22456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954758435079426498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954680194058604715",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qqww22456: 为什么这么多丑如㊗️的男喘都能睡到粉，究竟是声控还是恋猪癖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1954758435079426498",
+        "created_at": "2025-08-11T04:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T05:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954758435079426498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1651274666424799232",
+              "start": 3,
+              "username": "qqww22456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954758435079426498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954680194058604715",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qqww22456: 为什么这么多丑如㊗️的男喘都能睡到粉，究竟是声控还是恋猪癖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651274666424799232",
+        "conversation_id": "1954680194058604715",
+        "created_at": "2025-08-10T23:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T00:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954680194058604715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954680194058604715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么这么多丑如㊗️的男喘都能睡到粉，究竟是声控还是恋猪癖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "这个世界会好吗",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1952972639154389022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 62,
+          "like_count": 710,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 207
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T17:19:07.000Z",
+        "description": "喜欢一切漂亮东西 ENTP 泛 基本上都是碎碎念话很多的一款人类 私信正常的都会回复 喜欢跟人互动 不要爹味发言谢谢 大家找我玩都大欢迎 我不喜欢跟顺直说话顺直可不可以理我远一点 我有智力障碍你们让让我 不加墙内好友 不要对我有太强的窥视欲",
+        "id": "1651274666424799232",
+        "name": "千千万万遍",
+        "pinned_tweet_id": "1918380157129375945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952470579694665728/dKF9b7BV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 152,
+          "like_count": 962,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1533
+        },
+        "username": "qqww22456",
+        "verified": false
+      }
+    ]
+  }
+}

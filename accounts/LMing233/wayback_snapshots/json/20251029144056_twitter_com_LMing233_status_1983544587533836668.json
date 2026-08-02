@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983544583050145792"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1983544587533836668",
+    "created_at": "2025-10-29T14:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T15:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983544587533836668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ii7MC7M4AT",
+          "end": 37,
+          "expanded_url": "https://x.com/LMing233/status/1983544587533836668/photo/1",
+          "media_key": "3_1983544583050145792",
+          "start": 14,
+          "url": "https://t.co/Ii7MC7M4AT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983544587533836668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "像我这种缺爱比是不是没救了 https://t.co/Ii7MC7M4AT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_1983544583050145792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4b3SfzasAAicL-.jpg",
+        "width": 626
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983544583050145792"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1983544587533836668",
+        "created_at": "2025-10-29T14:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983544587533836668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ii7MC7M4AT",
+              "end": 37,
+              "expanded_url": "https://x.com/LMing233/status/1983544587533836668/photo/1",
+              "media_key": "3_1983544583050145792",
+              "start": 14,
+              "url": "https://t.co/Ii7MC7M4AT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983544587533836668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像我这种缺爱比是不是没救了 https://t.co/Ii7MC7M4AT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我是男的丨infp丨可以叫我椰子丨西音 摇滚 术力口丨舞萌 任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 等丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "location": "总有一天我会回到你身边",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 61,
+          "like_count": 1126,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 286
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

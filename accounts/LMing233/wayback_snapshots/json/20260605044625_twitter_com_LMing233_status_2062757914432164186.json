@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "2062757914432164186",
+    "created_at": "2026-06-05T04:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062757914432164186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057708921759133696",
+          "start": 3,
+          "username": "rlafps08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062757914432164186",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061446776994091344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rlafps08: 자해하는게 불법인가? 우리가 스트레스등등을 해소한다는데 자해자국보면 다들 왜 싫어하는거야? 왜 잔소리하고 혐오하는거야??"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2062757914432164186",
+        "created_at": "2026-06-05T04:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062757914432164186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057708921759133696",
+              "start": 3,
+              "username": "rlafps08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062757914432164186",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061446776994091344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rlafps08: 자해하는게 불법인가? 우리가 스트레스등등을 해소한다는데 자해자국보면 다들 왜 싫어하는거야? 왜 잔소리하고 혐오하는거야??"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057708921759133696",
+        "conversation_id": "2061446776994091344",
+        "created_at": "2026-06-01T13:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061446776994091344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061446776994091344",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 39559,
+          "like_count": 1029,
+          "quote_count": 88,
+          "reply_count": 34,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "자해하는게 불법인가? 우리가 스트레스등등을 해소한다는데 자해자국보면 다들 왜 싫어하는거야? 왜 잔소리하고 혐오하는거야??"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子/infp/♂/餐券/我割我o/m/欢迎同类互fo\n#shtwt #自残 #自伤",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 40,
+                "start": 37,
+                "tag": "自残"
+              },
+              {
+                "end": 44,
+                "start": 41,
+                "tag": "自伤"
+              }
+            ]
+          }
+        },
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "2059657448965959719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 145,
+          "like_count": 1612,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 225
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T06:24:44.000Z",
+        "description": "자퇴생/ 地雷系 / うつ病 / 精神疾患 / ADHD/ レンと呼んでください / @hanjua221972🫳 / 비계 @rlafps01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "hanjua221972"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "rlafps01"
+              }
+            ]
+          }
+        },
+        "id": "2057708921759133696",
+        "name": "レン(상태:본계 영정)",
+        "pinned_tweet_id": "2059497297202094301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057711620684668928/vpMuK-WQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 316,
+          "like_count": 2422,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 245
+        },
+        "username": "rlafps08",
+        "verified": false
+      }
+    ]
+  }
+}

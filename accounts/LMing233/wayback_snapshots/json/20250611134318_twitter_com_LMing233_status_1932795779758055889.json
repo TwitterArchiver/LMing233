@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1932795779758055889",
+    "created_at": "2025-06-11T13:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T14:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932795779758055889"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1932795779758055889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有一说一，虽然我不是阴湿女控，但是阴湿女真的很可爱，当然，我只是说一说，我不是喜欢阴湿女，但是阴湿女真的很能引起人的保护欲，虽然我不是，但是能遇到一个善良可爱的阴湿女，实在是太幸福了，当然了，我不是喜欢。如果我能找到这样的阴湿女的话，大概我的人生也会被他的温暖和可爱照耀的闪闪发光"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1932795779758055889",
+        "created_at": "2025-06-11T13:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T14:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932795779758055889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932795779758055889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一说一，虽然我不是阴湿女控，但是阴湿女真的很可爱，当然，我只是说一说，我不是喜欢阴湿女，但是阴湿女真的很能引起人的保护欲，虽然我不是，但是能遇到一个善良可爱的阴湿女，实在是太幸福了，当然了，我不是喜欢。如果我能找到这样的阴湿女的话，大概我的人生也会被他的温暖和可爱照耀的闪闪发光"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/1im  不找到主人不改名",
+        "id": "1036167674470879232",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1932661244726817176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926875850722459648/RRKXsJ1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 233,
+          "like_count": 323,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 67
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "2080490232533909885",
+    "created_at": "2026-07-24T23:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T00:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080802787332612443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076280150044610560",
+          "start": 0,
+          "username": "Antares04_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080802787332612443",
+    "in_reply_to_user_id": "2076280150044610560",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080773401673933161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Antares04_8964 Restamin"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2080490232533909885",
+        "created_at": "2026-07-24T23:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T00:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080802787332612443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076280150044610560",
+              "start": 0,
+              "username": "Antares04_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080802787332612443",
+        "in_reply_to_user_id": "2076280150044610560",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080773401673933161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Antares04_8964 Restamin"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076280150044610560",
+        "conversation_id": "2080490232533909885",
+        "created_at": "2026-07-24T21:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T22:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080773401673933161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1036167674470879232",
+              "start": 0,
+              "username": "LMing233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080773401673933161",
+        "in_reply_to_user_id": "1036167674470879232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080490232533909885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMing233 白兔前面那两瓶是什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子/infp/♂/餐券/我割我o/m/欢迎同类互fo/不喜欢我可以屏蔽不要举报我\n#shtwt #自残 #自伤\n女友位招租中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 44,
+                "tag": "shtwt"
+              },
+              {
+                "end": 54,
+                "start": 51,
+                "tag": "自残"
+              },
+              {
+                "end": 58,
+                "start": 55,
+                "tag": "自伤"
+              }
+            ]
+          }
+        },
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 162,
+          "like_count": 1870,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 277
+        },
+        "url": "",
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T12:19:52.000Z",
+        "description": "你好,你可以叫我煜或者04/ODer💊/双相/记忆力很差/自伤/生产日期：2010.9.8♂/正在学习药理学🧬/非必要不建证🏳️/喜欢同类看见会直接回/不支持引导自残嗑药❗/欢迎互fo喵/提问箱：https://t.co/7kJ3zIrxwy\n(这里是煜3.0)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/antares04_8964",
+                "end": 121,
+                "expanded_url": "https://ngl.link/antares04_8964",
+                "start": 98,
+                "url": "https://t.co/7kJ3zIrxwy"
+              }
+            ]
+          }
+        },
+        "id": "2076280150044610560",
+        "location": "＃心宿二",
+        "name": "煜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076581989763932160/cA0oli6i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 40,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "Antares04_8964",
+        "verified": false
+      }
+    ]
+  }
+}

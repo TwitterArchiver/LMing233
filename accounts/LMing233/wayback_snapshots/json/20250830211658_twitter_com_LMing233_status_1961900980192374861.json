@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1961900980192374861",
+    "created_at": "2025-08-30T21:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T22:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961900980192374861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1644880617933520898",
+          "start": 3,
+          "username": "ivinansz_oO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961900980192374861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961809330002612417",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ivinansz_oO: 你们要我微信不。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1961900980192374861",
+        "created_at": "2025-08-30T21:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T22:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961900980192374861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1644880617933520898",
+              "start": 3,
+              "username": "ivinansz_oO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961900980192374861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961809330002612417",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ivinansz_oO: 你们要我微信不。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644880617933520898",
+        "conversation_id": "1961809330002612417",
+        "created_at": "2025-08-30T15:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961809330002612417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/with_whit3rose…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/with_whit3rose/status/1961745746404806891",
+              "start": 9,
+              "url": "https://t.co/vXeL0yNlAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961809330002612417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 940,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961745746404806891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们要我微信不。 https://t.co/vXeL0yNlAO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗男૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "总有一天我会回到你身边",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 65,
+          "like_count": 1038,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 275
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T01:51:22.000Z",
+        "description": "想发什么就发什么反正没有人认识我。希望我的碎碎念可以被在意一下 路过的可以和我互动 但注意了我就一颗心你们省着点伤。匿名提问https://t.co/X8NeZTTLZe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ivinansz_oo",
+                "end": 85,
+                "expanded_url": "https://ngl.link/ivinansz_oo",
+                "start": 62,
+                "url": "https://t.co/X8NeZTTLZe"
+              }
+            ]
+          }
+        },
+        "id": "1644880617933520898",
+        "name": "iivan.oo",
+        "pinned_tweet_id": "1945643430249459912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950636656568274944/aibsxo1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 237,
+          "like_count": 976,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 534
+        },
+        "username": "ivinansz_oO",
+        "verified": false
+      }
+    ]
+  }
+}

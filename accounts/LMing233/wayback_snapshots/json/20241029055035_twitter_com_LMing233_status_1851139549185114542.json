@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1850992280624382191",
+    "created_at": "2024-10-29T05:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-29T06:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851139549185114542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1673139560765616135",
+          "start": 0,
+          "username": "kitirna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851139549185114542",
+    "in_reply_to_user_id": "1673139560765616135",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850992280624382191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitirna mommy!! 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1850992280624382191",
+        "created_at": "2024-10-29T05:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T06:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851139549185114542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1673139560765616135",
+              "start": 0,
+              "username": "kitirna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851139549185114542",
+        "in_reply_to_user_id": "1673139560765616135",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850992280624382191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitirna mommy!! 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850992228417556480"
+          ]
+        },
+        "author_id": "1673139560765616135",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1850992280624382191",
+        "created_at": "2024-10-28T20:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T21:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850992280624382191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wub0kYpoko",
+              "end": 40,
+              "expanded_url": "https://x.com/kitirna/status/1850992280624382191/photo/1",
+              "media_key": "3_1850992228417556480",
+              "start": 17,
+              "url": "https://t.co/wub0kYpoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850992280624382191",
+        "lang": "et",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1973,
+          "impression_count": 123301,
+          "like_count": 13225,
+          "quote_count": 11,
+          "reply_count": 46,
+          "retweet_count": 443
+        },
+        "reply_settings": "everyone",
+        "text": "vampire makima 🩸 https://t.co/wub0kYpoko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/男m/傻逼长发男",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850177714168397824/9VpLpWNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 220,
+          "like_count": 206,
+          "listed_count": 0,
+          "tweet_count": 39
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T01:22:20.000Z",
+        "description": "dress-up catgirl",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kitirina",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/kitirina",
+                "start": 0,
+                "url": "https://t.co/ugYkRaKsvj"
+              }
+            ]
+          }
+        },
+        "id": "1673139560765616135",
+        "location": "m. ⏦ﾟ♡︎",
+        "name": "rina",
+        "pinned_tweet_id": "1835785810148237536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830070509389713409/CeZ3kQvt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97455,
+          "following_count": 69,
+          "like_count": 5921,
+          "listed_count": 260,
+          "tweet_count": 3467
+        },
+        "url": "https://t.co/ugYkRaKsvj",
+        "username": "kitirna",
+        "verified": true
+      }
+    ]
+  }
+}

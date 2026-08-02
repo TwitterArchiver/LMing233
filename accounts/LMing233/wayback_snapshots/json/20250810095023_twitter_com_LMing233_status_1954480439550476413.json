@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1161276700107264001",
+          "name": "Sailor Moon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1161276700107264001",
+          "name": "Sailor Moon"
+        }
+      }
+    ],
+    "conversation_id": "1954480439550476413",
+    "created_at": "2025-08-10T09:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T10:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954480439550476413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cutecorestar/s…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/cutecorestar/status/1954460209029460398",
+          "start": 23,
+          "url": "https://t.co/X1F89fg7e9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954480439550476413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954460209029460398",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "水兵月的英文名就叫Sailor Moon吗😳 https://t.co/X1F89fg7e9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_1954453768348565504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx-dWOBXAAAGueI.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1161276700107264001",
+              "name": "Sailor Moon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1161276700107264001",
+              "name": "Sailor Moon"
+            }
+          }
+        ],
+        "conversation_id": "1954480439550476413",
+        "created_at": "2025-08-10T09:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T10:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954480439550476413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cutecorestar/s…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/cutecorestar/status/1954460209029460398",
+              "start": 23,
+              "url": "https://t.co/X1F89fg7e9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954480439550476413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954460209029460398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "水兵月的英文名就叫Sailor Moon吗😳 https://t.co/X1F89fg7e9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954453768348565504"
+          ]
+        },
+        "author_id": "1067676495504658432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1161276700107264001",
+              "name": "Sailor Moon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1161276700107264001",
+              "name": "Sailor Moon"
+            }
+          }
+        ],
+        "conversation_id": "1954460209029460398",
+        "created_at": "2025-08-10T08:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T09:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954460209029460398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MEQFdApTjA",
+              "end": 35,
+              "expanded_url": "https://x.com/cutecorestar/status/1954460209029460398/photo/1",
+              "media_key": "3_1954453768348565504",
+              "start": 12,
+              "url": "https://t.co/MEQFdApTjA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954460209029460398",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 4554,
+          "like_count": 194,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "sailor moon https://t.co/MEQFdApTjA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "这个世界会好吗",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1952972639154389022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 63,
+          "like_count": 691,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 196
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-28T07:08:07.000Z",
+        "description": "🎀 cute things 🎀 kawaii & sanrio 🎀 turn on notifications 🎀",
+        "id": "1067676495504658432",
+        "location": "♡ DM for credit / submissions",
+        "name": "Cute",
+        "pinned_tweet_id": "1929170548619104660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550457031986929665/R0YiNtsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82895,
+          "following_count": 6450,
+          "like_count": 5014,
+          "listed_count": 139,
+          "media_count": 951,
+          "tweet_count": 1203
+        },
+        "username": "cutecorestar",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1961722137640894858",
+    "created_at": "2025-08-30T09:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T10:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961722137640894858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1885021581153320961",
+          "start": 3,
+          "username": "xu121718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961722137640894858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 130
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961351507627929912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xu121718: 唯一的性生活就是在网上操别人妈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1961722137640894858",
+        "created_at": "2025-08-30T09:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T10:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961722137640894858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1885021581153320961",
+              "start": 3,
+              "username": "xu121718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961722137640894858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 130
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961351507627929912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xu121718: 唯一的性生活就是在网上操别人妈了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885021581153320961",
+        "conversation_id": "1961351507627929912",
+        "created_at": "2025-08-29T08:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T09:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961351507627929912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961351507627929912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 93142,
+          "like_count": 1085,
+          "quote_count": 19,
+          "reply_count": 63,
+          "retweet_count": 130
+        },
+        "reply_settings": "everyone",
+        "text": "唯一的性生活就是在网上操别人妈了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "总有一天我会回到你身边",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 65,
+          "like_count": 1031,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 271
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T17:45:50.000Z",
+        "description": "05 ENFJ sw 碎碎念 网瘾 喜欢会回关 偶尔发健身成果和美食分享 高强度冲浪 有🚪纯绿 互关免 快来和小鱼卷喵喵天",
+        "id": "1885021581153320961",
+        "location": "杭州",
+        "name": "小鱼卷",
+        "pinned_tweet_id": "1960713529385705980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958812372728266752/EzF135aV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 81,
+          "like_count": 9398,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 709
+        },
+        "username": "xu121718",
+        "verified": false
+      }
+    ]
+  }
+}

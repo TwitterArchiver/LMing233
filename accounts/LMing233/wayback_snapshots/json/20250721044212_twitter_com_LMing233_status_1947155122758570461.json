@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1947152020256985187",
+    "created_at": "2025-07-21T04:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T05:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947155122758570461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675067073167491073",
+          "start": 0,
+          "username": "doyoung55166594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947155122758570461",
+    "in_reply_to_user_id": "1675067073167491073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947154326964797622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doyoung55166594 她叫团子！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1947152020256985187",
+        "created_at": "2025-07-21T04:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T05:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947155122758570461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675067073167491073",
+              "start": 0,
+              "username": "doyoung55166594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947155122758570461",
+        "in_reply_to_user_id": "1675067073167491073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947154326964797622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doyoung55166594 她叫团子！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675067073167491073",
+        "conversation_id": "1947152020256985187",
+        "created_at": "2025-07-21T04:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T05:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947154326964797622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1036167674470879232",
+              "start": 0,
+              "username": "LMing233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947154326964797622",
+        "in_reply_to_user_id": "1036167674470879232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947152020256985187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMing233 好可爱哟小斗斗 叫什么名字呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "主页有🔞慎入丨我是男孩子丨INFP丨M/puppy丨碎碎念丨古典音乐 术力口 摇滚丨persona 极乐迪斯科 锈湖 星露谷 斯普拉遁 塞尔达 弹丸论破",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 111,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 79
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T09:01:51.000Z",
+        "description": "infj 只是发些废话 很无聊的一个人",
+        "id": "1675067073167491073",
+        "name": "可是我想要你永远陪着我",
+        "pinned_tweet_id": "1931188822802317753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925242031770935300/anqR4IO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 23,
+          "like_count": 490,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 1685
+        },
+        "username": "doyoung55166594",
+        "verified": false
+      }
+    ]
+  }
+}

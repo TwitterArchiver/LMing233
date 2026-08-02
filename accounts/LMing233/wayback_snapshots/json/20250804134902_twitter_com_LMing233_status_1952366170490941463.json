@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1952365890588258409",
+    "created_at": "2025-08-04T13:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T14:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952366170490941463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887467599287754755",
+          "start": 0,
+          "username": "with_WhiT3Rose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952366170490941463",
+    "in_reply_to_user_id": "1887467599287754755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952365890588258409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@with_WhiT3Rose 没吹的那么神不过值得一读"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1952365890588258409",
+        "created_at": "2025-08-04T13:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T14:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952366170490941463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887467599287754755",
+              "start": 0,
+              "username": "with_WhiT3Rose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952366170490941463",
+        "in_reply_to_user_id": "1887467599287754755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952365890588258409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@with_WhiT3Rose 没吹的那么神不过值得一读"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887467599287754755",
+        "conversation_id": "1952365890588258409",
+        "created_at": "2025-08-04T13:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T14:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952365890588258409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952365890588258409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "局外人好看不。那个死妈妈的开头有点吸引我。🌚🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 53,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 101
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T11:45:28.000Z",
+        "description": "回头就当做初次遇见",
+        "id": "1887467599287754755",
+        "name": "StOr3",
+        "pinned_tweet_id": "1947644176482636066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951106539638628354/KhM_3N-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 443,
+          "like_count": 11874,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1398
+        },
+        "username": "with_WhiT3Rose",
+        "verified": false
+      }
+    ]
+  }
+}

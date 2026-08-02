@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1984857523216925027",
+    "created_at": "2025-11-02T05:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T06:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984857523216925027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hsn8086/status/1984537810691637741",
+          "start": 8,
+          "url": "https://t.co/yBOtoF5Xk8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984857523216925027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984537810691637741",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这倒是提醒我了 https://t.co/yBOtoF5Xk8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_1984537803393548289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4p-nh6bQAEs1-i.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1984857523216925027",
+        "created_at": "2025-11-02T05:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T06:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984857523216925027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hsn8086/status/1984537810691637741",
+              "start": 8,
+              "url": "https://t.co/yBOtoF5Xk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984857523216925027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984537810691637741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这倒是提醒我了 https://t.co/yBOtoF5Xk8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984537803393548289"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1984537810691637741",
+        "created_at": "2025-11-01T08:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T09:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984537810691637741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E4cN6zAlYL",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1984537810691637741/photo/1",
+              "media_key": "3_1984537803393548289",
+              "start": 0,
+              "url": "https://t.co/E4cN6zAlYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984537810691637741",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 255,
+          "impression_count": 874640,
+          "like_count": 5181,
+          "quote_count": 14,
+          "reply_count": 88,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E4cN6zAlYL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我是男的丨infp丨可以叫我椰子丨西音 摇滚 术力口丨舞萌 任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 等丨查成分后会互fo丨互关可以找我要wx喵",
+        "id": "1036167674470879232",
+        "location": "总有一天我会回到你身边",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983749067361677312/-UaapTrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 63,
+          "like_count": 1142,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 296
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105906,
+          "following_count": 989,
+          "like_count": 46000,
+          "listed_count": 235,
+          "media_count": 17004,
+          "tweet_count": 25120
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

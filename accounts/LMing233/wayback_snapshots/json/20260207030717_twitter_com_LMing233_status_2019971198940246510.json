@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "2019971198940246510",
+    "created_at": "2026-02-07T03:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T04:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019971198940246510"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2019971198940246510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "连同着腐朽的身体与心🧟‍♀️🖤\n一个人没有目标地飘荡🌫️\n躯体的残响🔊被束缚着❌\n灭亡于城市🏙️\n反复徘徊的僵尸🧟‍♂️🌀\n不管怎么样地堕落于夜色🌃⬇️\n世界也会被🌏\n明天的光芒✨染色🎨\n醒来的我😵‍💫\n就是——\n帝国少女👑💔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2019971198940246510",
+        "created_at": "2026-02-07T03:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019971198940246510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019971198940246510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "连同着腐朽的身体与心🧟‍♀️🖤\n一个人没有目标地飘荡🌫️\n躯体的残响🔊被束缚着❌\n灭亡于城市🏙️\n反复徘徊的僵尸🧟‍♂️🌀\n不管怎么样地堕落于夜色🌃⬇️\n世界也会被🌏\n明天的光芒✨染色🎨\n醒来的我😵‍💫\n就是——\n帝国少女👑💔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "cn椰子/infp/我有精神病/查成分互fo",
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983749067361677312/-UaapTrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 62,
+          "like_count": 1228,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 269
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

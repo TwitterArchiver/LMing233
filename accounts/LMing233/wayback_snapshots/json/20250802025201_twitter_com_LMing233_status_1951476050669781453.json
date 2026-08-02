@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1951121645633986666",
+    "created_at": "2025-08-02T02:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T03:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951476050669781453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1947306238049665024",
+          "start": 0,
+          "username": "qiqin669559"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951476050669781453",
+    "in_reply_to_user_id": "1947306238049665024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951121645633986666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqin669559 米米嘟₍՞˶⦁֊⦁˶՞₎੭ﾞ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7998,
+        "height": 1280,
+        "media_key": "13_1951121547113926658",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1951121547113926658/img/vljYiQ-SqrJa4B8c.jpg",
+        "public_metrics": {
+          "view_count": 253
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951121547113926658/vid/avc1/320x568/5cLz_vXfRGFBXemA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951121547113926658/vid/avc1/480x852/-yGE_4v5XNTUdtO9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951121547113926658/vid/avc1/720x1280/rSrkG3B8RFRqPfzL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1951121547113926658/pl/_9ctYgUVLw_xwZ4X.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1951121645633986666",
+        "created_at": "2025-08-02T02:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T03:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951476050669781453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1947306238049665024",
+              "start": 0,
+              "username": "qiqin669559"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951476050669781453",
+        "in_reply_to_user_id": "1947306238049665024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951121645633986666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqin669559 米米嘟₍՞˶⦁֊⦁˶՞₎੭ﾞ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951121547113926658"
+          ]
+        },
+        "author_id": "1947306238049665024",
+        "conversation_id": "1951121645633986666",
+        "created_at": "2025-08-01T03:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T04:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951121645633986666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NfLWjwPonI",
+              "end": 48,
+              "expanded_url": "https://x.com/qiqin669559/status/1951121645633986666/video/1",
+              "media_key": "13_1951121547113926658",
+              "start": 25,
+              "url": "https://t.co/NfLWjwPonI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951121645633986666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 892,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出现 ∠( ᐛ 」∠)＿  偷偷发一个去年的柠檬 https://t.co/NfLWjwPonI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨INFP丨1im/puppy丨碎碎念丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1947637394255032494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 114,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 75
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-21T14:42:51.000Z",
+        "description": "如果可以，我要和你走进深海",
+        "id": "1947306238049665024",
+        "location": "MM",
+        "name": "柠檬舒芙蕾",
+        "pinned_tweet_id": "1951121645633986666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948396334681149440/f3iEoHM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 61,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 219
+        },
+        "username": "qiqin669559",
+        "verified": false
+      }
+    ]
+  }
+}

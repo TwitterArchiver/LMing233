@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1943180718890455088",
+    "created_at": "2025-07-12T02:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T03:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943855864823394618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "997135182",
+          "start": 0,
+          "username": "zzzzxwww"
+        },
+        {
+          "end": 23,
+          "id": "1562782205381713922",
+          "start": 10,
+          "username": "linqijiang77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943855864823394618",
+    "in_reply_to_user_id": "997135182",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943242419644125374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzzxwww @linqijiang77 nico根本找不到女主🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1943180718890455088",
+        "created_at": "2025-07-12T02:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T03:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943855864823394618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "997135182",
+              "start": 0,
+              "username": "zzzzxwww"
+            },
+            {
+              "end": 23,
+              "id": "1562782205381713922",
+              "start": 10,
+              "username": "linqijiang77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943855864823394618",
+        "in_reply_to_user_id": "997135182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943242419644125374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzzxwww @linqijiang77 nico根本找不到女主🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "997135182",
+        "conversation_id": "1943180718890455088",
+        "created_at": "2025-07-10T09:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T10:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943242419644125374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1562782205381713922",
+              "start": 0,
+              "username": "linqijiang77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943242419644125374",
+        "in_reply_to_user_id": "1562782205381713922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943180718890455088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linqijiang77 感觉Nico什么的都不太靠谱诶orz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/m  喜欢温柔主",
+        "id": "1036167674470879232",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1932661244726817176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926875850722459648/RRKXsJ1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 239,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 84
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-08T13:14:41.000Z",
+        "description": "🚹 也可以算mtx | 是小野猫 | 喜欢鲨鲨🦈猫猫🐈和可爱/酷酷的人 | 喜欢看男孩子被欺负 | sub/轻度brat | Platonic:iiii≈1:1 | ticklee | 互联网废物",
+        "id": "997135182",
+        "location": "北京",
+        "name": "O.🐳.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579389693241819136/dvnzkJZq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 964,
+          "like_count": 1687,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 620
+        },
+        "username": "zzzzxwww",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T12:41:53.000Z",
+        "description": "4i 颜控 御姐",
+        "id": "1562782205381713922",
+        "name": "林",
+        "pinned_tweet_id": "1785487406210462053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640212885191413760/lCBxCiVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7375,
+          "following_count": 11,
+          "like_count": 456,
+          "listed_count": 16,
+          "media_count": 108,
+          "tweet_count": 324
+        },
+        "username": "linqijiang77",
+        "verified": false
+      }
+    ]
+  }
+}

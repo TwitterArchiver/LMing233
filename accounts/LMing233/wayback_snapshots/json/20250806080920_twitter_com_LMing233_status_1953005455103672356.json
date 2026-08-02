@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953005448627666946"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1953005455103672356",
+    "created_at": "2025-08-06T08:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T09:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953005455103672356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sdUo357ECO",
+          "end": 49,
+          "expanded_url": "https://x.com/LMing233/status/1953005455103672356/photo/1",
+          "media_key": "3_1953005448627666946",
+          "start": 26,
+          "url": "https://t.co/sdUo357ECO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953005455103672356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呜呜呜互关们都好漂亮我夸不过来了ᯠ_   ̫ _ᯄ https://t.co/sdUo357ECO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 749,
+        "media_key": "3_1953005448627666946",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxp4G6nawAI7eLa.jpg",
+        "width": 748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953005448627666946"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1953005455103672356",
+        "created_at": "2025-08-06T08:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T09:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953005455103672356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sdUo357ECO",
+              "end": 49,
+              "expanded_url": "https://x.com/LMing233/status/1953005455103672356/photo/1",
+              "media_key": "3_1953005448627666946",
+              "start": 26,
+              "url": "https://t.co/sdUo357ECO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953005455103672356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜互关们都好漂亮我夸不过来了ᯠ_   ̫ _ᯄ https://t.co/sdUo357ECO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "其实我是男孩子˃ ᵕ ˂",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1952972639154389022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 61,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 140
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

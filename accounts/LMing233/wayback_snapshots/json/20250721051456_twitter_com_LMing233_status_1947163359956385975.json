@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1947163192947519944",
+    "created_at": "2025-07-21T05:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T06:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947163359956385975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821785452304797696",
+          "start": 0,
+          "username": "agustd11673"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947163359956385975",
+    "in_reply_to_user_id": "1821785452304797696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947163192947519944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@agustd11673 看看？（bushi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1947163192947519944",
+        "created_at": "2025-07-21T05:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T06:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947163359956385975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821785452304797696",
+              "start": 0,
+              "username": "agustd11673"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947163359956385975",
+        "in_reply_to_user_id": "1821785452304797696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947163192947519944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@agustd11673 看看？（bushi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821785452304797696",
+        "conversation_id": "1947163192947519944",
+        "created_at": "2025-07-21T05:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T06:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947163192947519944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947163192947519944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁要看黑皮体育生私房女仆照"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "主页有🔞慎入丨我是男孩子丨INFP丨M/puppy丨碎碎念丨古典音乐 术力口 摇滚丨persona 极乐迪斯科 锈湖 星露谷 斯普拉遁 塞尔达 弹丸论破",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 111,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 79
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T05:48:03.000Z",
+        "description": "喜欢我请给我打钱",
+        "id": "1821785452304797696",
+        "name": "闻",
+        "pinned_tweet_id": "1935723180800520609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932637153122791424/vWN0XlAv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 170,
+          "like_count": 2658,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1026
+        },
+        "username": "agustd11673",
+        "verified": false
+      }
+    ]
+  }
+}

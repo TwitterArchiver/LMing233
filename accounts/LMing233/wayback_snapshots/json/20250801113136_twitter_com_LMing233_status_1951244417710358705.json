@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1951244417710358705",
+    "created_at": "2025-08-01T11:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T12:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951244417710358705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lming233/statu…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/lming233/status/1950577752983359719",
+          "start": 23,
+          "url": "https://t.co/XGQQmtKRE6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951244417710358705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950577752983359719",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好不容易找到了个女dom的结果里面都是女女🥲 https://t.co/XGQQmtKRE6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1951244417710358705",
+        "created_at": "2025-08-01T11:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T12:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951244417710358705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lming233/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/lming233/status/1950577752983359719",
+              "start": 23,
+              "url": "https://t.co/XGQQmtKRE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951244417710358705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950577752983359719",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好不容易找到了个女dom的结果里面都是女女🥲 https://t.co/XGQQmtKRE6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1950577752983359719",
+        "created_at": "2025-07-30T15:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T16:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950577752983359719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950577752983359719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现有4ibot 有女性向bot\n为什么没有女s的bot😣😣😣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨INFP丨1im/puppy丨碎碎念",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1947637394255032494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 113,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 75
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

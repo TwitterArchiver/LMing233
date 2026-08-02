@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1947106937008722166",
+    "created_at": "2025-07-21T01:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T02:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947107268593627615"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1947107268593627615",
+    "in_reply_to_user_id": "1036167674470879232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947106937008722166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "像他妈野牛叫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1947106937008722166",
+        "created_at": "2025-07-21T01:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T02:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947107268593627615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947107268593627615",
+        "in_reply_to_user_id": "1036167674470879232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947106937008722166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像他妈野牛叫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1947106937008722166",
+        "created_at": "2025-07-21T01:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T02:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947106937008722166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/goodboyasa/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/goodboyasa/status/1947063424082714795",
+              "start": 15,
+              "url": "https://t.co/WrMP9EOFmR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947106937008722166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947063424082714795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然但是这个音频怎么这么难听 https://t.co/WrMP9EOFmR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "主页有🔞慎入丨我是男孩子丨INFP丨M/puppy丨碎碎念丨古典音乐 术力口 摇滚丨persona 极乐迪斯科 锈湖 星露谷 斯普拉遁 塞尔达 弹丸论破",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 111,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 74
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

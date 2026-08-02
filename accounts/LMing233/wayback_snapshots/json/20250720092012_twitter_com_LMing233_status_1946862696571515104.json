@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1946824766381506993",
+    "created_at": "2025-07-20T09:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T10:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946862696571515104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1351173647592022019",
+          "start": 0,
+          "username": "zF1DvKlXe1Y0Pk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946862696571515104",
+    "in_reply_to_user_id": "1351173647592022019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946862472285278419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zF1DvKlXe1Y0Pk2 当不了一点s我是纯种的m˃ ᵕ ˂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1946824766381506993",
+        "created_at": "2025-07-20T09:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T10:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946862696571515104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1351173647592022019",
+              "start": 0,
+              "username": "zF1DvKlXe1Y0Pk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946862696571515104",
+        "in_reply_to_user_id": "1351173647592022019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946862472285278419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zF1DvKlXe1Y0Pk2 当不了一点s我是纯种的m˃ ᵕ ˂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1351173647592022019",
+        "conversation_id": "1946824766381506993",
+        "created_at": "2025-07-20T09:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T10:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946862472285278419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1036167674470879232",
+              "start": 0,
+              "username": "LMing233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946862472285278419",
+        "in_reply_to_user_id": "1036167674470879232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946824766381506993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMing233 没准星巴克之后还会上个s项圈呢哈哈哈哈，当不了m当s👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "主页有🔞慎入丨我是男孩子丨INFP丨M/sub丨碎碎念",
+        "id": "1036167674470879232",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1932661244726817176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 112,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 80
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-18T14:25:04.000Z",
+        "description": "幸福中ing",
+        "id": "1351173647592022019",
+        "location": "🛥️扬帆起航中",
+        "name": "被激怒的大野牛",
+        "pinned_tweet_id": "1889691916058476804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935360448645287936/Iq-iHQkq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 477,
+          "like_count": 6604,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1316
+        },
+        "username": "zF1DvKlXe1Y0Pk2",
+        "verified": false
+      }
+    ]
+  }
+}

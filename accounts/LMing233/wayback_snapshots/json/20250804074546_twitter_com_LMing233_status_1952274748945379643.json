@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952274740682641408"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1952061804550779198",
+    "created_at": "2025-08-04T07:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T08:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952274748945379643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767905395299983360",
+          "start": 0,
+          "username": "Kaerigumo1585"
+        },
+        {
+          "end": 28,
+          "id": "1266711219425034241",
+          "start": 15,
+          "username": "Mcdonaldism_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wfdU66vdcs",
+          "end": 73,
+          "expanded_url": "https://x.com/LMing233/status/1952274748945379643/photo/1",
+          "media_key": "3_1952274740682641408",
+          "start": 50,
+          "url": "https://t.co/wfdU66vdcs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952274748945379643",
+    "in_reply_to_user_id": "1767905395299983360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952069152761610655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaerigumo1585 @Mcdonaldism_ 右边其实也不准因为我同时测出来逆民和皇汉 https://t.co/wfdU66vdcs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_1952274740682641408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxffiHZbUAAsUNF.jpg",
+        "width": 1211
+      },
+      {
+        "height": 1600,
+        "media_key": "3_1952069068099612672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxckeZUa8AA7eyq.jpg",
+        "width": 1850
+      },
+      {
+        "height": 1793,
+        "media_key": "3_1952069068087025664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxckeZRa4AAM_oV.jpg",
+        "width": 1241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952274740682641408"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1952061804550779198",
+        "created_at": "2025-08-04T07:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T08:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952274748945379643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767905395299983360",
+              "start": 0,
+              "username": "Kaerigumo1585"
+            },
+            {
+              "end": 28,
+              "id": "1266711219425034241",
+              "start": 15,
+              "username": "Mcdonaldism_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wfdU66vdcs",
+              "end": 73,
+              "expanded_url": "https://x.com/LMing233/status/1952274748945379643/photo/1",
+              "media_key": "3_1952274740682641408",
+              "start": 50,
+              "url": "https://t.co/wfdU66vdcs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952274748945379643",
+        "in_reply_to_user_id": "1767905395299983360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952069152761610655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaerigumo1585 @Mcdonaldism_ 右边其实也不准因为我同时测出来逆民和皇汉 https://t.co/wfdU66vdcs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952069068099612672",
+            "3_1952069068087025664"
+          ]
+        },
+        "author_id": "1767905395299983360",
+        "conversation_id": "1952061804550779198",
+        "created_at": "2025-08-03T18:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T19:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952069152761610655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1266711219425034241",
+              "start": 0,
+              "username": "Mcdonaldism_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpmtxoX1X7",
+              "end": 84,
+              "expanded_url": "https://x.com/Kaerigumo1585/status/1952069152761610655/photo/1",
+              "media_key": "3_1952069068099612672",
+              "start": 61,
+              "url": "https://t.co/dpmtxoX1X7"
+            },
+            {
+              "display_url": "pic.x.com/dpmtxoX1X7",
+              "end": 84,
+              "expanded_url": "https://x.com/Kaerigumo1585/status/1952069152761610655/photo/1",
+              "media_key": "3_1952069068087025664",
+              "start": 61,
+              "url": "https://t.co/dpmtxoX1X7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952069152761610655",
+        "in_reply_to_user_id": "1266711219425034241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 336,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952061804550779198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mcdonaldism_ 这个里面有些问题描述的对象是泛国际化一刀切的无法体现你对本国的看法进而影响结果，右边这个好点 https://t.co/dpmtxoX1X7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 52,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 117
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T13:28:08.000Z",
+        "description": "ようこそ ときめく世界へ",
+        "id": "1767905395299983360",
+        "location": "漫长的季节",
+        "name": "内岛氏理🐧",
+        "pinned_tweet_id": "1922927406198948211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922326890892951552/nrq8LDJp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2552,
+          "following_count": 1895,
+          "like_count": 27730,
+          "listed_count": 5,
+          "media_count": 226,
+          "tweet_count": 5048
+        },
+        "username": "Kaerigumo1585",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-30T12:41:23.000Z",
+        "description": "功利主义导向的思考方式往往使我们忘却了生命的本质是一场历程 ｜无论你是否是麦神的信徒，无论你的种族肤色性别，无论今天是星期几，你都可以享用13.9元麦当劳神教的1+1圣餐，麦神平等的爱世人，麦门🙏｜🐧相关❌盗图❌搬运",
+        "id": "1266711219425034241",
+        "location": "无所谓我会在网上到处拉屎",
+        "name": "AAA麻姐麦当劳薯条批发🍟🍟🍟",
+        "pinned_tweet_id": "1936044152061665678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920432920826687488/Qhhz0NjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5890,
+          "following_count": 988,
+          "like_count": 38636,
+          "listed_count": 21,
+          "media_count": 727,
+          "tweet_count": 12957
+        },
+        "username": "Mcdonaldism_",
+        "verified": false
+      }
+    ]
+  }
+}

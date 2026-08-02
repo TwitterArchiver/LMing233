@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952577251528368128",
+        "3_1952577251473772545",
+        "3_1952577251498950656",
+        "3_1952577251515707392"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1952577258268545299",
+    "created_at": "2025-08-05T03:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T04:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952577258268545299"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DS5BTc8bwc",
+          "end": 33,
+          "expanded_url": "https://x.com/LMing233/status/1952577258268545299/photo/1",
+          "media_key": "3_1952577251528368128",
+          "start": 10,
+          "url": "https://t.co/DS5BTc8bwc"
+        },
+        {
+          "display_url": "pic.x.com/DS5BTc8bwc",
+          "end": 33,
+          "expanded_url": "https://x.com/LMing233/status/1952577258268545299/photo/1",
+          "media_key": "3_1952577251473772545",
+          "start": 10,
+          "url": "https://t.co/DS5BTc8bwc"
+        },
+        {
+          "display_url": "pic.x.com/DS5BTc8bwc",
+          "end": 33,
+          "expanded_url": "https://x.com/LMing233/status/1952577258268545299/photo/1",
+          "media_key": "3_1952577251498950656",
+          "start": 10,
+          "url": "https://t.co/DS5BTc8bwc"
+        },
+        {
+          "display_url": "pic.x.com/DS5BTc8bwc",
+          "end": 33,
+          "expanded_url": "https://x.com/LMing233/status/1952577258268545299/photo/1",
+          "media_key": "3_1952577251515707392",
+          "start": 10,
+          "url": "https://t.co/DS5BTc8bwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952577258268545299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和人民群众打成一片 https://t.co/DS5BTc8bwc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1952577251528368128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxjyqkHbYAAOi0G.jpg",
+        "width": 544
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1952577251473772545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxjyqj6aUAE4Iw5.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1952577251498950656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxjyqkAagAAoR9n.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1952577251515707392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxjyqkEaMAA24a2.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952577251528368128",
+            "3_1952577251473772545",
+            "3_1952577251498950656",
+            "3_1952577251515707392"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1952577258268545299",
+        "created_at": "2025-08-05T03:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T04:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952577258268545299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DS5BTc8bwc",
+              "end": 33,
+              "expanded_url": "https://x.com/LMing233/status/1952577258268545299/photo/1",
+              "media_key": "3_1952577251528368128",
+              "start": 10,
+              "url": "https://t.co/DS5BTc8bwc"
+            },
+            {
+              "display_url": "pic.x.com/DS5BTc8bwc",
+              "end": 33,
+              "expanded_url": "https://x.com/LMing233/status/1952577258268545299/photo/1",
+              "media_key": "3_1952577251473772545",
+              "start": 10,
+              "url": "https://t.co/DS5BTc8bwc"
+            },
+            {
+              "display_url": "pic.x.com/DS5BTc8bwc",
+              "end": 33,
+              "expanded_url": "https://x.com/LMing233/status/1952577258268545299/photo/1",
+              "media_key": "3_1952577251498950656",
+              "start": 10,
+              "url": "https://t.co/DS5BTc8bwc"
+            },
+            {
+              "display_url": "pic.x.com/DS5BTc8bwc",
+              "end": 33,
+              "expanded_url": "https://x.com/LMing233/status/1952577258268545299/photo/1",
+              "media_key": "3_1952577251515707392",
+              "start": 10,
+              "url": "https://t.co/DS5BTc8bwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952577258268545299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和人民群众打成一片 https://t.co/DS5BTc8bwc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 55,
+          "like_count": 548,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 115
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

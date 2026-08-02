@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951899650035957760"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1951895990707101827",
+    "created_at": "2025-08-03T06:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T07:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951899674903998523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1941910581646438401",
+          "start": 0,
+          "username": "Nicole77z"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z9u7Px5IWq",
+          "end": 48,
+          "expanded_url": "https://x.com/LMing233/status/1951899674903998523/photo/1",
+          "media_key": "3_1951899650035957760",
+          "start": 25,
+          "url": "https://t.co/Z9u7Px5IWq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951899674903998523",
+    "in_reply_to_user_id": "1941910581646438401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951895990707101827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nicole77z 测的是这个啊啊啊啊你测错了 https://t.co/Z9u7Px5IWq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1951899650035957760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxaKY92aQAAKmsn.jpg",
+        "width": 1338
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1951895976026820608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxaHDHGX0AACMMp.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951899650035957760"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1951895990707101827",
+        "created_at": "2025-08-03T06:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T07:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951899674903998523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1941910581646438401",
+              "start": 0,
+              "username": "Nicole77z"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9u7Px5IWq",
+              "end": 48,
+              "expanded_url": "https://x.com/LMing233/status/1951899674903998523/photo/1",
+              "media_key": "3_1951899650035957760",
+              "start": 25,
+              "url": "https://t.co/Z9u7Px5IWq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951899674903998523",
+        "in_reply_to_user_id": "1941910581646438401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951895990707101827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nicole77z 测的是这个啊啊啊啊你测错了 https://t.co/Z9u7Px5IWq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951895976026820608"
+          ]
+        },
+        "author_id": "1941910581646438401",
+        "conversation_id": "1951895990707101827",
+        "created_at": "2025-08-03T06:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T07:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951895990707101827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IDFKPQaVYp",
+              "end": 50,
+              "expanded_url": "https://x.com/Nicole77z/status/1951895990707101827/photo/1",
+              "media_key": "3_1951895976026820608",
+              "start": 27,
+              "url": "https://t.co/IDFKPQaVYp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951895990707101827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们怎么从这个图看出是bdsm哪个啊，我怎么看不懂🤔 https://t.co/IDFKPQaVYp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨INFP丨1im/puppy丨碎碎念丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 115,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 85
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-06T17:22:27.000Z",
+        "description": "05♌️｜间歇性分享欲旺盛 | 女宝无论是谁都来和我玩｜不喜欢没礼貌的人 感觉被冒犯了直接拉黑｜互关私信都会回 其他的随缘 不回就是不感兴趣｜只是无属性的普通人",
+        "id": "1941910581646438401",
+        "name": "Nicole",
+        "pinned_tweet_id": "1950849617588891717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951574087756836864/A1xn24fU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 34,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 244
+        },
+        "username": "Nicole77z",
+        "verified": false
+      }
+    ]
+  }
+}

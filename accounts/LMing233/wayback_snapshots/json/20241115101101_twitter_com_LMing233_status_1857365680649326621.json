@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1857288659055280554",
+    "created_at": "2024-11-15T10:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T11:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857365680649326621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2326265520",
+          "start": 0,
+          "username": "littlebuggr31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857365680649326621",
+    "in_reply_to_user_id": "2326265520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857288659055280554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littlebuggr31 来我主页看🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1857288659055280554",
+        "created_at": "2024-11-15T10:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T11:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857365680649326621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2326265520",
+              "start": 0,
+              "username": "littlebuggr31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857365680649326621",
+        "in_reply_to_user_id": "2326265520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857288659055280554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littlebuggr31 来我主页看🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2326265520",
+        "conversation_id": "1857288659055280554",
+        "created_at": "2024-11-15T05:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T06:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857288659055280554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857288659055280554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 49673,
+          "like_count": 133,
+          "quote_count": 0,
+          "reply_count": 164,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "周五的鸡巴大赛总能有新意！期待ing . . .！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/男m",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850177714168397824/9VpLpWNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 220,
+          "like_count": 297,
+          "listed_count": 0,
+          "tweet_count": 32
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-04T01:06:03.000Z",
+        "description": "参赛的前三名男女推可获得百万流量支持   /   jb大赛主理人    /   接受男女投稿   /  欢迎男女推参赛，让参赛变成一种潮流",
+        "id": "2326265520",
+        "location": "附近的人",
+        "name": "粉",
+        "pinned_tweet_id": "1856919726133580091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765755432449241088/cIUsOirR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98541,
+          "following_count": 165,
+          "like_count": 201,
+          "listed_count": 111,
+          "tweet_count": 986
+        },
+        "username": "littlebuggr31",
+        "verified": false
+      }
+    ]
+  }
+}

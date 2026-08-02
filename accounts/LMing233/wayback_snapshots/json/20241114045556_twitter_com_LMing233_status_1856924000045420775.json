@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1856924000045420775",
+    "created_at": "2024-11-14T04:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T05:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856924000045420775"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1856924000045420775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做爱日记\n今天跟主人doi的时候不小心喷了，因为太爽了没忍住，主人生气了，掐我脖子问我谁让我喷的，我说我是太爽了擅自喷出来的，主人更生气了，给我带上口球又操了三个小时，我实在没力气了，今天是疯狂星期四，谁来v我50让我主人去吃肯德基，别来操我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1856924000045420775",
+        "created_at": "2024-11-14T04:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T05:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856924000045420775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856924000045420775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做爱日记\n今天跟主人doi的时候不小心喷了，因为太爽了没忍住，主人生气了，掐我脖子问我谁让我喷的，我说我是太爽了擅自喷出来的，主人更生气了，给我带上口球又操了三个小时，我实在没力气了，今天是疯狂星期四，谁来v我50让我主人去吃肯德基，别来操我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/男m",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850177714168397824/9VpLpWNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 219,
+          "like_count": 294,
+          "listed_count": 0,
+          "tweet_count": 41
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

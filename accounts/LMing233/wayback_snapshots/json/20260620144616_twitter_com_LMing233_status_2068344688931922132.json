@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "2068344688931922132",
+    "created_at": "2026-06-20T14:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068344688931922132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/7ksti4/status/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/7ksti4/status/2068301611500446049",
+          "start": 10,
+          "url": "https://t.co/D6qyDdUQmi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068344688931922132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068301611500446049",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢这个入的歌品 https://t.co/D6qyDdUQmi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2068344688931922132",
+        "created_at": "2026-06-20T14:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068344688931922132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7ksti4/status/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/7ksti4/status/2068301611500446049",
+              "start": 10,
+              "url": "https://t.co/D6qyDdUQmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068344688931922132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068301611500446049",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢这个入的歌品 https://t.co/D6qyDdUQmi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2068301611500446049",
+        "created_at": "2026-06-20T11:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068301611500446049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068301611500446049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和推u一起刷专好开心，原来大门还有这么多爽飞的歌我还没听过，然后此刻我内心是好想磕药！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子/infp/♂/餐券/我割我o/m/欢迎同类互fo\n#shtwt #自残 #自伤",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 40,
+                "start": 37,
+                "tag": "自残"
+              },
+              {
+                "end": 44,
+                "start": 41,
+                "tag": "自伤"
+              }
+            ]
+          }
+        },
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "2059657448965959719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 154,
+          "like_count": 1680,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 248
+        },
+        "url": "",
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 406,
+          "like_count": 4311,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980998129777307648"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1980998141525856413",
+    "created_at": "2025-10-22T14:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T15:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980998141525856413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ESuuWVLYwe",
+          "end": 35,
+          "expanded_url": "https://x.com/LMing233/status/1980998141525856413/photo/1",
+          "media_key": "3_1980998129777307648",
+          "start": 12,
+          "url": "https://t.co/ESuuWVLYwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980998141525856413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喵！鬼知道我打了多少遍 https://t.co/ESuuWVLYwe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1980998129777307648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G33rTaIW8AAzSOa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980998129777307648"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980998141525856413",
+        "created_at": "2025-10-22T14:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T15:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980998141525856413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ESuuWVLYwe",
+              "end": 35,
+              "expanded_url": "https://x.com/LMing233/status/1980998141525856413/photo/1",
+              "media_key": "3_1980998129777307648",
+              "start": 12,
+              "url": "https://t.co/ESuuWVLYwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980998141525856413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵！鬼知道我打了多少遍 https://t.co/ESuuWVLYwe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我是男的丨infp丨西音 摇滚丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨人文学科爱好者丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "location": "总有一天我会回到你身边",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 65,
+          "like_count": 1084,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 268
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

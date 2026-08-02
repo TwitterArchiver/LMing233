@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1952550268366909849",
+    "created_at": "2025-08-05T02:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T03:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952553215506915676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1936255039351529472",
+          "start": 0,
+          "username": "nai_mao15515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952553215506915676",
+    "in_reply_to_user_id": "1936255039351529472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952550268366909849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nai_mao15515 不气不气揉揉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1374,
+        "media_key": "3_1952550256715157504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxjaHQma0AAYL1o.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1038,
+        "media_key": "3_1952550256966828034",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxjaHRibAAIV5ZP.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1952550268366909849",
+        "created_at": "2025-08-05T02:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T03:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952553215506915676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1936255039351529472",
+              "start": 0,
+              "username": "nai_mao15515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952553215506915676",
+        "in_reply_to_user_id": "1936255039351529472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952550268366909849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nai_mao15515 不气不气揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952550256715157504",
+            "3_1952550256966828034"
+          ]
+        },
+        "author_id": "1936255039351529472",
+        "conversation_id": "1952550268366909849",
+        "created_at": "2025-08-05T02:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T03:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952550268366909849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iKnSs0Ip0f",
+              "end": 89,
+              "expanded_url": "https://x.com/nai_mao15515/status/1952550268366909849/photo/1",
+              "media_key": "3_1952550256715157504",
+              "start": 66,
+              "url": "https://t.co/iKnSs0Ip0f"
+            },
+            {
+              "display_url": "pic.x.com/iKnSs0Ip0f",
+              "end": 89,
+              "expanded_url": "https://x.com/nai_mao15515/status/1952550268366909849/photo/1",
+              "media_key": "3_1952550256966828034",
+              "start": 66,
+              "url": "https://t.co/iKnSs0Ip0f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952550268366909849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在禁止任何穷鬼骚扰我 因为你想 我的钱包很穷 我的银行卡很穷 我的支付宝很穷 我的微信余额也很穷 如果你和我聊天的话 我会更穷 https://t.co/iKnSs0Ip0f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 54,
+          "like_count": 547,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 111
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T02:49:31.000Z",
+        "description": "禁止喵喵天",
+        "id": "1936255039351529472",
+        "name": "喵的",
+        "pinned_tweet_id": "1951823479256629667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951093784642523137/dHYhIWJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 19,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 356
+        },
+        "username": "nai_mao15515",
+        "verified": false
+      }
+    ]
+  }
+}

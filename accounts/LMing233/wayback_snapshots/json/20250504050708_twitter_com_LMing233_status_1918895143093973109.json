@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1918895078615158784"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1918895143093973109",
+    "created_at": "2025-05-04T05:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T06:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918895143093973109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mX4JKA0Whs",
+          "end": 28,
+          "expanded_url": "https://x.com/LMing233/status/1918895143093973109/video/1",
+          "media_key": "13_1918895078615158784",
+          "start": 5,
+          "url": "https://t.co/mX4JKA0Whs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918895143093973109",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小猫小猫 https://t.co/mX4JKA0Whs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5320,
+        "height": 1280,
+        "media_key": "13_1918895078615158784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1918895078615158784/img/8GMsihWRnD2VH-6B.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918895078615158784/vid/avc1/320x568/d5GkLLNzHcqhc6G0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918895078615158784/vid/avc1/480x852/EoTTxvD_ohOOpNlq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918895078615158784/vid/avc1/720x1280/7nhwCrsi90XLhBCo.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1918895078615158784/pl/DI59vR50pJ8iluuK.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1918895078615158784"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "1918895143093973109",
+        "created_at": "2025-05-04T05:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T06:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918895143093973109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mX4JKA0Whs",
+              "end": 28,
+              "expanded_url": "https://x.com/LMing233/status/1918895143093973109/video/1",
+              "media_key": "13_1918895078615158784",
+              "start": 5,
+              "url": "https://t.co/mX4JKA0Whs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918895143093973109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫小猫 https://t.co/mX4JKA0Whs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/1im",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "pinned_tweet_id": "1850104906633625805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912362874955030528/r3-W3yXQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 226,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 61
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

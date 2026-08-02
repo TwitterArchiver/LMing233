@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1779603944593129472"
+      ],
+      "media_source_tweet_id": [
+        "1779603957461254598"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "1850407132375711944",
+    "created_at": "2024-10-27T05:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T06:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850407132375711944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "738692159499444224",
+          "start": 3,
+          "username": "KouYou177"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uIP28Z55rn",
+          "end": 47,
+          "expanded_url": "https://x.com/KouYou177/status/1779603957461254598/photo/1",
+          "media_key": "3_1779603944593129472",
+          "start": 24,
+          "url": "https://t.co/uIP28Z55rn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850407132375711944",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 761
+    },
+    "referenced_tweets": [
+      {
+        "id": "1779603957461254598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KouYou177: SMマンション④ https://t.co/uIP28Z55rn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1850407132375711944].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1850407132375711944",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1850407132375711944"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1779603944593129472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GLJsW95bgAAYB4Z.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1779603944593129472"
+          ]
+        },
+        "author_id": "738692159499444224",
+        "conversation_id": "1779603957461254598",
+        "created_at": "2024-04-14T20:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-14T21:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1779603957461254598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uIP28Z55rn",
+              "end": 32,
+              "expanded_url": "https://x.com/KouYou177/status/1779603957461254598/photo/1",
+              "media_key": "3_1779603944593129472",
+              "start": 9,
+              "url": "https://t.co/uIP28Z55rn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1779603957461254598",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 989,
+          "impression_count": 390702,
+          "like_count": 4530,
+          "quote_count": 41,
+          "reply_count": 39,
+          "retweet_count": 761
+        },
+        "reply_settings": "everyone",
+        "text": "SMマンション④ https://t.co/uIP28Z55rn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/男m/傻逼长发男",
+        "id": "1036167674470879232",
+        "name": "🍓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850177714168397824/9VpLpWNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 215,
+          "like_count": 174,
+          "listed_count": 0,
+          "tweet_count": 36
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-03T11:21:50.000Z",
+        "description": "。。。",
+        "id": "738692159499444224",
+        "location": "東京 練馬区",
+        "name": "KouYou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1407236334809321472/9R-lXKtx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26314,
+          "following_count": 324,
+          "like_count": 4915,
+          "listed_count": 135,
+          "tweet_count": 542
+        },
+        "username": "KouYou177",
+        "verified": true
+      }
+    ]
+  }
+}

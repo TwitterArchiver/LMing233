@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1939918911665054024",
+    "created_at": "2025-07-01T05:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T06:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939918911665054024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/valfemdom/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/valfemdom/status/1939528825286852877",
+          "start": 2,
+          "url": "https://t.co/MmLTxKzSCJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939918911665054024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939528825286852877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接 https://t.co/MmLTxKzSCJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1939528825286852877].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1939528825286852877",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1939528825286852877"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1939918911665054024",
+        "created_at": "2025-07-01T05:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T06:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939918911665054024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/valfemdom/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/valfemdom/status/1939528825286852877",
+              "start": 2,
+              "url": "https://t.co/MmLTxKzSCJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939918911665054024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939528825286852877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/MmLTxKzSCJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "infp/m",
+        "id": "1036167674470879232",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1932661244726817176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926875850722459648/RRKXsJ1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 238,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 78
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

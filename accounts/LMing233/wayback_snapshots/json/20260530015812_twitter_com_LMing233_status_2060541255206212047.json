@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060541231105748992",
+        "3_2060541231109914624",
+        "3_2060541231093125120"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "2060541255206212047",
+    "created_at": "2026-05-30T01:58:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T02:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060541255206212047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cMGwvE4yIT",
+          "end": 26,
+          "expanded_url": "https://x.com/LMing233/status/2060541255206212047/photo/1",
+          "media_key": "3_2060541231105748992",
+          "start": 3,
+          "url": "https://t.co/cMGwvE4yIT"
+        },
+        {
+          "display_url": "pic.x.com/cMGwvE4yIT",
+          "end": 26,
+          "expanded_url": "https://x.com/LMing233/status/2060541255206212047/photo/1",
+          "media_key": "3_2060541231109914624",
+          "start": 3,
+          "url": "https://t.co/cMGwvE4yIT"
+        },
+        {
+          "display_url": "pic.x.com/cMGwvE4yIT",
+          "end": 26,
+          "expanded_url": "https://x.com/LMing233/status/2060541255206212047/photo/1",
+          "media_key": "3_2060541231093125120",
+          "start": 3,
+          "url": "https://t.co/cMGwvE4yIT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060541255206212047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "测试 https://t.co/cMGwvE4yIT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1529,
+        "media_key": "3_2060541231105748992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiDVR0asAAWcSz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060541231109914624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiDVR1aQAAF8uk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2060541231093125120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiDVRxaEAAhnvX.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060541231105748992",
+            "3_2060541231109914624",
+            "3_2060541231093125120"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "2060541255206212047",
+        "created_at": "2026-05-30T01:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T02:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060541255206212047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cMGwvE4yIT",
+              "end": 26,
+              "expanded_url": "https://x.com/LMing233/status/2060541255206212047/photo/1",
+              "media_key": "3_2060541231105748992",
+              "start": 3,
+              "url": "https://t.co/cMGwvE4yIT"
+            },
+            {
+              "display_url": "pic.x.com/cMGwvE4yIT",
+              "end": 26,
+              "expanded_url": "https://x.com/LMing233/status/2060541255206212047/photo/1",
+              "media_key": "3_2060541231109914624",
+              "start": 3,
+              "url": "https://t.co/cMGwvE4yIT"
+            },
+            {
+              "display_url": "pic.x.com/cMGwvE4yIT",
+              "end": 26,
+              "expanded_url": "https://x.com/LMing233/status/2060541255206212047/photo/1",
+              "media_key": "3_2060541231093125120",
+              "start": 3,
+              "url": "https://t.co/cMGwvE4yIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060541255206212047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "测试 https://t.co/cMGwvE4yIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子/infp/♂/我割我o/欢迎同类互fo\n#shtwt #自残 #自伤",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "自残"
+              },
+              {
+                "end": 39,
+                "start": 36,
+                "tag": "自伤"
+              }
+            ]
+          }
+        },
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "2059657448965959719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 122,
+          "like_count": 1567,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 222
+        },
+        "username": "LMing233",
+        "verified": false
+      }
+    ]
+  }
+}

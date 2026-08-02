@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1952979606065291753",
+    "created_at": "2025-08-06T10:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T11:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953043798617145419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1266711219425034241",
+          "start": 0,
+          "username": "Mcdonaldism_"
+        },
+        {
+          "end": 29,
+          "id": "1750040441880498176",
+          "start": 14,
+          "username": "kill_this_hate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953043798617145419",
+    "in_reply_to_user_id": "1266711219425034241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953033863195967598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mcdonaldism_ @kill_this_hate 这是边牧啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1952979606065291753",
+        "created_at": "2025-08-06T10:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T11:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953043798617145419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1266711219425034241",
+              "start": 0,
+              "username": "Mcdonaldism_"
+            },
+            {
+              "end": 29,
+              "id": "1750040441880498176",
+              "start": 14,
+              "username": "kill_this_hate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953043798617145419",
+        "in_reply_to_user_id": "1266711219425034241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953033863195967598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mcdonaldism_ @kill_this_hate 这是边牧啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266711219425034241",
+        "conversation_id": "1952979606065291753",
+        "created_at": "2025-08-06T10:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T11:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953033863195967598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750040441880498176",
+              "start": 0,
+              "username": "kill_this_hate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953033863195967598",
+        "in_reply_to_user_id": "1750040441880498176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952979606065291753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kill_this_hate 好喜欢这种串串狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "其实我是男孩子˃ ᵕ ˂",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1952972639154389022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 60,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 142
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-30T12:41:23.000Z",
+        "description": "功利主义导向的思考方式往往使我们忘却了生命的本质是一场历程 ｜无论你是否是麦神的信徒，无论你的种族肤色性别，无论今天是星期几，你都可以享用13.9元麦当劳神教的1+1圣餐，麦神平等的爱世人，麦门🙏｜🐧相关❌盗图❌搬运",
+        "id": "1266711219425034241",
+        "location": "无所谓我会在网上到处拉屎",
+        "name": "AAA麻姐麦当劳薯条批发🍟🍟🍟",
+        "pinned_tweet_id": "1936044152061665678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920432920826687488/Qhhz0NjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6061,
+          "following_count": 1004,
+          "like_count": 39018,
+          "listed_count": 21,
+          "media_count": 727,
+          "tweet_count": 13037
+        },
+        "username": "Mcdonaldism_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T06:19:04.000Z",
+        "description": "万剑如风，血流如沐。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i46595",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i46595",
+                "start": 0,
+                "url": "https://t.co/cehcglWVw4"
+              }
+            ]
+          }
+        },
+        "id": "1750040441880498176",
+        "location": "极端动保，勿踩雷点",
+        "name": "雀儿观猫",
+        "pinned_tweet_id": "1950549008122102188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904043326652960768/_stZidxP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 143,
+          "like_count": 11540,
+          "listed_count": 1,
+          "media_count": 629,
+          "tweet_count": 5928
+        },
+        "url": "https://t.co/cehcglWVw4",
+        "username": "kill_this_hate",
+        "verified": false
+      }
+    ]
+  }
+}

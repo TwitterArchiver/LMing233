@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "2081063485329510485",
+    "created_at": "2026-07-25T17:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T18:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081068811374182655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1953859279003561984",
+          "start": 0,
+          "username": "lingyugeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081068811374182655",
+    "in_reply_to_user_id": "1953859279003561984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081063485329510485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingyugeng 诶多❤️是同类呢～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2081063485329510485",
+        "created_at": "2026-07-25T17:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081068811374182655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1953859279003561984",
+              "start": 0,
+              "username": "lingyugeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081068811374182655",
+        "in_reply_to_user_id": "1953859279003561984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081063485329510485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingyugeng 诶多❤️是同类呢～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953859279003561984",
+        "conversation_id": "2081063485329510485",
+        "created_at": "2026-07-25T17:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081063485329510485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081063485329510485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "寻找一个像我一样的男孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子/infp/♂/餐券/我割我o/m/欢迎同类互fo/不喜欢我可以屏蔽不要举报我\n#shtwt #自残 #自伤\n女友位招租中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 44,
+                "tag": "shtwt"
+              },
+              {
+                "end": 54,
+                "start": 51,
+                "tag": "自残"
+              },
+              {
+                "end": 58,
+                "start": 55,
+                "tag": "自伤"
+              }
+            ]
+          }
+        },
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 164,
+          "like_count": 1870,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T16:42:26.000Z",
+        "description": "宅/安徽/男/命比愈美苦三分",
+        "id": "1953859279003561984",
+        "name": "幻想是痛苦的延续",
+        "pinned_tweet_id": "2075858807847363060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078552560940843008/3eFcKlQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 84,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 602
+        },
+        "url": "",
+        "username": "lingyugeng",
+        "verified": false
+      }
+    ]
+  }
+}

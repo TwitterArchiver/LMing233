@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1955811988120199668",
+    "created_at": "2025-08-14T02:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T03:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955811988120199668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mimosa_0818/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/mimosa_0818/status/1955278132895785033",
+          "start": 20,
+          "url": "https://t.co/7PxGcH8yjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955811988120199668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955278132895785033",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得狮子男最好 特别是infp狮子男 https://t.co/7PxGcH8yjp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1955811988120199668",
+        "created_at": "2025-08-14T02:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T03:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955811988120199668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mimosa_0818/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/mimosa_0818/status/1955278132895785033",
+              "start": 20,
+              "url": "https://t.co/7PxGcH8yjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955811988120199668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955278132895785033",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得狮子男最好 特别是infp狮子男 https://t.co/7PxGcH8yjp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1168409908448022528",
+        "conversation_id": "1955278132895785033",
+        "created_at": "2025-08-12T14:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T15:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955278132895785033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955278132895785033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 87557,
+          "like_count": 455,
+          "quote_count": 13,
+          "reply_count": 146,
+          "retweet_count": 14
+        },
+        "reply_settings": "following",
+        "text": "摩羯男是傻逼\n巨蟹男是傻逼\n处女男是傻逼\n天秤男是傻逼\n金牛男是傻逼\n射手男是傻逼\n白羊男是傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本帐号使用者是一只可爱的小狗૮₍ ˶•ᴗ•˶₎ა丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "这个世界会好吗",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1955262173204173269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 65,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 228
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-02T06:27:20.000Z",
+        "description": "颜控｜纯清水｜不➕V不约不线下｜发屌拉黑｜",
+        "id": "1168409908448022528",
+        "location": "無🚪不➕V不线下",
+        "name": "Mimo",
+        "pinned_tweet_id": "1943292811165454684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949791770851655680/uaOUguv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36705,
+          "following_count": 120,
+          "like_count": 2220,
+          "listed_count": 88,
+          "media_count": 306,
+          "tweet_count": 3234
+        },
+        "username": "Mimosa_0818",
+        "verified": false
+      }
+    ]
+  }
+}

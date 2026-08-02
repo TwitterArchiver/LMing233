@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1946589568456859782",
+    "created_at": "2025-07-19T17:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T18:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946625264240476416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1711784205385170944",
+          "start": 0,
+          "username": "bubble260888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946625264240476416",
+    "in_reply_to_user_id": "1711784205385170944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946621408668438530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bubble260888 我自从被几个康佬带上传说之后就不敢单排打工了怕坑队友www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1946589568456859782",
+        "created_at": "2025-07-19T17:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T18:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946625264240476416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1711784205385170944",
+              "start": 0,
+              "username": "bubble260888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946625264240476416",
+        "in_reply_to_user_id": "1711784205385170944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946621408668438530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bubble260888 我自从被几个康佬带上传说之后就不敢单排打工了怕坑队友www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711784205385170944",
+        "conversation_id": "1946589568456859782",
+        "created_at": "2025-07-19T17:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T18:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946621408668438530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1036167674470879232",
+              "start": 0,
+              "username": "LMing233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946621408668438530",
+        "in_reply_to_user_id": "1711784205385170944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946620474349465665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMing233 或者去玩玩打工 最近都在军训自己。。打累了就去看看工友直播学学技术 （嘛 虽然大家都说玩游戏开心就好 不用那么勉强自己 但还是觉得提升下自己身法技术啥的 自己赢得才开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我是男孩子 infp/m 主页有🔞慎入",
+        "id": "1036167674470879232",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1932661244726817176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 113,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 73
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T16:42:29.000Z",
+        "description": "",
+        "id": "1711784205385170944",
+        "name": "serendipity",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890694311727235072/Cf8UhXgV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 125,
+          "like_count": 727,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 250
+        },
+        "username": "bubble260888",
+        "verified": false
+      }
+    ]
+  }
+}

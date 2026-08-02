@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "2056800383335317683",
+    "created_at": "2026-05-20T02:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056927726129553623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967367341681086464",
+          "start": 0,
+          "username": "Zay19ne104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056927726129553623",
+    "in_reply_to_user_id": "1967367341681086464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056907502848012460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zay19ne104 我是小男孩啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2056800383335317683",
+        "created_at": "2026-05-20T02:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056927726129553623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967367341681086464",
+              "start": 0,
+              "username": "Zay19ne104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056927726129553623",
+        "in_reply_to_user_id": "1967367341681086464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056907502848012460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zay19ne104 我是小男孩啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967367341681086464",
+        "conversation_id": "2056800383335317683",
+        "created_at": "2026-05-20T01:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T02:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056907502848012460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1036167674470879232",
+              "start": 0,
+              "username": "LMing233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056907502848012460",
+        "in_reply_to_user_id": "1036167674470879232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056900713264062478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMing233 怜爱一下这个小女孩🥺🫳🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "cn椰子/infp/♂/我有精神病/我割我o/病み垢/查成分互fo",
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 74,
+          "like_count": 1364,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 183
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T23:18:32.000Z",
+        "description": "我有精神病。",
+        "id": "1967367341681086464",
+        "name": "Zay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056477868587188224/4E0g1S3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 24,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 26
+        },
+        "username": "Zay19ne104",
+        "verified": false
+      }
+    ]
+  }
+}

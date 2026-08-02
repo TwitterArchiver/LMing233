@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1952255025620885882",
+    "created_at": "2025-08-04T10:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T11:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952321072801706223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1427509553466200071",
+          "start": 0,
+          "username": "celerino_lau"
+        },
+        {
+          "end": 25,
+          "id": "1548893466842714112",
+          "start": 14,
+          "username": "wait000412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952321072801706223",
+    "in_reply_to_user_id": "1427509553466200071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952320826960928783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@celerino_lau @wait000412 俺不中嘞我总被说像年轻斯内普🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1952255025620885882",
+        "created_at": "2025-08-04T10:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T11:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952321072801706223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1427509553466200071",
+              "start": 0,
+              "username": "celerino_lau"
+            },
+            {
+              "end": 25,
+              "id": "1548893466842714112",
+              "start": 14,
+              "username": "wait000412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952321072801706223",
+        "in_reply_to_user_id": "1427509553466200071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952320826960928783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@celerino_lau @wait000412 俺不中嘞我总被说像年轻斯内普🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427509553466200071",
+        "conversation_id": "1952255025620885882",
+        "created_at": "2025-08-04T10:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T11:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952320826960928783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1548893466842714112",
+              "start": 0,
+              "username": "wait000412"
+            },
+            {
+              "end": 21,
+              "id": "1036167674470879232",
+              "start": 12,
+              "username": "LMing233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952320826960928783",
+        "in_reply_to_user_id": "1548893466842714112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952311514406518973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wait000412 @LMing233 完全就是一个非常帅的人啊❗有没有人懂❓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "本账号的使用者是一只可爱的小狗丨infp丨1im丨西音 摇滚 术力口丨任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 战锤丨查成分后会互fo（男的不回除非你比我可爱）",
+        "id": "1036167674470879232",
+        "location": "Hong Kong",
+        "name": "绝望的m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945083342736474114/v1hqMKEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 52,
+          "like_count": 534,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 121
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-17T05:56:29.000Z",
+        "description": "Soliloquy series",
+        "id": "1427509553466200071",
+        "location": "Unknown",
+        "name": "Celerino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809622051101265920/9BrRqa9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 378,
+          "like_count": 5803,
+          "listed_count": 2,
+          "media_count": 488,
+          "tweet_count": 2282
+        },
+        "username": "celerino_lau",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T04:52:51.000Z",
+        "description": "不加女孩和gay以外任何人士的联系方式，不要对我的私人推文指手画脚。",
+        "id": "1548893466842714112",
+        "name": "nothatcomplicated",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548893701442678784/qywdd-61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 126,
+          "like_count": 671,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 140
+        },
+        "username": "wait000412",
+        "verified": false
+      }
+    ]
+  }
+}

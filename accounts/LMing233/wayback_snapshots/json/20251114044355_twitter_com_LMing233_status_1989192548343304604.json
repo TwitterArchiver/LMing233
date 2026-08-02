@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1988578696748528020",
+    "created_at": "2025-11-14T04:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T05:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989192548343304604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1757105459356704768",
+          "start": 0,
+          "username": "lingopark21"
+        },
+        {
+          "end": 27,
+          "id": "1621210536393465857",
+          "start": 13,
+          "username": "TF13230828192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989192548343304604",
+    "in_reply_to_user_id": "1757105459356704768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988848431977169178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingopark21 @TF13230828192 你这么说很容易被那帮搞4i圈子的骂 因为在他们的视角里女强男弱在性行为上就是女入男 我个人就很不认可将4i与pegging绑定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1988578696748528020",
+        "created_at": "2025-11-14T04:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989192548343304604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1757105459356704768",
+              "start": 0,
+              "username": "lingopark21"
+            },
+            {
+              "end": 27,
+              "id": "1621210536393465857",
+              "start": 13,
+              "username": "TF13230828192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989192548343304604",
+        "in_reply_to_user_id": "1757105459356704768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988848431977169178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingopark21 @TF13230828192 你这么说很容易被那帮搞4i圈子的骂 因为在他们的视角里女强男弱在性行为上就是女入男 我个人就很不认可将4i与pegging绑定"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757105459356704768",
+        "conversation_id": "1988578696748528020",
+        "created_at": "2025-11-13T05:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T06:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988848431977169178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621210536393465857",
+              "start": 0,
+              "username": "TF13230828192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988848431977169178",
+        "in_reply_to_user_id": "1621210536393465857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988845348765217203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TF13230828192 感觉不是很绝对吧，比如还是正常的两性性交，但是由女方主导和支配，不一定非得女入男吧….\n喜欢被入后庭的男性除了gay感觉终归是少数，也不是每一个四爱女都喜欢入后庭吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我是男的丨infp丨可以叫我椰子丨西音 摇滚 术力口丨舞萌 任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 等丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "location": "总有一天我会回到你身边",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983749067361677312/-UaapTrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 65,
+          "like_count": 1128,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 309
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T18:12:54.000Z",
+        "description": "我只是一个碎碎念汉堡 ｜直男谢谢",
+        "id": "1757105459356704768",
+        "location": "浙江",
+        "name": "双层哈吉汉堡",
+        "pinned_tweet_id": "1896800238901621056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901283802871459841/aMHVS5dE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 187,
+          "like_count": 961,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1450
+        },
+        "username": "lingopark21",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T18:15:30.000Z",
+        "description": "一些自己的碎碎念\ninfp-t/swich/brat",
+        "id": "1621210536393465857",
+        "location": "中国",
+        "name": "新x",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803019628245131264/GrOjRw82_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 42,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 178
+        },
+        "username": "TF13230828192",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "1982473337281609788",
+    "created_at": "2025-10-28T00:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T01:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982962570467393824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779747754216198144",
+          "start": 0,
+          "username": "Mercury_97z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982962570467393824",
+    "in_reply_to_user_id": "1779747754216198144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982473337281609788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercury_97z 好酷！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1982473317245194241",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G4Mo-nsXEAE4e3R.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G4Mo-nsXEAE4e3R.mp4"
+          }
+        ],
+        "width": 358
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "1982473337281609788",
+        "created_at": "2025-10-28T00:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T01:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982962570467393824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779747754216198144",
+              "start": 0,
+              "username": "Mercury_97z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982962570467393824",
+        "in_reply_to_user_id": "1779747754216198144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982473337281609788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercury_97z 好酷！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1982473317245194241"
+          ]
+        },
+        "author_id": "1779747754216198144",
+        "conversation_id": "1982473337281609788",
+        "created_at": "2025-10-26T15:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982473337281609788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b4uEN3l3x8",
+              "end": 26,
+              "expanded_url": "https://x.com/Mercury_97z/status/1982473337281609788/photo/1",
+              "media_key": "16_1982473317245194241",
+              "start": 3,
+              "url": "https://t.co/b4uEN3l3x8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982473337281609788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 923,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "瘫… https://t.co/b4uEN3l3x8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我是男的丨infp丨可以叫我椰子丨西音 摇滚 术力口丨舞萌 任天堂 Persona 锈湖 星露谷 极乐迪斯科 弹丸 南园 等丨查成分后会互fo",
+        "id": "1036167674470879232",
+        "location": "总有一天我会回到你身边",
+        "name": "绝望的m",
+        "pinned_tweet_id": "1919268111250821273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121775363211272/zx8ZMuK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 61,
+          "like_count": 1135,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 282
+        },
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T05:45:24.000Z",
+        "description": "爱蓝色/双/超爱动漫/热爱美好肉体和有趣的帖子/爱互动/听得杂/看得杂/人有点乱七八糟",
+        "id": "1779747754216198144",
+        "name": "咩咩",
+        "pinned_tweet_id": "1966192177559777694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790982641937944576/nlVtuUmU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 942,
+          "like_count": 23576,
+          "listed_count": 3,
+          "media_count": 389,
+          "tweet_count": 3496
+        },
+        "username": "Mercury_97z",
+        "verified": false
+      }
+    ]
+  }
+}

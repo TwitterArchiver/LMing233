@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1036167674470879232",
+    "conversation_id": "2091180363200725416",
+    "created_at": "2026-08-22T15:07:05.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T16:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091180363200725416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964331185590718464",
+          "start": 3,
+          "username": "breakcoreWTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091180363200725416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091106088372281848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @breakcoreWTF: 好想和你们这群家里一大堆药的人同居然后互相当看护啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2091180363200725416",
+        "created_at": "2026-08-22T15:07:05.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091180363200725416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964331185590718464",
+              "start": 3,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091180363200725416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091106088372281848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @breakcoreWTF: 好想和你们这群家里一大堆药的人同居然后互相当看护啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2091106088372281848",
+        "created_at": "2026-08-22T10:11:56.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091106088372281848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091106088372281848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想和你们这群家里一大堆药的人同居然后互相当看护啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子 一个乐子餐券弟 精神病 我割我o 喜欢会直fo 不和健全b互fo\n家妻 @naariisaawaa_19",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "naariisaawaa_19"
+              }
+            ]
+          }
+        },
+        "id": "1036167674470879232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091180363200725416",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "2080490232533909885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1036167674470879232/1779239454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 239,
+          "like_count": 2280,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "LMing233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2091179750043828636",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 800,
+          "like_count": 41675,
+          "listed_count": 0,
+          "media_count": 423,
+          "tweet_count": 7449
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

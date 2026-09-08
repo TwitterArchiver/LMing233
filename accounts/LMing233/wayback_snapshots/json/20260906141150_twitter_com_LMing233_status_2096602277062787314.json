@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096602164357627904"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "2096602277062787314",
+    "created_at": "2026-09-06T14:11:50.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096602277062787314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m87X067YxR",
+          "end": 23,
+          "expanded_url": "https://x.com/LMing233/status/2096602277062787314/photo/1",
+          "media_key": "3_2096602164357627904",
+          "start": 0,
+          "url": "https://t.co/m87X067YxR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096602277062787314",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2096602164357627904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/m87X067YxR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096602164357627904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRigj2naAAAcYlD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096602164357627904"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "2096602277062787314",
+        "created_at": "2026-09-06T14:11:50.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096602277062787314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m87X067YxR",
+              "end": 23,
+              "expanded_url": "https://x.com/LMing233/status/2096602277062787314/photo/1",
+              "media_key": "3_2096602164357627904",
+              "start": 0,
+              "url": "https://t.co/m87X067YxR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096602277062787314",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096602164357627904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/m87X067YxR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子 一个乐子餐券弟 精神病 我割我o 喜欢会直fo 不和健全b互fo\n家妻 @naariisaawaa_19",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "naariisaawaa_19"
+              }
+            ]
+          }
+        },
+        "id": "1036167674470879232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096602277062787314",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "2080490232533909885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1036167674470879232/1779239454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 219,
+          "like_count": 2310,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "LMing233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

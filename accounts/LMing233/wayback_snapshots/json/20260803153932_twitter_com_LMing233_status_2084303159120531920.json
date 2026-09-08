@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084303132893560833"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084303159120531920",
+    "created_at": "2026-08-03T15:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084303159120531920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1493016356182056961",
+          "start": 1,
+          "username": "Mintink3"
+        },
+        {
+          "end": 22,
+          "id": "1939338058199191553",
+          "start": 11,
+          "username": "konakonalo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rKLPELADz3",
+          "end": 50,
+          "expanded_url": "https://x.com/LMing233/status/2084303159120531920/photo/1",
+          "media_key": "3_2084303132893560833",
+          "start": 27,
+          "url": "https://t.co/rKLPELADz3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084303159120531920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和@Mintink3 @konakonalo 面基了 https://t.co/rKLPELADz3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084303132893560833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzuqABawAEqK_F.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084303132893560833"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084303159120531920",
+        "created_at": "2026-08-03T15:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084303159120531920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1493016356182056961",
+              "start": 1,
+              "username": "Mintink3"
+            },
+            {
+              "end": 22,
+              "id": "1939338058199191553",
+              "start": 11,
+              "username": "konakonalo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rKLPELADz3",
+              "end": 50,
+              "expanded_url": "https://x.com/LMing233/status/2084303159120531920/photo/1",
+              "media_key": "3_2084303132893560833",
+              "start": 27,
+              "url": "https://t.co/rKLPELADz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084303159120531920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@Mintink3 @konakonalo 面基了 https://t.co/rKLPELADz3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子/infp/♂/餐券/我割我o/欢迎同类互fo/没回fo私信我（不要主页没东西的",
+        "id": "1036167674470879232",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "2080490232533909885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 176,
+          "like_count": 1863,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 288
+        },
+        "url": "",
+        "username": "LMing233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 788,
+          "like_count": 5829,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 906
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 290,
+          "like_count": 9145,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1178
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

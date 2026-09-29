@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100248405549404160"
+      ]
+    },
+    "author_id": "1036167674470879232",
+    "conversation_id": "2100248445013635439",
+    "created_at": "2026-09-16T15:40:24.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T16:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100248445013635439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VbwWyGDcK2",
+          "end": 61,
+          "expanded_url": "https://x.com/LMing233/status/2100248445013635439/photo/1",
+          "media_key": "3_2100248405549404160",
+          "start": 38,
+          "url": "https://t.co/VbwWyGDcK2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100248445013635439",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100248405549404160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我恶心的手臂\n这张图片展示了一种化妆特效 并没有宣传自伤行为，请注意甄别。 https://t.co/VbwWyGDcK2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100248405549404160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWUzBjaUAAZQoc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100248405549404160"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "2100248445013635439",
+        "created_at": "2026-09-16T15:40:24.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100248445013635439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VbwWyGDcK2",
+              "end": 61,
+              "expanded_url": "https://x.com/LMing233/status/2100248445013635439/photo/1",
+              "media_key": "3_2100248405549404160",
+              "start": 38,
+              "url": "https://t.co/VbwWyGDcK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100248445013635439",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100248405549404160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恶心的手臂\n这张图片展示了一种化妆特效 并没有宣传自伤行为，请注意甄别。 https://t.co/VbwWyGDcK2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子 一个乐子餐券弟 精神病 我割我o 喜欢会直fo 不和健全b互fo\n家妻 @naariisaawaa_19",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "naariisaawaa_19"
+              }
+            ]
+          }
+        },
+        "id": "1036167674470879232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100248445013635439",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "2080490232533909885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1036167674470879232/1779239454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 216,
+          "like_count": 2301,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "LMing233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
